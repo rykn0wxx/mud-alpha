@@ -1,0 +1,64 @@
+{
+  "name": "mud-alpha",
+  "version": "0.0.0",
+  "dependencies": {
+		"jquery": "^3.1.0",
+    "angular": "^1.4.0",
+    "bootstrap": "^3.2.0",
+    "angular-animate": "^1.4.0",
+    "angular-aria": "^1.4.0",
+    "angular-cookies": "^1.4.0",
+    "angular-messages": "^1.4.0",
+    "angular-resource": "^1.4.0",
+    "angular-route": "^1.4.0",
+    "angular-sanitize": "^1.4.0",
+    "angular-touch": "^1.4.0",
+		"ng-lodash": "0.5.0",
+		"d3": "^4.2.1",
+		"lodash": "^4.15.0",
+		"reveal.js": "^3.3.0",
+		"highcharts": "^4.2.6",
+		"font-awesome": "^4.6.3",
+		"angular-material": "^1.1.0"
+  },
+  "devDependencies": {
+    "angular-mocks": "^1.4.0",
+		"bootswatch": "^3.3.7",
+		"animate.css": "^3.5.2",
+		"hover": "Hover#^2.0.2"
+  },
+  "appPath": "app",
+  "moduleName": "mudAlphaApp",
+  "overrides": {
+    "bootstrap": {
+      "main": [
+        "dist/js/bootstrap.js"
+      ]
+    },
+		"reveal.js": {
+      "main": [
+        "css/reveal.css",
+        "css/theme/league.css",
+        "js/reveal.js"
+      ]
+    },
+		"font-awesome": {
+      "main": [
+        "css/font-awesome.css"
+      ]
+    },
+		"bootswatch": {
+			"main": [
+				"slate/bootstrap.css"
+			]
+		},
+		"highcharts": {
+      "main": [
+        "highcharts.js",
+        "highcharts-more.js",
+        "modules/data.js",
+        "modules/exporting.js"
+      ]
+    }
+  }
+}

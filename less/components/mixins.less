@@ -1,0 +1,51 @@
+/*********************************************
+ * Hacked: Mixins
+ *********************************************/
+.animate-me(@anim, @dur:1s) {
+	-webkit-animation: @anim @dur ease;
+	-moz-animation: @anim @dur ease;
+	-ms-animation: @anim @dur ease;
+	-o-animation: @anim @dur ease;
+	animation: @anim @dur ease;
+}
+
+
+.hardwareAccel() {
+	// Improve performance on mobile/tablet devices
+	.prefixed(transform, translateZ(0));
+}
+
+
+.fontSmooth() {
+	-webkit-backface-visibility: hidden;
+	backface-visibility: hidden;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.forceBlockLevel() {
+	// Transforms need to be block-level to work
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.hacks() {
+	.forceBlockLevel();
+	.hardwareAccel();
+	.fontSmooth();
+}
+
+.prefixed(@property, @value) {
+  & when (@webkit = true) {
+		-webkit-@{property}: @value;
+  }
+  & when (@moz = true) {
+		-moz-@{property}: @value;
+  }
+  & when (@ms = true) {
+		-ms-@{property}: @value;
+  }
+  & when (@o = true) {
+		-o-@{property}: @value;
+  }
+  @{property}: @value;
+}

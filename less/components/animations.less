@@ -1,0 +1,85 @@
+/*********************************************
+ * Hacked: Animations
+ *********************************************/
+.grow() {
+	.hacks();
+	.prefixed(transition-duration, @mediumDuration);
+	.prefixed(transition-property, transform);
+
+	&:hover,
+	&:focus,
+	&:active {
+		.prefixed(transform, scale(1.1));
+	}
+}
+
+@keyframes activate {
+  from {
+    opacity: 0;
+		transform:scale(.1);
+  }
+	
+	50% {
+		opacity: 0.5;
+	}
+
+  to {
+    opacity: 1;
+		transform:scale(1);
+  }
+}
+
+.fadeIn {
+  animation-name: fadeIn;
+}
+
+
+/* Underline From Center */
+.underline-from-center() {
+	@duration: @mediumDuration;
+
+	.hacks();
+	position: relative;
+	overflow: hidden;
+
+	&:before {
+		content: "";
+		position: absolute;
+		z-index: -1;
+		left: 50%;
+		right: 50%;
+		bottom: 0;
+		background: rgba(0,0,0,0.2);
+		height: 4px;
+		.prefixed(transition-property, "left, right");
+		.prefixed(transition-duration, @duration);
+		.prefixed(transition-timing-function, ease-out);
+	}
+
+	&:hover,
+	&:focus,
+	&:active {
+
+		&:before {
+			left: 0;
+			right: 0;
+		}
+	}
+}
+
+/* Glow */
+.glow() {
+	.hacks();
+	.prefixed(transition-duration, @mediumDuration);
+	.prefixed(transition-property, box-shadow);
+	.prefixed(transition-property, filter);
+	transition: all @mediumDuration ease-in-out;
+	&:hover,
+	&:focus,
+	&:active {
+		box-shadow: 0 0 5px rgba(0,0,0,.18),
+			0 4px 8px rgba(0,0,0,.36);
+		//box-shadow: 0px 3px 5px -1px rgba(0, 0, 0, 0.2), 0px 5px 8px 0px rgba(0, 0, 0, 0.14), 0px 1px 14px 0px rgba(0, 0, 0, 0.12);
+		//box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.38);
+	}
+}

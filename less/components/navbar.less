@@ -1,0 +1,29 @@
+/*********************************************
+ * Hacked: Navbar
+ *********************************************/
+
+md-content.md-padding {
+	padding: 5px 8px;
+}
+ 
+md-nav-bar {
+	.md-nav-bar {
+		height: 40px;
+		border-color: rgba(0,0,0,0);
+	}
+	.md-button {
+		&._md-nav-button {
+			padding: 5px 12px;
+			&.md-active {
+				box-shadow: inset 0 -3px 1px 0 rgba(0, 0, 0, 0.2);
+			}
+		}
+	}
+	.md-nav-item {
+		
+		&:hover .md-button {
+			-webkit-box-shadow: 0 0 14px 0 rgba(0, 0, 0, 0.38);
+			box-shadow: 0 0 14px 0 rgba(0, 0, 0, 0.38);
+		}
+	}
+}

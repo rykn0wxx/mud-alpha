@@ -1,0 +1,48 @@
+/*********************************************
+ * Hacked: Card
+ *********************************************/
+ 
+md-card {
+	&.mg1 {
+		margin: 1px;
+	}
+	&.mg2 {
+		margin: 2px;
+	}
+	&.mg3 {
+		margin: 3px;
+	}
+	.underline-from-center();
+	.shadow-3dp();
+	.glow();
+	md-card-title {
+		padding-top: 10px;
+		padding-bottom: 10px;
+		 md-card-title-media {
+			margin-top: 0;
+			margin-right: 15px;
+			.md-media-sm,
+			.img-sm {
+				height: 70px;
+				width: 70px;
+			}
+			.img-sm {
+				filter: grayscale(0.5);
+			}
+		}
+	}
+	> img {
+		border: 1px solid rgba(0,0,0,0.1);
+		filter: blur(1px) sepia(0.5);
+	}
+	&:hover > img {
+		filter: none;
+	}
+	.md-card-image-xx {
+		height: 150px;
+		width: 100%;
+	}
+	.btn-card {
+		position: absolute;
+	}
+}

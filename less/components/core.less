@@ -1,0 +1,79 @@
+/*********************************************
+ * Hacked: Core
+ *********************************************/
+* {
+  .box-sizing(border-box);
+}
+*:before,
+*:after {
+  .box-sizing(border-box);
+}
+
+
+// Body reset
+
+html {
+  font-size: 10px;
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+
+body {
+  background: @body-bg;
+	margin: 0;
+	padding: 0;
+	display: block;
+	border: 0px solid rgba(0,0,0,0);
+}
+.container {
+  padding: 0;
+}
+.wrapper {
+	.clearfix();
+	max-height: 100%;
+	position: relative;
+	overflow: hidden;
+}
+ 
+.fa {
+	transform: translate(0, 0);
+}
+
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+  display: none !important;
+}
+
+.ng-enter {
+	> .rows {
+		display: none;
+	}
+}
+.rows {
+	.animate-me(activate, 1s);
+}
+.ng-leave {
+	> .rows {
+		.animate-me(remove, 1s);
+	}
+}
+
+.layout-padding, 
+.layout-padding > * {
+	padding: 5px 8px;
+}
+
+@media (min-width: 960px) {
+  .md-padding {
+    padding: 10px 10px 20px 10px;
+	} 
+}
+
+.rows-lowered {
+	padding-bottom: 0;
+}
+.rows-raised {
+	padding-top: 0;
+}
+
+md-tooltip .md-content {
+	background: rgba(0,0,0,0.8);
+}

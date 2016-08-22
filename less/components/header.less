@@ -1,0 +1,22 @@
+/*********************************************
+ * Hacked: Header
+ *********************************************/
+.main-header {  
+	display: block;
+	width: 100%;
+	padding: 0;
+	> .navbar {
+    .transition(margin-left @transition-speed @transition-fn);
+    margin: 0;
+    border: none;
+    min-height: @navbar-height;
+    border-radius: 0;
+  }
+}
+.navbar-header {
+  &:extend(.clearfix all);
+
+  @media (min-width: @grid-float-breakpoint) {
+    float: left;
+  }
+}

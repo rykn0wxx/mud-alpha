@@ -1,0 +1,99 @@
+/*********************************************
+ * Hacked: Button
+ *********************************************/
+
+.btn-floating-action {
+  width: 44px;
+  height: 44px;
+  border-radius: 999px !important;
+  padding: 0;
+	border: 1px solid rgba(0,0,0,0);
+  // -webkit-box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.33);
+  // box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.33);
+  // -webkit-transition: -webkit-box-shadow 0.15s ease-out;
+  // -moz-transition: -moz-box-shadow 0.15s ease-out;
+  // -o-transition: -o-box-shadow 0.15s ease-out;
+  transition: all 0.5s ease-in-out;
+	.fa, .md {
+		top: 0;
+		margin: 0;
+		transform: translate(0, 0);
+		line-height: 42px;
+	}
+	&:hover, &:active, &.active {
+		-webkit-box-shadow: 0 8px 14px 0 rgba(0, 0, 0, 0.38);
+		box-shadow: 0 8px 14px 0 rgba(0, 0, 0, 0.38);
+	}
+}
+
+button {
+	&.fa {
+		transform: translate(0, -10px);
+	}
+}
+
+.navbar-collapse {
+	> .md-button {
+		min-height: 26px;
+		min-width: 50px;
+	}
+}
+
+.md-button:before, .md-button:after {
+	content: ' ';
+}
+.md-button:after {
+	clear: both;
+}
+.btn-floating-action {
+	&.btn-lg {
+		width: 56px; 
+		height: 56px;
+		> .fa {
+			transform: translate(0, 0);
+			line-height: 54px;
+			font-size: 1.3em;
+		}
+	}
+	&.btn-md {
+		width: 36px; 
+		height: 36px;
+		> .fa {
+			transform: translate(0, -35%);
+			line-height: 24px;
+			font-size: 1.2em;
+		}
+	}
+	&.btn-sm {
+		width: 24px; 
+		height: 24px;
+		> .fa {
+			transform: translate(0, -50%);
+			line-height: 20px;
+			font-size: 1.1em;
+		}
+	}
+	&.btn-xs {
+		width: 18px; 
+		height: 18px;
+		> .fa {
+			transform: translate(0, -60%);
+			line-height: 16px;
+			font-size: 1em;
+		}
+	}
+}
+.navbar-btn {
+  &.btn-sm {
+		margin-top: 5px;
+		margin-bottom: 5px; 
+  }
+  &.btn-xs {
+		margin-top: 5px;
+		margin-bottom: 5px; 
+  }
+}
+
+@media (min-width: @screen-sm-min) {
+
+}
