@@ -17,13 +17,9 @@ angular
     'ngResource',
     'ngRoute',
     'ngSanitize',
-    'ngTouch',
 		'ngMaterial'
   ])
-  .config(function ($routeProvider, $mdThemingProvider, $mdIconProvider) {
-		$mdIconProvider
-			.defaultFontSet('fa')
-			.defaultIconSet('images/fonts/fontawesome-webfont.svg');
+  .config(function ($routeProvider, $mdThemingProvider) {
 		
 		$mdThemingProvider.theme('default')
 			.primaryPalette('light-blue')

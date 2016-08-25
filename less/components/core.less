@@ -77,3 +77,27 @@ body {
 md-tooltip .md-content {
 	background: rgba(0,0,0,0.8);
 }
+
+._md-nav-bar-list {
+	transition: all 0.5s ease-in-out;
+}
+
+/* Page Header */
+.page-header {
+  margin: 20px 0;
+  font-size: 22px;
+  font-weight: 700;
+  transition: all 0.5s ease-in-out;
+  > small {
+    color: #666;
+    display: block;
+    margin-top: 5px;
+  }
+  h1, h2, h3, h4 {
+	  margin: 0;
+	  padding: 10px 15px 0 15px;
+	}
+	&:hover {
+		.shadow-8dp();
+	}
+}
