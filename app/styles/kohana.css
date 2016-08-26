@@ -179,8 +179,39 @@ td,
 th {
   padding: 0;
 }
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lato Regular'), local('Lato-Regular'), url('../fonts/lato-400.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Lato Bold'), local('Lato-Bold'), url('../fonts/lato-700.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Lato Italic'), local('Lato-Italic'), url('../fonts/lato-400-i.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Lato Bold Italic'), local('Lato-BoldItalic'), url('../fonts/lato-700-i.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
 /*********************************************
  * Hacked: Mixins
+ *********************************************/
+/*********************************************
+ * Hacked: Gradient
  *********************************************/
 /*********************************************
  * Hacked: Material Colors
@@ -1947,10 +1978,25 @@ input[type="button"].btn-block {
 /*********************************************
  * Hacked: Animations
  *********************************************/
+@keyframes remove {
+  from {
+    opacity: 1;
+    transform: scale(1);
+  }
+  20% {
+    opacity: 0.5;
+  }
+  to {
+    opacity: 0;
+    transform: scale(0.5);
+    display: none;
+  }
+}
 @keyframes activate {
   from {
     opacity: 0;
     transform: scale(0.1);
+    display: none;
   }
   50% {
     opacity: 0.5;
@@ -1958,6 +2004,7 @@ input[type="button"].btn-block {
   to {
     opacity: 1;
     transform: scale(1);
+    display: block !important;
   }
 }
 .fadeIn {
@@ -2017,6 +2064,29 @@ body {
 }
 .wrapper:after {
   clear: both;
+}
+.logging .wrapper,
+.logging .content-wrapper,
+.logging .content {
+  height: 100%;
+}
+input[type=text],
+textarea {
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -ms-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  outline: none;
+  padding: 3px 0px 3px 3px;
+  margin: 5px 1px 3px 0px;
+  border: 1px solid #DDDDDD;
+}
+input[type=text]:focus,
+textarea:focus {
+  box-shadow: 0 0 5px #51cbee;
+  padding: 3px 0px 3px 3px;
+  margin: 5px 1px 3px 0px;
+  border: 1px solid #51cbee;
 }
 .fa {
   transform: translate(0, 0);
@@ -2088,6 +2158,137 @@ md-tooltip .md-content {
 }
 .page-header:hover {
   box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.2);
+}
+/*********************************************
+ * Hacked: Login page styles
+ *********************************************/
+.blur-img {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  background-color: #666;
+  background-image: url('../images/001.jpg');
+  background-size: 100% 100%;
+}
+.blur-img::before {
+  display: block;
+  min-width: 100%;
+  height: 100%;
+  background-image: url('../images/001.jpg');
+  background-size: 100% 100%;
+  content: ' ';
+  -webkit-filter: blur(2px);
+  -moz-filter: blur(2px);
+  -ms-filter: blur(2px);
+  -o-filter: blur(2px);
+  filter: blur(2px);
+}
+.avgrund-cover {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  visibility: hidden;
+  opacity: 0;
+  background: rgba(0, 0, 0, 0.5), rgba(227, 242, 253, 0.5);
+}
+.avgrund-contents {
+  position: absolute;
+  min-height: 100%;
+  min-width: 100%;
+  margin: 0;
+}
+.avgrund-contents:after {
+  clear: both;
+}
+.avgrund-popup {
+  position: relative;
+  width: 340px;
+  height: 130px;
+  left: 0;
+  top: -80%;
+  visibility: hidden;
+  opacity: 0;
+  z-index: 2;
+  padding: 20px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.18), 0 8px 16px rgba(0, 0, 0, 0.36), 0px 0px 20px rgba(0, 0, 0, 0.6);
+  border-radius: 3px;
+  -webkit-transform: scale(0.8);
+  -moz-transform: scale(0.8);
+  -ms-transform: scale(0.8);
+  -o-transform: scale(0.8);
+  transform: scale(0.8);
+}
+.avgrund-active {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+.avgrund-active h2 {
+  font-size: 30px;
+  line-height: 30px;
+  font-weight: 700;
+}
+.avgrund-active .avgrund-cover {
+  visibility: visible;
+  opacity: 1;
+}
+.avgrund-active .avgrund-contents {
+  position: relative;
+  max-width: 400px;
+  height: 100%;
+  margin: auto;
+  -webkit-filter: blur(2px) grayscale(0.5);
+  -moz-filter: blur(2px) grayscale(0.5);
+  -ms-filter: blur(2px) grayscale(0.5);
+  -o-filter: blur(2px) grayscale(0.5);
+  filter: blur(2px) grayscale(0.5);
+}
+.avgrund-active .avgrund-popup {
+  min-width: 440px;
+  height: auto;
+  visibility: visible;
+  opacity: 1;
+  margin-right: auto;
+  margin-left: auto;
+  background-image: -moz-linear-gradient(90deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.4), rgba(69, 90, 100, 0.5));
+  background-image: -webkit-linear-gradient(90deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.4), rgba(69, 90, 100, 0.5));
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.4), rgba(69, 90, 100, 0.5));
+  -webkit-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  -o-transform: scale(1.1);
+  transform: scale(1.1);
+}
+.avgrund-active .avgrund-contents,
+.avgrund-active .avgrund-popup,
+.avgrund-active .avgrund-cover {
+  -webkit-transform-origin: 50% 50%;
+  -moz-transform-origin: 50% 50%;
+  -ms-transform-origin: 50% 50%;
+  -o-transform-origin: 50% 50%;
+  transform-origin: 50% 50%;
+  -webkit-transition: 0.3s all cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  -moz-transition: 0.3s all cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  -ms-transition: 0.3s all cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  -o-transition: 0.3s all cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  transition: 0.3s all cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+@-webkit-keyframes blackblur {
+  from {
+    text-shadow: 0 0 72px rgba(0, 0, 0, 0.8);
+    color: rgba(0, 0, 0, 0.01);
+  }
+  to {
+    text-shadow: 0;
+  }
+}
+.zzz .blackblur {
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+  -webkit-animation: blackblur 2s 0.1s  1 alternate;
 }
 /*********************************************
  * Hacked: Header
@@ -2423,6 +2624,7 @@ mud-boxes:after {
 }
 mud-boxes:hover {
   text-decoration: none !important;
+  outline: 0;
 }
 mud-boxes .info-box {
   display: block;

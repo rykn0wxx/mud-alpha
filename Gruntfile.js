@@ -120,6 +120,10 @@ module.exports = function (grunt) {
                 connect.static('./less')
               ),
               connect().use(
+                '/app/fonts',
+                connect.static('./app/fonts')
+              ),
+              connect().use(
                 '/app/styles',
                 connect.static('./app/styles')
               ),
@@ -414,6 +418,7 @@ module.exports = function (grunt) {
             '*.{ico,png,txt}',
             '*.html',
             'images/{,*/}*.{webp}',
+            'fonts/{,*/}*.*',
             'styles/fonts/{,*/}*.*'
           ]
         }, {
@@ -528,7 +533,7 @@ module.exports = function (grunt) {
     'concat',
     'ngAnnotate',
     'copy:dist',
-    'cdnify',
+    //'cdnify',
     'cssmin',
     'uglify',
     'filerev',

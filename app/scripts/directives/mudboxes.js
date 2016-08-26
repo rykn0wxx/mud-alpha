@@ -41,7 +41,7 @@ angular.module('mudAlphaApp')
 	me.$s = $s;
 	$s.mudMdColor = '';
 	me.formatMdColor = function() {
-		$s.mudMdColor = "::{backgroundColor: '" + $s.mudColor + "'}";
+		$s.mudMdColor = '::{backgroundColor: "' + $s.mudColor + '"}';
 	};
-	console.log(me.$s);
+
 }]);

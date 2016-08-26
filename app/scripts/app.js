@@ -1,4 +1,4 @@
-'use strict';
+  'use strict';
 
 /**
  * @ngdoc overview
@@ -19,7 +19,7 @@ angular
     'ngSanitize',
 		'ngMaterial'
   ])
-  .config(function ($routeProvider, $mdThemingProvider) {
+  .config(['$routeProvider', '$mdThemingProvider', function ($routeProvider, $mdThemingProvider) {
 		
 		$mdThemingProvider.theme('default')
 			.primaryPalette('light-blue')
@@ -44,10 +44,21 @@ angular
         controller: 'EntryCtrl',
         controllerAs: 'entry'
       })
+      .when('/login', {
+        templateUrl: 'views/login.html',
+        controller: 'LoginCtrl',
+        controllerAs: 'login'
+      })
+      .when('/', {
+        templateUrl: 'views/entry.html',
+        controller: 'EntryCtrl',
+        controllerAs: 'entry'
+      })
       .otherwise({
-        redirectTo: '/entry'
+        redirectTo: '/'
       });
-  })
+
+  }])
 	.run(function($templateRequest){
 		var urls = [ 'images/fonts/fontawesome-webfont.svg'];
 		angular.forEach(urls, function(url) {
