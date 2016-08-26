@@ -15,5 +15,13 @@ angular.module('mudAlphaApp')
 	Datangular.getProjectList().then(function(data) {
 		me.data = data;
 	});
+
+	Datangular.readSlaData().then(function(response) {
+		me.csv1 = Datangular.genReportFields(response);
+	});
 	
+	Datangular.readAllSlaData().then(function(data) {
+		me.csv2 = data;
+	});
+		
 }]);

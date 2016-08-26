@@ -237,7 +237,7 @@ body {
   font-size: 14px;
   line-height: 20px;
   color: #212121;
-  background-color: #bbdefb;
+  background-color: #F2F3F4;
 }
 input,
 button,
@@ -277,8 +277,8 @@ img {
 .img-thumbnail {
   padding: 4px;
   line-height: 20px;
-  background-color: #a3d2fa;
-  border: 1px solid #81c2f8;
+  background-color: #e4e6e8;
+  border: 1px solid #d1d4d8;
   border-radius: 4px;
   -webkit-transition: all 0.2s ease-in-out;
   -o-transition: all 0.2s ease-in-out;
@@ -2021,6 +2021,50 @@ input[type="button"].btn-block {
 }
 /* Underline From Center */
 /* Glow */
+@-webkit-keyframes bg-moving {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+@-moz-keyframes bg-moving {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+@-o-keyframes bg-moving {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+@keyframes bg-moving {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
 /*********************************************
  * Hacked: Shadows
  *********************************************/
@@ -2065,6 +2109,14 @@ body {
   top: 0;
   left: 0;
   height: 100%;
+  background: #F2F3F4;
+  color: #212121;
+  background: linear-gradient(270deg, #eaf2f8, #d5f5e3, #fadbd8);
+  background-size: 150% 150%;
+  -webkit-animation: bg-moving 30s ease infinite;
+  -moz-animation: bg-moving 30s ease infinite;
+  -o-animation: bg-moving 30s ease infinite;
+  animation: bg-moving 30s ease infinite;
 }
 .container {
   padding: 0;
@@ -2554,6 +2606,7 @@ mud-boxes {
   vertical-align: middle;
   cursor: pointer;
   min-width: 300px;
+  color: #EBF5FB;
 }
 mud-boxes:before,
 mud-boxes:after {
@@ -2610,6 +2663,7 @@ mud-boxes .info-box-icon {
   border-top-right-radius: 0;
   border-bottom-right-radius: 0;
   border-bottom-left-radius: 2px;
+  color: #D5D8DC;
   display: block;
   float: left;
   height: 90px;
@@ -2625,6 +2679,7 @@ mud-boxes .info-box-icon > img {
 mud-boxes .info-box-content {
   padding: 5px 10px;
   margin-left: 90px;
+  color: #EBF5FB;
 }
 mud-boxes .info-box-number {
   display: block;

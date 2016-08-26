@@ -1,0 +1,3121 @@
+projID,projectName,metricName,reportingMonth,totalVolume,achieveVolume,metricPerformance
+acosta,Acosta_ServiceDesk,Abandon Rate,1/1/2015,856,952,0.90
+acosta,Acosta_ServiceDesk,Abandon Rate,2/1/2015,228,884,0.26
+acosta,Acosta_ServiceDesk,Abandon Rate,3/1/2015,248,974,0.25
+acosta,Acosta_ServiceDesk,Abandon Rate,4/1/2015,638,927,0.69
+acosta,Acosta_ServiceDesk,Abandon Rate,5/1/2015,502,633,0.79
+acosta,Acosta_ServiceDesk,Abandon Rate,6/1/2015,388,821,0.47
+acosta,Acosta_ServiceDesk,Abandon Rate,7/1/2015,991,994,1.00
+acosta,Acosta_ServiceDesk,Abandon Rate,8/1/2015,527,848,0.62
+acosta,Acosta_ServiceDesk,Abandon Rate,9/1/2015,46,861,0.05
+acosta,Acosta_ServiceDesk,Abandon Rate,10/1/2015,566,983,0.58
+acosta,Acosta_ServiceDesk,Abandon Rate,11/1/2015,135,308,0.44
+acosta,Acosta_ServiceDesk,Abandon Rate,12/1/2015,59,120,0.49
+acosta,Acosta_ServiceDesk,Abandon Rate,1/1/2016,791,976,0.81
+acosta,Acosta_ServiceDesk,Abandon Rate,2/1/2016,942,971,0.97
+acosta,Acosta_ServiceDesk,Abandon Rate,3/1/2016,447,782,0.57
+acosta,Acosta_ServiceDesk,Abandon Rate,4/1/2016,788,994,0.79
+acosta,Acosta_ServiceDesk,Abandon Rate,5/1/2016,419,648,0.65
+acosta,Acosta_ServiceDesk,Abandon Rate,6/1/2016,306,583,0.52
+acosta,Acosta_ServiceDesk,Abandon Rate,7/1/2016,553,765,0.72
+acosta,Acosta_ServiceDesk,Abandon Rate,8/1/2016,108,144,0.75
+acosta,Acosta_ServiceDesk,Average Handle Time,1/1/2015,548,818,683.00
+acosta,Acosta_ServiceDesk,Average Handle Time,2/1/2015,540,877,708.50
+acosta,Acosta_ServiceDesk,Average Handle Time,3/1/2015,677,746,711.50
+acosta,Acosta_ServiceDesk,Average Handle Time,4/1/2015,851,858,854.50
+acosta,Acosta_ServiceDesk,Average Handle Time,5/1/2015,641,991,816.00
+acosta,Acosta_ServiceDesk,Average Handle Time,6/1/2015,46,206,126.00
+acosta,Acosta_ServiceDesk,Average Handle Time,7/1/2015,978,1000,989.00
+acosta,Acosta_ServiceDesk,Average Handle Time,8/1/2015,474,609,541.50
+acosta,Acosta_ServiceDesk,Average Handle Time,9/1/2015,819,939,879.00
+acosta,Acosta_ServiceDesk,Average Handle Time,10/1/2015,108,522,315.00
+acosta,Acosta_ServiceDesk,Average Handle Time,11/1/2015,411,948,679.50
+acosta,Acosta_ServiceDesk,Average Handle Time,12/1/2015,887,925,906.00
+acosta,Acosta_ServiceDesk,Average Handle Time,1/1/2016,650,757,703.50
+acosta,Acosta_ServiceDesk,Average Handle Time,2/1/2016,55,147,101.00
+acosta,Acosta_ServiceDesk,Average Handle Time,3/1/2016,714,975,844.50
+acosta,Acosta_ServiceDesk,Average Handle Time,4/1/2016,747,775,761.00
+acosta,Acosta_ServiceDesk,Average Handle Time,5/1/2016,3,909,456.00
+acosta,Acosta_ServiceDesk,Average Handle Time,6/1/2016,382,546,464.00
+acosta,Acosta_ServiceDesk,Average Handle Time,7/1/2016,694,881,787.50
+acosta,Acosta_ServiceDesk,Average Handle Time,8/1/2016,150,356,253.00
+acosta,Acosta_ServiceDesk,Average Hold Time,1/1/2015,930,967,948.50
+acosta,Acosta_ServiceDesk,Average Hold Time,2/1/2015,922,931,926.50
+acosta,Acosta_ServiceDesk,Average Hold Time,3/1/2015,523,701,612.00
+acosta,Acosta_ServiceDesk,Average Hold Time,4/1/2015,64,409,236.50
+acosta,Acosta_ServiceDesk,Average Hold Time,5/1/2015,624,809,716.50
+acosta,Acosta_ServiceDesk,Average Hold Time,6/1/2015,95,583,339.00
+acosta,Acosta_ServiceDesk,Average Hold Time,7/1/2015,983,990,986.50
+acosta,Acosta_ServiceDesk,Average Hold Time,8/1/2015,78,977,527.50
+acosta,Acosta_ServiceDesk,Average Hold Time,9/1/2015,965,986,975.50
+acosta,Acosta_ServiceDesk,Average Hold Time,10/1/2015,767,976,871.50
+acosta,Acosta_ServiceDesk,Average Hold Time,11/1/2015,698,844,771.00
+acosta,Acosta_ServiceDesk,Average Hold Time,12/1/2015,289,538,413.50
+acosta,Acosta_ServiceDesk,Average Hold Time,1/1/2016,389,609,499.00
+acosta,Acosta_ServiceDesk,Average Hold Time,2/1/2016,654,973,813.50
+acosta,Acosta_ServiceDesk,Average Hold Time,3/1/2016,361,871,616.00
+acosta,Acosta_ServiceDesk,Average Hold Time,4/1/2016,611,736,673.50
+acosta,Acosta_ServiceDesk,Average Hold Time,5/1/2016,371,950,660.50
+acosta,Acosta_ServiceDesk,Average Hold Time,6/1/2016,36,829,432.50
+acosta,Acosta_ServiceDesk,Average Hold Time,7/1/2016,569,782,675.50
+acosta,Acosta_ServiceDesk,Average Hold Time,8/1/2016,401,600,500.50
+acosta,Acosta_ServiceDesk,Average Speed to Answer,1/1/2015,494,608,551.00
+acosta,Acosta_ServiceDesk,Average Speed to Answer,2/1/2015,372,455,413.50
+acosta,Acosta_ServiceDesk,Average Speed to Answer,3/1/2015,710,891,800.50
+acosta,Acosta_ServiceDesk,Average Speed to Answer,4/1/2015,523,993,758.00
+acosta,Acosta_ServiceDesk,Average Speed to Answer,5/1/2015,66,412,239.00
+acosta,Acosta_ServiceDesk,Average Speed to Answer,6/1/2015,455,900,677.50
+acosta,Acosta_ServiceDesk,Average Speed to Answer,7/1/2015,778,915,846.50
+acosta,Acosta_ServiceDesk,Average Speed to Answer,8/1/2015,817,979,898.00
+acosta,Acosta_ServiceDesk,Average Speed to Answer,9/1/2015,1000,1000,1000.00
+acosta,Acosta_ServiceDesk,Average Speed to Answer,10/1/2015,157,358,257.50
+acosta,Acosta_ServiceDesk,Average Speed to Answer,11/1/2015,504,943,723.50
+acosta,Acosta_ServiceDesk,Average Speed to Answer,12/1/2015,239,963,601.00
+acosta,Acosta_ServiceDesk,Average Speed to Answer,1/1/2016,33,879,456.00
+acosta,Acosta_ServiceDesk,Average Speed to Answer,2/1/2016,365,997,681.00
+acosta,Acosta_ServiceDesk,Average Speed to Answer,3/1/2016,495,497,496.00
+acosta,Acosta_ServiceDesk,Average Speed to Answer,4/1/2016,664,983,823.50
+acosta,Acosta_ServiceDesk,Average Speed to Answer,5/1/2016,66,326,196.00
+acosta,Acosta_ServiceDesk,Average Speed to Answer,6/1/2016,44,877,460.50
+acosta,Acosta_ServiceDesk,Average Speed to Answer,7/1/2016,136,959,547.50
+acosta,Acosta_ServiceDesk,Average Speed to Answer,8/1/2016,835,960,897.50
+acosta,Acosta_ServiceDesk,Average Talk Time,1/1/2015,124,658,391.00
+acosta,Acosta_ServiceDesk,Average Talk Time,2/1/2015,292,898,595.00
+acosta,Acosta_ServiceDesk,Average Talk Time,3/1/2015,20,999,509.50
+acosta,Acosta_ServiceDesk,Average Talk Time,4/1/2015,759,763,761.00
+acosta,Acosta_ServiceDesk,Average Talk Time,5/1/2015,573,717,645.00
+acosta,Acosta_ServiceDesk,Average Talk Time,6/1/2015,928,934,931.00
+acosta,Acosta_ServiceDesk,Average Talk Time,7/1/2015,402,850,626.00
+acosta,Acosta_ServiceDesk,Average Talk Time,8/1/2015,322,742,532.00
+acosta,Acosta_ServiceDesk,Average Talk Time,9/1/2015,346,465,405.50
+acosta,Acosta_ServiceDesk,Average Talk Time,10/1/2015,447,610,528.50
+acosta,Acosta_ServiceDesk,Average Talk Time,11/1/2015,966,972,969.00
+acosta,Acosta_ServiceDesk,Average Talk Time,12/1/2015,327,627,477.00
+acosta,Acosta_ServiceDesk,Average Talk Time,1/1/2016,406,886,646.00
+acosta,Acosta_ServiceDesk,Average Talk Time,2/1/2016,141,142,141.50
+acosta,Acosta_ServiceDesk,Average Talk Time,3/1/2016,987,992,989.50
+acosta,Acosta_ServiceDesk,Average Talk Time,4/1/2016,492,554,523.00
+acosta,Acosta_ServiceDesk,Average Talk Time,5/1/2016,137,739,438.00
+acosta,Acosta_ServiceDesk,Average Talk Time,6/1/2016,808,964,886.00
+acosta,Acosta_ServiceDesk,Average Talk Time,7/1/2016,692,763,727.50
+acosta,Acosta_ServiceDesk,Average Talk Time,8/1/2016,875,910,892.50
+acosta,Acosta_ServiceDesk,Average Wrap Time,1/1/2015,759,974,866.50
+acosta,Acosta_ServiceDesk,Average Wrap Time,2/1/2015,794,935,864.50
+acosta,Acosta_ServiceDesk,Average Wrap Time,3/1/2015,451,656,553.50
+acosta,Acosta_ServiceDesk,Average Wrap Time,4/1/2015,274,528,401.00
+acosta,Acosta_ServiceDesk,Average Wrap Time,5/1/2015,528,778,653.00
+acosta,Acosta_ServiceDesk,Average Wrap Time,6/1/2015,617,945,781.00
+acosta,Acosta_ServiceDesk,Average Wrap Time,7/1/2015,594,854,724.00
+acosta,Acosta_ServiceDesk,Average Wrap Time,8/1/2015,372,898,635.00
+acosta,Acosta_ServiceDesk,Average Wrap Time,9/1/2015,962,973,967.50
+acosta,Acosta_ServiceDesk,Average Wrap Time,10/1/2015,639,678,658.50
+acosta,Acosta_ServiceDesk,Average Wrap Time,11/1/2015,725,875,800.00
+acosta,Acosta_ServiceDesk,Average Wrap Time,12/1/2015,505,843,674.00
+acosta,Acosta_ServiceDesk,Average Wrap Time,1/1/2016,788,876,832.00
+acosta,Acosta_ServiceDesk,Average Wrap Time,2/1/2016,24,346,185.00
+acosta,Acosta_ServiceDesk,Average Wrap Time,3/1/2016,187,238,212.50
+acosta,Acosta_ServiceDesk,Average Wrap Time,4/1/2016,324,940,632.00
+acosta,Acosta_ServiceDesk,Average Wrap Time,5/1/2016,635,909,772.00
+acosta,Acosta_ServiceDesk,Average Wrap Time,6/1/2016,203,295,249.00
+acosta,Acosta_ServiceDesk,Average Wrap Time,7/1/2016,636,734,685.00
+acosta,Acosta_ServiceDesk,Average Wrap Time,8/1/2016,520,641,580.50
+acosta,Acosta_ServiceDesk,Chat Service Level,1/1/2015,593,868,0.68
+acosta,Acosta_ServiceDesk,Chat Service Level,2/1/2015,670,920,0.73
+acosta,Acosta_ServiceDesk,Chat Service Level,3/1/2015,977,987,0.99
+acosta,Acosta_ServiceDesk,Chat Service Level,4/1/2015,441,455,0.97
+acosta,Acosta_ServiceDesk,Chat Service Level,5/1/2015,289,927,0.31
+acosta,Acosta_ServiceDesk,Chat Service Level,6/1/2015,657,720,0.91
+acosta,Acosta_ServiceDesk,Chat Service Level,7/1/2015,800,977,0.82
+acosta,Acosta_ServiceDesk,Chat Service Level,8/1/2015,674,862,0.78
+acosta,Acosta_ServiceDesk,Chat Service Level,9/1/2015,50,243,0.21
+acosta,Acosta_ServiceDesk,Chat Service Level,10/1/2015,269,308,0.87
+acosta,Acosta_ServiceDesk,Chat Service Level,11/1/2015,401,976,0.41
+acosta,Acosta_ServiceDesk,Chat Service Level,12/1/2015,55,697,0.08
+acosta,Acosta_ServiceDesk,Chat Service Level,1/1/2016,262,533,0.49
+acosta,Acosta_ServiceDesk,Chat Service Level,2/1/2016,475,630,0.75
+acosta,Acosta_ServiceDesk,Chat Service Level,3/1/2016,128,575,0.22
+acosta,Acosta_ServiceDesk,Chat Service Level,4/1/2016,857,967,0.89
+acosta,Acosta_ServiceDesk,Chat Service Level,5/1/2016,544,563,0.97
+acosta,Acosta_ServiceDesk,Chat Service Level,6/1/2016,427,889,0.48
+acosta,Acosta_ServiceDesk,Chat Service Level,7/1/2016,235,508,0.46
+acosta,Acosta_ServiceDesk,Chat Service Level,8/1/2016,926,975,0.95
+acosta,Acosta_ServiceDesk,First Call Closure,1/1/2015,618,730,0.85
+acosta,Acosta_ServiceDesk,First Call Closure,2/1/2015,932,977,0.95
+acosta,Acosta_ServiceDesk,First Call Closure,3/1/2015,896,991,0.90
+acosta,Acosta_ServiceDesk,First Call Closure,4/1/2015,980,986,0.99
+acosta,Acosta_ServiceDesk,First Call Closure,5/1/2015,357,742,0.48
+acosta,Acosta_ServiceDesk,First Call Closure,6/1/2015,606,810,0.75
+acosta,Acosta_ServiceDesk,First Call Closure,7/1/2015,189,452,0.42
+acosta,Acosta_ServiceDesk,First Call Closure,8/1/2015,890,971,0.92
+acosta,Acosta_ServiceDesk,First Call Closure,9/1/2015,743,938,0.79
+acosta,Acosta_ServiceDesk,First Call Closure,10/1/2015,4,989,0.00
+acosta,Acosta_ServiceDesk,First Call Closure,11/1/2015,737,844,0.87
+acosta,Acosta_ServiceDesk,First Call Closure,12/1/2015,684,953,0.72
+acosta,Acosta_ServiceDesk,First Call Closure,1/1/2016,944,959,0.98
+acosta,Acosta_ServiceDesk,First Call Closure,2/1/2016,171,302,0.57
+acosta,Acosta_ServiceDesk,First Call Closure,3/1/2016,423,932,0.45
+acosta,Acosta_ServiceDesk,First Call Closure,4/1/2016,512,942,0.54
+acosta,Acosta_ServiceDesk,First Call Closure,5/1/2016,446,907,0.49
+acosta,Acosta_ServiceDesk,First Call Closure,6/1/2016,104,878,0.12
+acosta,Acosta_ServiceDesk,First Call Closure,7/1/2016,233,771,0.30
+acosta,Acosta_ServiceDesk,First Call Closure,8/1/2016,820,994,0.82
+acosta,Acosta_ServiceDesk,First Tier Closure,1/1/2015,344,752,0.46
+acosta,Acosta_ServiceDesk,First Tier Closure,2/1/2015,598,617,0.97
+acosta,Acosta_ServiceDesk,First Tier Closure,3/1/2015,723,823,0.88
+acosta,Acosta_ServiceDesk,First Tier Closure,4/1/2015,140,844,0.17
+acosta,Acosta_ServiceDesk,First Tier Closure,5/1/2015,842,852,0.99
+acosta,Acosta_ServiceDesk,First Tier Closure,6/1/2015,839,893,0.94
+acosta,Acosta_ServiceDesk,First Tier Closure,7/1/2015,960,997,0.96
+acosta,Acosta_ServiceDesk,First Tier Closure,8/1/2015,643,961,0.67
+acosta,Acosta_ServiceDesk,First Tier Closure,9/1/2015,338,668,0.51
+acosta,Acosta_ServiceDesk,First Tier Closure,10/1/2015,435,550,0.79
+acosta,Acosta_ServiceDesk,First Tier Closure,11/1/2015,631,645,0.98
+acosta,Acosta_ServiceDesk,First Tier Closure,12/1/2015,946,987,0.96
+acosta,Acosta_ServiceDesk,First Tier Closure,1/1/2016,197,952,0.21
+acosta,Acosta_ServiceDesk,First Tier Closure,2/1/2016,150,814,0.18
+acosta,Acosta_ServiceDesk,First Tier Closure,3/1/2016,105,328,0.32
+acosta,Acosta_ServiceDesk,First Tier Closure,4/1/2016,752,754,1.00
+acosta,Acosta_ServiceDesk,First Tier Closure,5/1/2016,319,538,0.59
+acosta,Acosta_ServiceDesk,First Tier Closure,6/1/2016,445,846,0.53
+acosta,Acosta_ServiceDesk,First Tier Closure,7/1/2016,710,867,0.82
+acosta,Acosta_ServiceDesk,First Tier Closure,8/1/2016,270,644,0.42
+acosta,Acosta_ServiceDesk,Inbound Call Volume,1/1/2015,340,566,0.60
+acosta,Acosta_ServiceDesk,Inbound Call Volume,2/1/2015,345,399,0.86
+acosta,Acosta_ServiceDesk,Inbound Call Volume,3/1/2015,516,674,0.77
+acosta,Acosta_ServiceDesk,Inbound Call Volume,4/1/2015,9,106,0.08
+acosta,Acosta_ServiceDesk,Inbound Call Volume,5/1/2015,578,967,0.60
+acosta,Acosta_ServiceDesk,Inbound Call Volume,6/1/2015,346,979,0.35
+acosta,Acosta_ServiceDesk,Inbound Call Volume,7/1/2015,692,797,0.87
+acosta,Acosta_ServiceDesk,Inbound Call Volume,8/1/2015,728,926,0.79
+acosta,Acosta_ServiceDesk,Inbound Call Volume,9/1/2015,628,879,0.71
+acosta,Acosta_ServiceDesk,Inbound Call Volume,10/1/2015,927,939,0.99
+acosta,Acosta_ServiceDesk,Inbound Call Volume,11/1/2015,827,977,0.85
+acosta,Acosta_ServiceDesk,Inbound Call Volume,12/1/2015,773,933,0.83
+acosta,Acosta_ServiceDesk,Inbound Call Volume,1/1/2016,740,855,0.87
+acosta,Acosta_ServiceDesk,Inbound Call Volume,2/1/2016,610,902,0.68
+acosta,Acosta_ServiceDesk,Inbound Call Volume,3/1/2016,761,969,0.79
+acosta,Acosta_ServiceDesk,Inbound Call Volume,4/1/2016,988,994,0.99
+acosta,Acosta_ServiceDesk,Inbound Call Volume,5/1/2016,928,981,0.95
+acosta,Acosta_ServiceDesk,Inbound Call Volume,6/1/2016,584,883,0.66
+acosta,Acosta_ServiceDesk,Inbound Call Volume,7/1/2016,447,962,0.46
+acosta,Acosta_ServiceDesk,Inbound Call Volume,8/1/2016,85,550,0.15
+acosta,Acosta_ServiceDesk,Phone Service Level,1/1/2015,403,638,0.63
+acosta,Acosta_ServiceDesk,Phone Service Level,2/1/2015,86,95,0.91
+acosta,Acosta_ServiceDesk,Phone Service Level,3/1/2015,739,920,0.80
+acosta,Acosta_ServiceDesk,Phone Service Level,4/1/2015,491,661,0.74
+acosta,Acosta_ServiceDesk,Phone Service Level,5/1/2015,129,976,0.13
+acosta,Acosta_ServiceDesk,Phone Service Level,6/1/2015,835,864,0.97
+acosta,Acosta_ServiceDesk,Phone Service Level,7/1/2015,635,835,0.76
+acosta,Acosta_ServiceDesk,Phone Service Level,8/1/2015,628,783,0.80
+acosta,Acosta_ServiceDesk,Phone Service Level,9/1/2015,772,889,0.87
+acosta,Acosta_ServiceDesk,Phone Service Level,10/1/2015,806,833,0.97
+acosta,Acosta_ServiceDesk,Phone Service Level,11/1/2015,619,749,0.83
+acosta,Acosta_ServiceDesk,Phone Service Level,12/1/2015,388,992,0.39
+acosta,Acosta_ServiceDesk,Phone Service Level,1/1/2016,843,924,0.91
+acosta,Acosta_ServiceDesk,Phone Service Level,2/1/2016,848,916,0.93
+acosta,Acosta_ServiceDesk,Phone Service Level,3/1/2016,199,653,0.30
+acosta,Acosta_ServiceDesk,Phone Service Level,4/1/2016,886,949,0.93
+acosta,Acosta_ServiceDesk,Phone Service Level,5/1/2016,222,811,0.27
+acosta,Acosta_ServiceDesk,Phone Service Level,6/1/2016,110,197,0.56
+acosta,Acosta_ServiceDesk,Phone Service Level,7/1/2016,757,906,0.84
+acosta,Acosta_ServiceDesk,Phone Service Level,8/1/2016,276,737,0.37
+acosta,Acosta_ServiceDesk,Web Service Level,1/1/2015,903,985,0.92
+acosta,Acosta_ServiceDesk,Web Service Level,2/1/2015,934,952,0.98
+acosta,Acosta_ServiceDesk,Web Service Level,3/1/2015,216,908,0.24
+acosta,Acosta_ServiceDesk,Web Service Level,4/1/2015,492,816,0.60
+acosta,Acosta_ServiceDesk,Web Service Level,5/1/2015,702,896,0.78
+acosta,Acosta_ServiceDesk,Web Service Level,6/1/2015,831,842,0.99
+acosta,Acosta_ServiceDesk,Web Service Level,7/1/2015,680,990,0.69
+acosta,Acosta_ServiceDesk,Web Service Level,8/1/2015,710,889,0.80
+acosta,Acosta_ServiceDesk,Web Service Level,9/1/2015,931,992,0.94
+acosta,Acosta_ServiceDesk,Web Service Level,10/1/2015,574,635,0.90
+acosta,Acosta_ServiceDesk,Web Service Level,11/1/2015,336,913,0.37
+acosta,Acosta_ServiceDesk,Web Service Level,12/1/2015,697,723,0.96
+acosta,Acosta_ServiceDesk,Web Service Level,1/1/2016,634,960,0.66
+acosta,Acosta_ServiceDesk,Web Service Level,2/1/2016,292,937,0.31
+acosta,Acosta_ServiceDesk,Web Service Level,3/1/2016,305,738,0.41
+acosta,Acosta_ServiceDesk,Web Service Level,4/1/2016,473,977,0.48
+acosta,Acosta_ServiceDesk,Web Service Level,5/1/2016,350,500,0.70
+acosta,Acosta_ServiceDesk,Web Service Level,6/1/2016,230,561,0.41
+acosta,Acosta_ServiceDesk,Web Service Level,7/1/2016,687,761,0.90
+acosta,Acosta_ServiceDesk,Web Service Level,8/1/2016,338,492,0.69
+amcor,Amcor,Abandon Rate,1/1/2015,814,977,0.83
+amcor,Amcor,Abandon Rate,2/1/2015,347,390,0.89
+amcor,Amcor,Abandon Rate,3/1/2015,981,984,1.00
+amcor,Amcor,Abandon Rate,4/1/2015,761,873,0.87
+amcor,Amcor,Abandon Rate,5/1/2015,464,740,0.63
+amcor,Amcor,Abandon Rate,6/1/2015,132,740,0.18
+amcor,Amcor,Abandon Rate,7/1/2015,850,970,0.88
+amcor,Amcor,Abandon Rate,8/1/2015,955,999,0.96
+amcor,Amcor,Abandon Rate,9/1/2015,702,862,0.81
+amcor,Amcor,Abandon Rate,10/1/2015,18,266,0.07
+amcor,Amcor,Abandon Rate,11/1/2015,670,860,0.78
+amcor,Amcor,Abandon Rate,12/1/2015,756,804,0.94
+amcor,Amcor,Abandon Rate,1/1/2016,466,768,0.61
+amcor,Amcor,Abandon Rate,2/1/2016,544,894,0.61
+amcor,Amcor,Abandon Rate,3/1/2016,187,464,0.40
+amcor,Amcor,Abandon Rate,4/1/2016,997,999,1.00
+amcor,Amcor,Abandon Rate,5/1/2016,215,219,0.98
+amcor,Amcor,Abandon Rate,6/1/2016,844,900,0.94
+amcor,Amcor,Abandon Rate,7/1/2016,411,474,0.87
+amcor,Amcor,Abandon Rate,8/1/2016,599,821,0.73
+amcor,Amcor,Average Handle Time,1/1/2015,794,911,852.50
+amcor,Amcor,Average Handle Time,2/1/2015,122,684,403.00
+amcor,Amcor,Average Handle Time,3/1/2015,313,895,604.00
+amcor,Amcor,Average Handle Time,4/1/2015,246,869,557.50
+amcor,Amcor,Average Handle Time,5/1/2015,283,963,623.00
+amcor,Amcor,Average Handle Time,6/1/2015,180,537,358.50
+amcor,Amcor,Average Handle Time,7/1/2015,870,890,880.00
+amcor,Amcor,Average Handle Time,8/1/2015,30,721,375.50
+amcor,Amcor,Average Handle Time,9/1/2015,988,993,990.50
+amcor,Amcor,Average Handle Time,10/1/2015,92,342,217.00
+amcor,Amcor,Average Handle Time,11/1/2015,152,721,436.50
+amcor,Amcor,Average Handle Time,12/1/2015,636,831,733.50
+amcor,Amcor,Average Handle Time,1/1/2016,845,993,919.00
+amcor,Amcor,Average Handle Time,2/1/2016,532,827,679.50
+amcor,Amcor,Average Handle Time,3/1/2016,811,914,862.50
+amcor,Amcor,Average Handle Time,4/1/2016,860,928,894.00
+amcor,Amcor,Average Handle Time,5/1/2016,343,995,669.00
+amcor,Amcor,Average Handle Time,6/1/2016,572,591,581.50
+amcor,Amcor,Average Handle Time,7/1/2016,997,1000,998.50
+amcor,Amcor,Average Handle Time,8/1/2016,374,462,418.00
+amcor,Amcor,Average Hold Time,1/1/2015,62,245,153.50
+amcor,Amcor,Average Hold Time,2/1/2015,541,715,628.00
+amcor,Amcor,Average Hold Time,3/1/2015,400,894,647.00
+amcor,Amcor,Average Hold Time,4/1/2015,57,521,289.00
+amcor,Amcor,Average Hold Time,5/1/2015,109,246,177.50
+amcor,Amcor,Average Hold Time,6/1/2015,681,943,812.00
+amcor,Amcor,Average Hold Time,7/1/2015,314,686,500.00
+amcor,Amcor,Average Hold Time,8/1/2015,520,999,759.50
+amcor,Amcor,Average Hold Time,9/1/2015,916,923,919.50
+amcor,Amcor,Average Hold Time,10/1/2015,97,304,200.50
+amcor,Amcor,Average Hold Time,11/1/2015,103,891,497.00
+amcor,Amcor,Average Hold Time,12/1/2015,52,358,205.00
+amcor,Amcor,Average Hold Time,1/1/2016,250,487,368.50
+amcor,Amcor,Average Hold Time,2/1/2016,620,986,803.00
+amcor,Amcor,Average Hold Time,3/1/2016,832,913,872.50
+amcor,Amcor,Average Hold Time,4/1/2016,989,989,989.00
+amcor,Amcor,Average Hold Time,5/1/2016,581,681,631.00
+amcor,Amcor,Average Hold Time,6/1/2016,125,375,250.00
+amcor,Amcor,Average Hold Time,7/1/2016,238,737,487.50
+amcor,Amcor,Average Hold Time,8/1/2016,573,924,748.50
+amcor,Amcor,Average Speed to Answer,1/1/2015,8,571,289.50
+amcor,Amcor,Average Speed to Answer,2/1/2015,129,649,389.00
+amcor,Amcor,Average Speed to Answer,3/1/2015,919,927,923.00
+amcor,Amcor,Average Speed to Answer,4/1/2015,736,761,748.50
+amcor,Amcor,Average Speed to Answer,5/1/2015,934,942,938.00
+amcor,Amcor,Average Speed to Answer,6/1/2015,981,988,984.50
+amcor,Amcor,Average Speed to Answer,7/1/2015,483,941,712.00
+amcor,Amcor,Average Speed to Answer,8/1/2015,332,374,353.00
+amcor,Amcor,Average Speed to Answer,9/1/2015,39,378,208.50
+amcor,Amcor,Average Speed to Answer,10/1/2015,985,1000,992.50
+amcor,Amcor,Average Speed to Answer,11/1/2015,119,593,356.00
+amcor,Amcor,Average Speed to Answer,12/1/2015,551,929,740.00
+amcor,Amcor,Average Speed to Answer,1/1/2016,821,888,854.50
+amcor,Amcor,Average Speed to Answer,2/1/2016,419,771,595.00
+amcor,Amcor,Average Speed to Answer,3/1/2016,951,955,953.00
+amcor,Amcor,Average Speed to Answer,4/1/2016,247,954,600.50
+amcor,Amcor,Average Speed to Answer,5/1/2016,528,836,682.00
+amcor,Amcor,Average Speed to Answer,6/1/2016,199,444,321.50
+amcor,Amcor,Average Speed to Answer,7/1/2016,723,894,808.50
+amcor,Amcor,Average Speed to Answer,8/1/2016,522,666,594.00
+amcor,Amcor,Average Talk Time,1/1/2015,677,836,756.50
+amcor,Amcor,Average Talk Time,2/1/2015,209,509,359.00
+amcor,Amcor,Average Talk Time,3/1/2015,907,987,947.00
+amcor,Amcor,Average Talk Time,4/1/2015,95,791,443.00
+amcor,Amcor,Average Talk Time,5/1/2015,635,838,736.50
+amcor,Amcor,Average Talk Time,6/1/2015,467,980,723.50
+amcor,Amcor,Average Talk Time,7/1/2015,537,591,564.00
+amcor,Amcor,Average Talk Time,8/1/2015,135,869,502.00
+amcor,Amcor,Average Talk Time,9/1/2015,683,849,766.00
+amcor,Amcor,Average Talk Time,10/1/2015,995,995,995.00
+amcor,Amcor,Average Talk Time,11/1/2015,807,874,840.50
+amcor,Amcor,Average Talk Time,12/1/2015,173,754,463.50
+amcor,Amcor,Average Talk Time,1/1/2016,218,674,446.00
+amcor,Amcor,Average Talk Time,2/1/2016,415,961,688.00
+amcor,Amcor,Average Talk Time,3/1/2016,364,396,380.00
+amcor,Amcor,Average Talk Time,4/1/2016,784,941,862.50
+amcor,Amcor,Average Talk Time,5/1/2016,866,969,917.50
+amcor,Amcor,Average Talk Time,6/1/2016,876,886,881.00
+amcor,Amcor,Average Talk Time,7/1/2016,366,904,635.00
+amcor,Amcor,Average Talk Time,8/1/2016,978,987,982.50
+amcor,Amcor,Average Wrap Time,1/1/2015,889,899,894.00
+amcor,Amcor,Average Wrap Time,2/1/2015,420,882,651.00
+amcor,Amcor,Average Wrap Time,3/1/2015,687,770,728.50
+amcor,Amcor,Average Wrap Time,4/1/2015,849,864,856.50
+amcor,Amcor,Average Wrap Time,5/1/2015,399,512,455.50
+amcor,Amcor,Average Wrap Time,6/1/2015,473,585,529.00
+amcor,Amcor,Average Wrap Time,7/1/2015,274,923,598.50
+amcor,Amcor,Average Wrap Time,8/1/2015,753,954,853.50
+amcor,Amcor,Average Wrap Time,9/1/2015,900,910,905.00
+amcor,Amcor,Average Wrap Time,10/1/2015,471,557,514.00
+amcor,Amcor,Average Wrap Time,11/1/2015,568,836,702.00
+amcor,Amcor,Average Wrap Time,12/1/2015,102,662,382.00
+amcor,Amcor,Average Wrap Time,1/1/2016,598,795,696.50
+amcor,Amcor,Average Wrap Time,2/1/2016,277,762,519.50
+amcor,Amcor,Average Wrap Time,3/1/2016,165,868,516.50
+amcor,Amcor,Average Wrap Time,4/1/2016,994,999,996.50
+amcor,Amcor,Average Wrap Time,5/1/2016,465,525,495.00
+amcor,Amcor,Average Wrap Time,6/1/2016,893,989,941.00
+amcor,Amcor,Average Wrap Time,7/1/2016,95,582,338.50
+amcor,Amcor,Average Wrap Time,8/1/2016,913,919,916.00
+amcor,Amcor,Chat Service Level,1/1/2015,718,888,0.81
+amcor,Amcor,Chat Service Level,2/1/2015,461,760,0.61
+amcor,Amcor,Chat Service Level,3/1/2015,197,703,0.28
+amcor,Amcor,Chat Service Level,4/1/2015,11,58,0.19
+amcor,Amcor,Chat Service Level,5/1/2015,613,911,0.67
+amcor,Amcor,Chat Service Level,6/1/2015,118,524,0.23
+amcor,Amcor,Chat Service Level,7/1/2015,230,563,0.41
+amcor,Amcor,Chat Service Level,8/1/2015,180,228,0.79
+amcor,Amcor,Chat Service Level,9/1/2015,52,194,0.27
+amcor,Amcor,Chat Service Level,10/1/2015,544,925,0.59
+amcor,Amcor,Chat Service Level,11/1/2015,242,716,0.34
+amcor,Amcor,Chat Service Level,12/1/2015,913,926,0.99
+amcor,Amcor,Chat Service Level,1/1/2016,190,507,0.37
+amcor,Amcor,Chat Service Level,2/1/2016,360,993,0.36
+amcor,Amcor,Chat Service Level,3/1/2016,555,823,0.67
+amcor,Amcor,Chat Service Level,4/1/2016,803,905,0.89
+amcor,Amcor,Chat Service Level,5/1/2016,659,757,0.87
+amcor,Amcor,Chat Service Level,6/1/2016,410,688,0.60
+amcor,Amcor,Chat Service Level,7/1/2016,864,973,0.89
+amcor,Amcor,Chat Service Level,8/1/2016,683,911,0.75
+amcor,Amcor,First Call Closure,1/1/2015,741,814,0.91
+amcor,Amcor,First Call Closure,2/1/2015,591,607,0.97
+amcor,Amcor,First Call Closure,3/1/2015,765,919,0.83
+amcor,Amcor,First Call Closure,4/1/2015,572,898,0.64
+amcor,Amcor,First Call Closure,5/1/2015,668,737,0.91
+amcor,Amcor,First Call Closure,6/1/2015,945,981,0.96
+amcor,Amcor,First Call Closure,7/1/2015,582,729,0.80
+amcor,Amcor,First Call Closure,8/1/2015,749,768,0.98
+amcor,Amcor,First Call Closure,9/1/2015,685,696,0.98
+amcor,Amcor,First Call Closure,10/1/2015,44,486,0.09
+amcor,Amcor,First Call Closure,11/1/2015,798,959,0.83
+amcor,Amcor,First Call Closure,12/1/2015,475,476,1.00
+amcor,Amcor,First Call Closure,1/1/2016,790,896,0.88
+amcor,Amcor,First Call Closure,2/1/2016,983,993,0.99
+amcor,Amcor,First Call Closure,3/1/2016,385,485,0.79
+amcor,Amcor,First Call Closure,4/1/2016,293,463,0.63
+amcor,Amcor,First Call Closure,5/1/2016,659,918,0.72
+amcor,Amcor,First Call Closure,6/1/2016,104,764,0.14
+amcor,Amcor,First Call Closure,7/1/2016,254,802,0.32
+amcor,Amcor,First Call Closure,8/1/2016,664,901,0.74
+amcor,Amcor,First Tier Closure,1/1/2015,695,997,0.70
+amcor,Amcor,First Tier Closure,2/1/2015,809,919,0.88
+amcor,Amcor,First Tier Closure,3/1/2015,848,992,0.85
+amcor,Amcor,First Tier Closure,4/1/2015,720,870,0.83
+amcor,Amcor,First Tier Closure,5/1/2015,594,946,0.63
+amcor,Amcor,First Tier Closure,6/1/2015,898,904,0.99
+amcor,Amcor,First Tier Closure,7/1/2015,227,384,0.59
+amcor,Amcor,First Tier Closure,8/1/2015,759,854,0.89
+amcor,Amcor,First Tier Closure,9/1/2015,546,662,0.82
+amcor,Amcor,First Tier Closure,10/1/2015,974,978,1.00
+amcor,Amcor,First Tier Closure,11/1/2015,639,680,0.94
+amcor,Amcor,First Tier Closure,12/1/2015,738,934,0.79
+amcor,Amcor,First Tier Closure,1/1/2016,954,984,0.97
+amcor,Amcor,First Tier Closure,2/1/2016,552,564,0.98
+amcor,Amcor,First Tier Closure,3/1/2016,33,146,0.23
+amcor,Amcor,First Tier Closure,4/1/2016,971,991,0.98
+amcor,Amcor,First Tier Closure,5/1/2016,661,775,0.85
+amcor,Amcor,First Tier Closure,6/1/2016,536,630,0.85
+amcor,Amcor,First Tier Closure,7/1/2016,657,758,0.87
+amcor,Amcor,First Tier Closure,8/1/2016,35,50,0.70
+amcor,Amcor,Inbound Call Volume,1/1/2015,110,302,0.36
+amcor,Amcor,Inbound Call Volume,2/1/2015,276,798,0.35
+amcor,Amcor,Inbound Call Volume,3/1/2015,945,977,0.97
+amcor,Amcor,Inbound Call Volume,4/1/2015,619,716,0.86
+amcor,Amcor,Inbound Call Volume,5/1/2015,659,666,0.99
+amcor,Amcor,Inbound Call Volume,6/1/2015,651,809,0.80
+amcor,Amcor,Inbound Call Volume,7/1/2015,157,658,0.24
+amcor,Amcor,Inbound Call Volume,8/1/2015,356,570,0.62
+amcor,Amcor,Inbound Call Volume,9/1/2015,656,986,0.67
+amcor,Amcor,Inbound Call Volume,10/1/2015,291,361,0.81
+amcor,Amcor,Inbound Call Volume,11/1/2015,529,626,0.85
+amcor,Amcor,Inbound Call Volume,12/1/2015,304,980,0.31
+amcor,Amcor,Inbound Call Volume,1/1/2016,30,561,0.05
+amcor,Amcor,Inbound Call Volume,2/1/2016,850,978,0.87
+amcor,Amcor,Inbound Call Volume,3/1/2016,598,951,0.63
+amcor,Amcor,Inbound Call Volume,4/1/2016,891,957,0.93
+amcor,Amcor,Inbound Call Volume,5/1/2016,795,862,0.92
+amcor,Amcor,Inbound Call Volume,6/1/2016,357,407,0.88
+amcor,Amcor,Inbound Call Volume,7/1/2016,89,463,0.19
+amcor,Amcor,Inbound Call Volume,8/1/2016,973,973,1.00
+amcor,Amcor,Phone Service Level,1/1/2015,444,736,0.60
+amcor,Amcor,Phone Service Level,2/1/2015,830,855,0.97
+amcor,Amcor,Phone Service Level,3/1/2015,996,996,1.00
+amcor,Amcor,Phone Service Level,4/1/2015,230,809,0.28
+amcor,Amcor,Phone Service Level,5/1/2015,950,976,0.97
+amcor,Amcor,Phone Service Level,6/1/2015,413,967,0.43
+amcor,Amcor,Phone Service Level,7/1/2015,172,732,0.24
+amcor,Amcor,Phone Service Level,8/1/2015,710,762,0.93
+amcor,Amcor,Phone Service Level,9/1/2015,101,389,0.26
+amcor,Amcor,Phone Service Level,10/1/2015,651,717,0.91
+amcor,Amcor,Phone Service Level,11/1/2015,50,172,0.29
+amcor,Amcor,Phone Service Level,12/1/2015,217,467,0.46
+amcor,Amcor,Phone Service Level,1/1/2016,966,968,1.00
+amcor,Amcor,Phone Service Level,2/1/2016,640,882,0.73
+amcor,Amcor,Phone Service Level,3/1/2016,126,885,0.14
+amcor,Amcor,Phone Service Level,4/1/2016,420,517,0.81
+amcor,Amcor,Phone Service Level,5/1/2016,126,243,0.52
+amcor,Amcor,Phone Service Level,6/1/2016,443,666,0.67
+amcor,Amcor,Phone Service Level,7/1/2016,840,984,0.85
+amcor,Amcor,Phone Service Level,8/1/2016,799,866,0.92
+amcor,Amcor,Web Service Level,1/1/2015,334,374,0.89
+amcor,Amcor,Web Service Level,2/1/2015,586,773,0.76
+amcor,Amcor,Web Service Level,3/1/2015,662,938,0.71
+amcor,Amcor,Web Service Level,4/1/2015,687,926,0.74
+amcor,Amcor,Web Service Level,5/1/2015,567,580,0.98
+amcor,Amcor,Web Service Level,6/1/2015,799,997,0.80
+amcor,Amcor,Web Service Level,7/1/2015,23,889,0.03
+amcor,Amcor,Web Service Level,8/1/2015,598,760,0.79
+amcor,Amcor,Web Service Level,9/1/2015,899,983,0.91
+amcor,Amcor,Web Service Level,10/1/2015,804,812,0.99
+amcor,Amcor,Web Service Level,11/1/2015,781,958,0.82
+amcor,Amcor,Web Service Level,12/1/2015,808,824,0.98
+amcor,Amcor,Web Service Level,1/1/2016,97,510,0.19
+amcor,Amcor,Web Service Level,2/1/2016,272,540,0.50
+amcor,Amcor,Web Service Level,3/1/2016,360,613,0.59
+amcor,Amcor,Web Service Level,4/1/2016,410,571,0.72
+amcor,Amcor,Web Service Level,5/1/2016,904,975,0.93
+amcor,Amcor,Web Service Level,6/1/2016,636,642,0.99
+amcor,Amcor,Web Service Level,7/1/2016,963,964,1.00
+amcor,Amcor,Web Service Level,8/1/2016,219,254,0.86
+cec,Career Education Corporation,Abandon Rate,1/1/2015,826,836,0.99
+cec,Career Education Corporation,Abandon Rate,2/1/2015,510,837,0.61
+cec,Career Education Corporation,Abandon Rate,3/1/2015,239,990,0.24
+cec,Career Education Corporation,Abandon Rate,4/1/2015,874,920,0.95
+cec,Career Education Corporation,Abandon Rate,5/1/2015,612,852,0.72
+cec,Career Education Corporation,Abandon Rate,6/1/2015,85,598,0.14
+cec,Career Education Corporation,Abandon Rate,7/1/2015,292,350,0.83
+cec,Career Education Corporation,Abandon Rate,8/1/2015,392,870,0.45
+cec,Career Education Corporation,Abandon Rate,9/1/2015,676,848,0.80
+cec,Career Education Corporation,Abandon Rate,10/1/2015,184,467,0.39
+cec,Career Education Corporation,Abandon Rate,11/1/2015,593,928,0.64
+cec,Career Education Corporation,Abandon Rate,12/1/2015,322,601,0.54
+cec,Career Education Corporation,Abandon Rate,1/1/2016,8,204,0.04
+cec,Career Education Corporation,Abandon Rate,2/1/2016,379,493,0.77
+cec,Career Education Corporation,Abandon Rate,3/1/2016,252,955,0.26
+cec,Career Education Corporation,Abandon Rate,4/1/2016,724,765,0.95
+cec,Career Education Corporation,Abandon Rate,5/1/2016,966,982,0.98
+cec,Career Education Corporation,Abandon Rate,6/1/2016,607,755,0.80
+cec,Career Education Corporation,Abandon Rate,7/1/2016,624,821,0.76
+cec,Career Education Corporation,Abandon Rate,8/1/2016,759,964,0.79
+cec,Career Education Corporation,Average Handle Time,1/1/2015,190,311,250.50
+cec,Career Education Corporation,Average Handle Time,2/1/2015,360,645,502.50
+cec,Career Education Corporation,Average Handle Time,3/1/2015,131,436,283.50
+cec,Career Education Corporation,Average Handle Time,4/1/2015,563,563,563.00
+cec,Career Education Corporation,Average Handle Time,5/1/2015,578,815,696.50
+cec,Career Education Corporation,Average Handle Time,6/1/2015,926,947,936.50
+cec,Career Education Corporation,Average Handle Time,7/1/2015,662,858,760.00
+cec,Career Education Corporation,Average Handle Time,8/1/2015,281,923,602.00
+cec,Career Education Corporation,Average Handle Time,9/1/2015,986,991,988.50
+cec,Career Education Corporation,Average Handle Time,10/1/2015,42,603,322.50
+cec,Career Education Corporation,Average Handle Time,11/1/2015,508,724,616.00
+cec,Career Education Corporation,Average Handle Time,12/1/2015,417,456,436.50
+cec,Career Education Corporation,Average Handle Time,1/1/2016,321,737,529.00
+cec,Career Education Corporation,Average Handle Time,2/1/2016,480,632,556.00
+cec,Career Education Corporation,Average Handle Time,3/1/2016,549,955,752.00
+cec,Career Education Corporation,Average Handle Time,4/1/2016,812,856,834.00
+cec,Career Education Corporation,Average Handle Time,5/1/2016,467,690,578.50
+cec,Career Education Corporation,Average Handle Time,6/1/2016,165,820,492.50
+cec,Career Education Corporation,Average Handle Time,7/1/2016,62,183,122.50
+cec,Career Education Corporation,Average Handle Time,8/1/2016,228,622,425.00
+cec,Career Education Corporation,Average Hold Time,1/1/2015,711,990,850.50
+cec,Career Education Corporation,Average Hold Time,2/1/2015,753,990,871.50
+cec,Career Education Corporation,Average Hold Time,3/1/2015,115,914,514.50
+cec,Career Education Corporation,Average Hold Time,4/1/2015,314,605,459.50
+cec,Career Education Corporation,Average Hold Time,5/1/2015,560,842,701.00
+cec,Career Education Corporation,Average Hold Time,6/1/2015,862,989,925.50
+cec,Career Education Corporation,Average Hold Time,7/1/2015,217,224,220.50
+cec,Career Education Corporation,Average Hold Time,8/1/2015,641,717,679.00
+cec,Career Education Corporation,Average Hold Time,9/1/2015,509,951,730.00
+cec,Career Education Corporation,Average Hold Time,10/1/2015,283,990,636.50
+cec,Career Education Corporation,Average Hold Time,11/1/2015,771,840,805.50
+cec,Career Education Corporation,Average Hold Time,12/1/2015,649,805,727.00
+cec,Career Education Corporation,Average Hold Time,1/1/2016,618,859,738.50
+cec,Career Education Corporation,Average Hold Time,2/1/2016,715,744,729.50
+cec,Career Education Corporation,Average Hold Time,3/1/2016,156,383,269.50
+cec,Career Education Corporation,Average Hold Time,4/1/2016,185,383,284.00
+cec,Career Education Corporation,Average Hold Time,5/1/2016,426,537,481.50
+cec,Career Education Corporation,Average Hold Time,6/1/2016,200,864,532.00
+cec,Career Education Corporation,Average Hold Time,7/1/2016,958,985,971.50
+cec,Career Education Corporation,Average Hold Time,8/1/2016,346,520,433.00
+cec,Career Education Corporation,Average Speed to Answer,1/1/2015,64,267,165.50
+cec,Career Education Corporation,Average Speed to Answer,2/1/2015,321,837,579.00
+cec,Career Education Corporation,Average Speed to Answer,3/1/2015,74,158,116.00
+cec,Career Education Corporation,Average Speed to Answer,4/1/2015,772,806,789.00
+cec,Career Education Corporation,Average Speed to Answer,5/1/2015,915,964,939.50
+cec,Career Education Corporation,Average Speed to Answer,6/1/2015,695,948,821.50
+cec,Career Education Corporation,Average Speed to Answer,7/1/2015,944,967,955.50
+cec,Career Education Corporation,Average Speed to Answer,8/1/2015,786,908,847.00
+cec,Career Education Corporation,Average Speed to Answer,9/1/2015,558,817,687.50
+cec,Career Education Corporation,Average Speed to Answer,10/1/2015,664,792,728.00
+cec,Career Education Corporation,Average Speed to Answer,11/1/2015,589,817,703.00
+cec,Career Education Corporation,Average Speed to Answer,12/1/2015,62,272,167.00
+cec,Career Education Corporation,Average Speed to Answer,1/1/2016,58,451,254.50
+cec,Career Education Corporation,Average Speed to Answer,2/1/2016,706,992,849.00
+cec,Career Education Corporation,Average Speed to Answer,3/1/2016,354,853,603.50
+cec,Career Education Corporation,Average Speed to Answer,4/1/2016,577,843,710.00
+cec,Career Education Corporation,Average Speed to Answer,5/1/2016,374,588,481.00
+cec,Career Education Corporation,Average Speed to Answer,6/1/2016,568,713,640.50
+cec,Career Education Corporation,Average Speed to Answer,7/1/2016,469,697,583.00
+cec,Career Education Corporation,Average Speed to Answer,8/1/2016,320,879,599.50
+cec,Career Education Corporation,Average Talk Time,1/1/2015,373,923,648.00
+cec,Career Education Corporation,Average Talk Time,2/1/2015,132,302,217.00
+cec,Career Education Corporation,Average Talk Time,3/1/2015,765,815,790.00
+cec,Career Education Corporation,Average Talk Time,4/1/2015,350,849,599.50
+cec,Career Education Corporation,Average Talk Time,5/1/2015,779,978,878.50
+cec,Career Education Corporation,Average Talk Time,6/1/2015,623,805,714.00
+cec,Career Education Corporation,Average Talk Time,7/1/2015,52,488,270.00
+cec,Career Education Corporation,Average Talk Time,8/1/2015,174,466,320.00
+cec,Career Education Corporation,Average Talk Time,9/1/2015,558,641,599.50
+cec,Career Education Corporation,Average Talk Time,10/1/2015,654,711,682.50
+cec,Career Education Corporation,Average Talk Time,11/1/2015,241,252,246.50
+cec,Career Education Corporation,Average Talk Time,12/1/2015,486,700,593.00
+cec,Career Education Corporation,Average Talk Time,1/1/2016,963,991,977.00
+cec,Career Education Corporation,Average Talk Time,2/1/2016,465,701,583.00
+cec,Career Education Corporation,Average Talk Time,3/1/2016,907,931,919.00
+cec,Career Education Corporation,Average Talk Time,4/1/2016,348,671,509.50
+cec,Career Education Corporation,Average Talk Time,5/1/2016,799,970,884.50
+cec,Career Education Corporation,Average Talk Time,6/1/2016,695,697,696.00
+cec,Career Education Corporation,Average Talk Time,7/1/2016,809,991,900.00
+cec,Career Education Corporation,Average Talk Time,8/1/2016,172,598,385.00
+cec,Career Education Corporation,Average Wrap Time,1/1/2015,852,876,864.00
+cec,Career Education Corporation,Average Wrap Time,2/1/2015,615,886,750.50
+cec,Career Education Corporation,Average Wrap Time,3/1/2015,177,723,450.00
+cec,Career Education Corporation,Average Wrap Time,4/1/2015,193,590,391.50
+cec,Career Education Corporation,Average Wrap Time,5/1/2015,68,483,275.50
+cec,Career Education Corporation,Average Wrap Time,6/1/2015,986,1000,993.00
+cec,Career Education Corporation,Average Wrap Time,7/1/2015,139,382,260.50
+cec,Career Education Corporation,Average Wrap Time,8/1/2015,959,988,973.50
+cec,Career Education Corporation,Average Wrap Time,9/1/2015,449,988,718.50
+cec,Career Education Corporation,Average Wrap Time,10/1/2015,710,869,789.50
+cec,Career Education Corporation,Average Wrap Time,11/1/2015,682,983,832.50
+cec,Career Education Corporation,Average Wrap Time,12/1/2015,624,981,802.50
+cec,Career Education Corporation,Average Wrap Time,1/1/2016,452,587,519.50
+cec,Career Education Corporation,Average Wrap Time,2/1/2016,301,364,332.50
+cec,Career Education Corporation,Average Wrap Time,3/1/2016,322,748,535.00
+cec,Career Education Corporation,Average Wrap Time,4/1/2016,688,908,798.00
+cec,Career Education Corporation,Average Wrap Time,5/1/2016,259,539,399.00
+cec,Career Education Corporation,Average Wrap Time,6/1/2016,792,826,809.00
+cec,Career Education Corporation,Average Wrap Time,7/1/2016,65,644,354.50
+cec,Career Education Corporation,Average Wrap Time,8/1/2016,296,865,580.50
+cec,Career Education Corporation,Chat Service Level,1/1/2015,641,946,0.68
+cec,Career Education Corporation,Chat Service Level,2/1/2015,408,880,0.46
+cec,Career Education Corporation,Chat Service Level,3/1/2015,916,917,1.00
+cec,Career Education Corporation,Chat Service Level,4/1/2015,831,975,0.85
+cec,Career Education Corporation,Chat Service Level,5/1/2015,77,852,0.09
+cec,Career Education Corporation,Chat Service Level,6/1/2015,773,782,0.99
+cec,Career Education Corporation,Chat Service Level,7/1/2015,605,841,0.72
+cec,Career Education Corporation,Chat Service Level,8/1/2015,379,406,0.93
+cec,Career Education Corporation,Chat Service Level,9/1/2015,787,852,0.92
+cec,Career Education Corporation,Chat Service Level,10/1/2015,210,880,0.24
+cec,Career Education Corporation,Chat Service Level,11/1/2015,475,587,0.81
+cec,Career Education Corporation,Chat Service Level,12/1/2015,994,1000,0.99
+cec,Career Education Corporation,Chat Service Level,1/1/2016,880,932,0.94
+cec,Career Education Corporation,Chat Service Level,2/1/2016,806,999,0.81
+cec,Career Education Corporation,Chat Service Level,3/1/2016,143,879,0.16
+cec,Career Education Corporation,Chat Service Level,4/1/2016,212,879,0.24
+cec,Career Education Corporation,Chat Service Level,5/1/2016,903,938,0.96
+cec,Career Education Corporation,Chat Service Level,6/1/2016,348,479,0.73
+cec,Career Education Corporation,Chat Service Level,7/1/2016,794,882,0.90
+cec,Career Education Corporation,Chat Service Level,8/1/2016,110,766,0.14
+cec,Career Education Corporation,First Call Closure,1/1/2015,819,842,0.97
+cec,Career Education Corporation,First Call Closure,2/1/2015,238,375,0.63
+cec,Career Education Corporation,First Call Closure,3/1/2015,365,502,0.73
+cec,Career Education Corporation,First Call Closure,4/1/2015,719,923,0.78
+cec,Career Education Corporation,First Call Closure,5/1/2015,107,912,0.12
+cec,Career Education Corporation,First Call Closure,6/1/2015,404,871,0.46
+cec,Career Education Corporation,First Call Closure,7/1/2015,455,692,0.66
+cec,Career Education Corporation,First Call Closure,8/1/2015,156,272,0.57
+cec,Career Education Corporation,First Call Closure,9/1/2015,957,998,0.96
+cec,Career Education Corporation,First Call Closure,10/1/2015,707,735,0.96
+cec,Career Education Corporation,First Call Closure,11/1/2015,618,939,0.66
+cec,Career Education Corporation,First Call Closure,12/1/2015,957,974,0.98
+cec,Career Education Corporation,First Call Closure,1/1/2016,287,974,0.29
+cec,Career Education Corporation,First Call Closure,2/1/2016,812,958,0.85
+cec,Career Education Corporation,First Call Closure,3/1/2016,630,879,0.72
+cec,Career Education Corporation,First Call Closure,4/1/2016,362,864,0.42
+cec,Career Education Corporation,First Call Closure,5/1/2016,343,778,0.44
+cec,Career Education Corporation,First Call Closure,6/1/2016,351,388,0.90
+cec,Career Education Corporation,First Call Closure,7/1/2016,880,932,0.94
+cec,Career Education Corporation,First Call Closure,8/1/2016,353,681,0.52
+cec,Career Education Corporation,First Tier Closure,1/1/2015,633,686,0.92
+cec,Career Education Corporation,First Tier Closure,2/1/2015,848,868,0.98
+cec,Career Education Corporation,First Tier Closure,3/1/2015,618,784,0.79
+cec,Career Education Corporation,First Tier Closure,4/1/2015,424,710,0.60
+cec,Career Education Corporation,First Tier Closure,5/1/2015,295,892,0.33
+cec,Career Education Corporation,First Tier Closure,6/1/2015,714,781,0.91
+cec,Career Education Corporation,First Tier Closure,7/1/2015,323,810,0.40
+cec,Career Education Corporation,First Tier Closure,8/1/2015,30,66,0.45
+cec,Career Education Corporation,First Tier Closure,9/1/2015,296,636,0.47
+cec,Career Education Corporation,First Tier Closure,10/1/2015,928,954,0.97
+cec,Career Education Corporation,First Tier Closure,11/1/2015,594,852,0.70
+cec,Career Education Corporation,First Tier Closure,12/1/2015,95,443,0.21
+cec,Career Education Corporation,First Tier Closure,1/1/2016,266,279,0.95
+cec,Career Education Corporation,First Tier Closure,2/1/2016,90,358,0.25
+cec,Career Education Corporation,First Tier Closure,3/1/2016,31,779,0.04
+cec,Career Education Corporation,First Tier Closure,4/1/2016,397,702,0.57
+cec,Career Education Corporation,First Tier Closure,5/1/2016,515,904,0.57
+cec,Career Education Corporation,First Tier Closure,6/1/2016,920,935,0.98
+cec,Career Education Corporation,First Tier Closure,7/1/2016,451,586,0.77
+cec,Career Education Corporation,First Tier Closure,8/1/2016,304,407,0.75
+cec,Career Education Corporation,Inbound Call Volume,1/1/2015,702,806,0.87
+cec,Career Education Corporation,Inbound Call Volume,2/1/2015,472,473,1.00
+cec,Career Education Corporation,Inbound Call Volume,3/1/2015,181,206,0.88
+cec,Career Education Corporation,Inbound Call Volume,4/1/2015,988,1000,0.99
+cec,Career Education Corporation,Inbound Call Volume,5/1/2015,404,534,0.76
+cec,Career Education Corporation,Inbound Call Volume,6/1/2015,635,917,0.69
+cec,Career Education Corporation,Inbound Call Volume,7/1/2015,800,895,0.89
+cec,Career Education Corporation,Inbound Call Volume,8/1/2015,663,870,0.76
+cec,Career Education Corporation,Inbound Call Volume,9/1/2015,465,620,0.75
+cec,Career Education Corporation,Inbound Call Volume,10/1/2015,268,562,0.48
+cec,Career Education Corporation,Inbound Call Volume,11/1/2015,121,444,0.27
+cec,Career Education Corporation,Inbound Call Volume,12/1/2015,851,953,0.89
+cec,Career Education Corporation,Inbound Call Volume,1/1/2016,885,982,0.90
+cec,Career Education Corporation,Inbound Call Volume,2/1/2016,809,978,0.83
+cec,Career Education Corporation,Inbound Call Volume,3/1/2016,568,800,0.71
+cec,Career Education Corporation,Inbound Call Volume,4/1/2016,269,427,0.63
+cec,Career Education Corporation,Inbound Call Volume,5/1/2016,330,548,0.60
+cec,Career Education Corporation,Inbound Call Volume,6/1/2016,770,962,0.80
+cec,Career Education Corporation,Inbound Call Volume,7/1/2016,916,989,0.93
+cec,Career Education Corporation,Inbound Call Volume,8/1/2016,931,940,0.99
+cec,Career Education Corporation,Phone Service Level,1/1/2015,737,752,0.98
+cec,Career Education Corporation,Phone Service Level,2/1/2015,54,323,0.17
+cec,Career Education Corporation,Phone Service Level,3/1/2015,132,852,0.15
+cec,Career Education Corporation,Phone Service Level,4/1/2015,147,686,0.21
+cec,Career Education Corporation,Phone Service Level,5/1/2015,775,912,0.85
+cec,Career Education Corporation,Phone Service Level,6/1/2015,121,422,0.29
+cec,Career Education Corporation,Phone Service Level,7/1/2015,319,981,0.33
+cec,Career Education Corporation,Phone Service Level,8/1/2015,901,955,0.94
+cec,Career Education Corporation,Phone Service Level,9/1/2015,311,598,0.52
+cec,Career Education Corporation,Phone Service Level,10/1/2015,799,992,0.81
+cec,Career Education Corporation,Phone Service Level,11/1/2015,297,985,0.30
+cec,Career Education Corporation,Phone Service Level,12/1/2015,448,883,0.51
+cec,Career Education Corporation,Phone Service Level,1/1/2016,300,464,0.65
+cec,Career Education Corporation,Phone Service Level,2/1/2016,883,895,0.99
+cec,Career Education Corporation,Phone Service Level,3/1/2016,936,954,0.98
+cec,Career Education Corporation,Phone Service Level,4/1/2016,707,749,0.94
+cec,Career Education Corporation,Phone Service Level,5/1/2016,739,919,0.80
+cec,Career Education Corporation,Phone Service Level,6/1/2016,320,379,0.84
+cec,Career Education Corporation,Phone Service Level,7/1/2016,265,792,0.33
+cec,Career Education Corporation,Phone Service Level,8/1/2016,604,976,0.62
+cec,Career Education Corporation,Web Service Level,1/1/2015,756,756,1.00
+cec,Career Education Corporation,Web Service Level,2/1/2015,177,265,0.67
+cec,Career Education Corporation,Web Service Level,3/1/2015,850,924,0.92
+cec,Career Education Corporation,Web Service Level,4/1/2015,699,872,0.80
+cec,Career Education Corporation,Web Service Level,5/1/2015,554,844,0.66
+cec,Career Education Corporation,Web Service Level,6/1/2015,588,790,0.74
+cec,Career Education Corporation,Web Service Level,7/1/2015,299,945,0.32
+cec,Career Education Corporation,Web Service Level,8/1/2015,160,364,0.44
+cec,Career Education Corporation,Web Service Level,9/1/2015,946,972,0.97
+cec,Career Education Corporation,Web Service Level,10/1/2015,348,978,0.36
+cec,Career Education Corporation,Web Service Level,11/1/2015,697,742,0.94
+cec,Career Education Corporation,Web Service Level,12/1/2015,304,656,0.46
+cec,Career Education Corporation,Web Service Level,1/1/2016,882,928,0.95
+cec,Career Education Corporation,Web Service Level,2/1/2016,482,714,0.68
+cec,Career Education Corporation,Web Service Level,3/1/2016,422,546,0.77
+cec,Career Education Corporation,Web Service Level,4/1/2016,97,141,0.69
+cec,Career Education Corporation,Web Service Level,5/1/2016,214,955,0.22
+cec,Career Education Corporation,Web Service Level,6/1/2016,844,914,0.92
+cec,Career Education Corporation,Web Service Level,7/1/2016,624,715,0.87
+cec,Career Education Corporation,Web Service Level,8/1/2016,358,736,0.49
+covance,Covance,Abandon Rate,1/1/2015,842,975,0.86
+covance,Covance,Abandon Rate,2/1/2015,66,846,0.08
+covance,Covance,Abandon Rate,3/1/2015,648,900,0.72
+covance,Covance,Abandon Rate,4/1/2015,666,965,0.69
+covance,Covance,Abandon Rate,5/1/2015,623,678,0.92
+covance,Covance,Abandon Rate,6/1/2015,68,120,0.57
+covance,Covance,Abandon Rate,7/1/2015,588,857,0.69
+covance,Covance,Abandon Rate,8/1/2015,913,942,0.97
+covance,Covance,Abandon Rate,9/1/2015,679,876,0.78
+covance,Covance,Abandon Rate,10/1/2015,877,974,0.90
+covance,Covance,Abandon Rate,11/1/2015,911,929,0.98
+covance,Covance,Abandon Rate,12/1/2015,588,846,0.70
+covance,Covance,Abandon Rate,1/1/2016,10,656,0.02
+covance,Covance,Abandon Rate,2/1/2016,10,875,0.01
+covance,Covance,Abandon Rate,3/1/2016,237,534,0.44
+covance,Covance,Abandon Rate,4/1/2016,557,828,0.67
+covance,Covance,Abandon Rate,5/1/2016,71,165,0.43
+covance,Covance,Abandon Rate,6/1/2016,896,918,0.98
+covance,Covance,Abandon Rate,7/1/2016,300,540,0.56
+covance,Covance,Abandon Rate,8/1/2016,148,401,0.37
+covance,Covance,Average Handle Time,1/1/2015,337,449,393.00
+covance,Covance,Average Handle Time,2/1/2015,617,865,741.00
+covance,Covance,Average Handle Time,3/1/2015,492,746,619.00
+covance,Covance,Average Handle Time,4/1/2015,872,877,874.50
+covance,Covance,Average Handle Time,5/1/2015,438,782,610.00
+covance,Covance,Average Handle Time,6/1/2015,710,875,792.50
+covance,Covance,Average Handle Time,7/1/2015,622,670,646.00
+covance,Covance,Average Handle Time,8/1/2015,92,836,464.00
+covance,Covance,Average Handle Time,9/1/2015,983,990,986.50
+covance,Covance,Average Handle Time,10/1/2015,662,902,782.00
+covance,Covance,Average Handle Time,11/1/2015,81,834,457.50
+covance,Covance,Average Handle Time,12/1/2015,468,952,710.00
+covance,Covance,Average Handle Time,1/1/2016,799,957,878.00
+covance,Covance,Average Handle Time,2/1/2016,120,779,449.50
+covance,Covance,Average Handle Time,3/1/2016,648,967,807.50
+covance,Covance,Average Handle Time,4/1/2016,761,923,842.00
+covance,Covance,Average Handle Time,5/1/2016,505,812,658.50
+covance,Covance,Average Handle Time,6/1/2016,204,580,392.00
+covance,Covance,Average Handle Time,7/1/2016,451,661,556.00
+covance,Covance,Average Handle Time,8/1/2016,844,933,888.50
+covance,Covance,Average Hold Time,1/1/2015,975,995,985.00
+covance,Covance,Average Hold Time,2/1/2015,359,639,499.00
+covance,Covance,Average Hold Time,3/1/2015,831,833,832.00
+covance,Covance,Average Hold Time,4/1/2015,824,952,888.00
+covance,Covance,Average Hold Time,5/1/2015,718,826,772.00
+covance,Covance,Average Hold Time,6/1/2015,628,810,719.00
+covance,Covance,Average Hold Time,7/1/2015,6,99,52.50
+covance,Covance,Average Hold Time,8/1/2015,31,189,110.00
+covance,Covance,Average Hold Time,9/1/2015,106,907,506.50
+covance,Covance,Average Hold Time,10/1/2015,421,895,658.00
+covance,Covance,Average Hold Time,11/1/2015,68,666,367.00
+covance,Covance,Average Hold Time,12/1/2015,561,902,731.50
+covance,Covance,Average Hold Time,1/1/2016,193,911,552.00
+covance,Covance,Average Hold Time,2/1/2016,318,664,491.00
+covance,Covance,Average Hold Time,3/1/2016,75,494,284.50
+covance,Covance,Average Hold Time,4/1/2016,715,996,855.50
+covance,Covance,Average Hold Time,5/1/2016,5,869,437.00
+covance,Covance,Average Hold Time,6/1/2016,747,953,850.00
+covance,Covance,Average Hold Time,7/1/2016,412,542,477.00
+covance,Covance,Average Hold Time,8/1/2016,293,844,568.50
+covance,Covance,Average Speed to Answer,1/1/2015,849,904,876.50
+covance,Covance,Average Speed to Answer,2/1/2015,855,986,920.50
+covance,Covance,Average Speed to Answer,3/1/2015,226,908,567.00
+covance,Covance,Average Speed to Answer,4/1/2015,805,971,888.00
+covance,Covance,Average Speed to Answer,5/1/2015,316,498,407.00
+covance,Covance,Average Speed to Answer,6/1/2015,31,893,462.00
+covance,Covance,Average Speed to Answer,7/1/2015,660,805,732.50
+covance,Covance,Average Speed to Answer,8/1/2015,137,622,379.50
+covance,Covance,Average Speed to Answer,9/1/2015,429,664,546.50
+covance,Covance,Average Speed to Answer,10/1/2015,591,863,727.00
+covance,Covance,Average Speed to Answer,11/1/2015,878,905,891.50
+covance,Covance,Average Speed to Answer,12/1/2015,424,438,431.00
+covance,Covance,Average Speed to Answer,1/1/2016,269,932,600.50
+covance,Covance,Average Speed to Answer,2/1/2016,635,867,751.00
+covance,Covance,Average Speed to Answer,3/1/2016,452,550,501.00
+covance,Covance,Average Speed to Answer,4/1/2016,485,980,732.50
+covance,Covance,Average Speed to Answer,5/1/2016,261,265,263.00
+covance,Covance,Average Speed to Answer,6/1/2016,647,865,756.00
+covance,Covance,Average Speed to Answer,7/1/2016,938,966,952.00
+covance,Covance,Average Speed to Answer,8/1/2016,823,868,845.50
+covance,Covance,Average Talk Time,1/1/2015,139,802,470.50
+covance,Covance,Average Talk Time,2/1/2015,694,826,760.00
+covance,Covance,Average Talk Time,3/1/2015,725,955,840.00
+covance,Covance,Average Talk Time,4/1/2015,603,956,779.50
+covance,Covance,Average Talk Time,5/1/2015,747,822,784.50
+covance,Covance,Average Talk Time,6/1/2015,424,910,667.00
+covance,Covance,Average Talk Time,7/1/2015,123,860,491.50
+covance,Covance,Average Talk Time,8/1/2015,1,71,36.00
+covance,Covance,Average Talk Time,9/1/2015,423,716,569.50
+covance,Covance,Average Talk Time,10/1/2015,635,638,636.50
+covance,Covance,Average Talk Time,11/1/2015,361,790,575.50
+covance,Covance,Average Talk Time,12/1/2015,233,786,509.50
+covance,Covance,Average Talk Time,1/1/2016,206,450,328.00
+covance,Covance,Average Talk Time,2/1/2016,820,873,846.50
+covance,Covance,Average Talk Time,3/1/2016,561,786,673.50
+covance,Covance,Average Talk Time,4/1/2016,452,618,535.00
+covance,Covance,Average Talk Time,5/1/2016,291,411,351.00
+covance,Covance,Average Talk Time,6/1/2016,953,957,955.00
+covance,Covance,Average Talk Time,7/1/2016,512,743,627.50
+covance,Covance,Average Talk Time,8/1/2016,765,835,800.00
+covance,Covance,Average Wrap Time,1/1/2015,139,843,491.00
+covance,Covance,Average Wrap Time,2/1/2015,600,798,699.00
+covance,Covance,Average Wrap Time,3/1/2015,198,755,476.50
+covance,Covance,Average Wrap Time,4/1/2015,527,596,561.50
+covance,Covance,Average Wrap Time,5/1/2015,138,408,273.00
+covance,Covance,Average Wrap Time,6/1/2015,378,904,641.00
+covance,Covance,Average Wrap Time,7/1/2015,580,951,765.50
+covance,Covance,Average Wrap Time,8/1/2015,380,588,484.00
+covance,Covance,Average Wrap Time,9/1/2015,833,942,887.50
+covance,Covance,Average Wrap Time,10/1/2015,44,779,411.50
+covance,Covance,Average Wrap Time,11/1/2015,879,991,935.00
+covance,Covance,Average Wrap Time,12/1/2015,536,836,686.00
+covance,Covance,Average Wrap Time,1/1/2016,277,622,449.50
+covance,Covance,Average Wrap Time,2/1/2016,164,802,483.00
+covance,Covance,Average Wrap Time,3/1/2016,52,564,308.00
+covance,Covance,Average Wrap Time,4/1/2016,289,576,432.50
+covance,Covance,Average Wrap Time,5/1/2016,454,957,705.50
+covance,Covance,Average Wrap Time,6/1/2016,815,952,883.50
+covance,Covance,Average Wrap Time,7/1/2016,206,403,304.50
+covance,Covance,Average Wrap Time,8/1/2016,604,781,692.50
+covance,Covance,Chat Service Level,1/1/2015,158,847,0.19
+covance,Covance,Chat Service Level,2/1/2015,146,396,0.37
+covance,Covance,Chat Service Level,3/1/2015,385,804,0.48
+covance,Covance,Chat Service Level,4/1/2015,622,990,0.63
+covance,Covance,Chat Service Level,5/1/2015,884,919,0.96
+covance,Covance,Chat Service Level,6/1/2015,137,512,0.27
+covance,Covance,Chat Service Level,7/1/2015,347,401,0.87
+covance,Covance,Chat Service Level,8/1/2015,903,918,0.98
+covance,Covance,Chat Service Level,9/1/2015,440,930,0.47
+covance,Covance,Chat Service Level,10/1/2015,929,970,0.96
+covance,Covance,Chat Service Level,11/1/2015,412,873,0.47
+covance,Covance,Chat Service Level,12/1/2015,604,690,0.88
+covance,Covance,Chat Service Level,1/1/2016,325,880,0.37
+covance,Covance,Chat Service Level,2/1/2016,535,910,0.59
+covance,Covance,Chat Service Level,3/1/2016,575,845,0.68
+covance,Covance,Chat Service Level,4/1/2016,990,992,1.00
+covance,Covance,Chat Service Level,5/1/2016,402,449,0.90
+covance,Covance,Chat Service Level,6/1/2016,113,685,0.17
+covance,Covance,Chat Service Level,7/1/2016,832,978,0.85
+covance,Covance,Chat Service Level,8/1/2016,542,579,0.94
+covance,Covance,First Call Closure,1/1/2015,793,927,0.86
+covance,Covance,First Call Closure,2/1/2015,106,390,0.27
+covance,Covance,First Call Closure,3/1/2015,44,598,0.07
+covance,Covance,First Call Closure,4/1/2015,301,335,0.90
+covance,Covance,First Call Closure,5/1/2015,704,723,0.97
+covance,Covance,First Call Closure,6/1/2015,941,964,0.98
+covance,Covance,First Call Closure,7/1/2015,271,373,0.73
+covance,Covance,First Call Closure,8/1/2015,831,898,0.93
+covance,Covance,First Call Closure,9/1/2015,480,569,0.84
+covance,Covance,First Call Closure,10/1/2015,448,503,0.89
+covance,Covance,First Call Closure,11/1/2015,755,853,0.89
+covance,Covance,First Call Closure,12/1/2015,566,719,0.79
+covance,Covance,First Call Closure,1/1/2016,515,865,0.60
+covance,Covance,First Call Closure,2/1/2016,727,831,0.87
+covance,Covance,First Call Closure,3/1/2016,63,199,0.32
+covance,Covance,First Call Closure,4/1/2016,828,920,0.90
+covance,Covance,First Call Closure,5/1/2016,249,505,0.49
+covance,Covance,First Call Closure,6/1/2016,906,940,0.96
+covance,Covance,First Call Closure,7/1/2016,273,834,0.33
+covance,Covance,First Call Closure,8/1/2016,647,903,0.72
+covance,Covance,First Tier Closure,1/1/2015,873,895,0.98
+covance,Covance,First Tier Closure,2/1/2015,440,686,0.64
+covance,Covance,First Tier Closure,3/1/2015,229,399,0.57
+covance,Covance,First Tier Closure,4/1/2015,15,61,0.25
+covance,Covance,First Tier Closure,5/1/2015,631,656,0.96
+covance,Covance,First Tier Closure,6/1/2015,821,926,0.89
+covance,Covance,First Tier Closure,7/1/2015,558,622,0.90
+covance,Covance,First Tier Closure,8/1/2015,792,902,0.88
+covance,Covance,First Tier Closure,9/1/2015,89,535,0.17
+covance,Covance,First Tier Closure,10/1/2015,57,993,0.06
+covance,Covance,First Tier Closure,11/1/2015,318,467,0.68
+covance,Covance,First Tier Closure,12/1/2015,945,988,0.96
+covance,Covance,First Tier Closure,1/1/2016,807,990,0.82
+covance,Covance,First Tier Closure,2/1/2016,633,762,0.83
+covance,Covance,First Tier Closure,3/1/2016,258,751,0.34
+covance,Covance,First Tier Closure,4/1/2016,434,729,0.60
+covance,Covance,First Tier Closure,5/1/2016,640,913,0.70
+covance,Covance,First Tier Closure,6/1/2016,955,993,0.96
+covance,Covance,First Tier Closure,7/1/2016,962,976,0.99
+covance,Covance,First Tier Closure,8/1/2016,4,131,0.03
+covance,Covance,Inbound Call Volume,1/1/2015,203,825,0.25
+covance,Covance,Inbound Call Volume,2/1/2015,22,459,0.05
+covance,Covance,Inbound Call Volume,3/1/2015,615,701,0.88
+covance,Covance,Inbound Call Volume,4/1/2015,914,971,0.94
+covance,Covance,Inbound Call Volume,5/1/2015,240,885,0.27
+covance,Covance,Inbound Call Volume,6/1/2015,584,831,0.70
+covance,Covance,Inbound Call Volume,7/1/2015,315,700,0.45
+covance,Covance,Inbound Call Volume,8/1/2015,624,820,0.76
+covance,Covance,Inbound Call Volume,9/1/2015,801,822,0.97
+covance,Covance,Inbound Call Volume,10/1/2015,467,528,0.88
+covance,Covance,Inbound Call Volume,11/1/2015,591,930,0.64
+covance,Covance,Inbound Call Volume,12/1/2015,336,498,0.67
+covance,Covance,Inbound Call Volume,1/1/2016,645,983,0.66
+covance,Covance,Inbound Call Volume,2/1/2016,102,446,0.23
+covance,Covance,Inbound Call Volume,3/1/2016,691,951,0.73
+covance,Covance,Inbound Call Volume,4/1/2016,699,737,0.95
+covance,Covance,Inbound Call Volume,5/1/2016,558,668,0.84
+covance,Covance,Inbound Call Volume,6/1/2016,804,901,0.89
+covance,Covance,Inbound Call Volume,7/1/2016,962,992,0.97
+covance,Covance,Inbound Call Volume,8/1/2016,186,728,0.26
+covance,Covance,Phone Service Level,1/1/2015,219,761,0.29
+covance,Covance,Phone Service Level,2/1/2015,740,825,0.90
+covance,Covance,Phone Service Level,3/1/2015,636,780,0.82
+covance,Covance,Phone Service Level,4/1/2015,782,864,0.91
+covance,Covance,Phone Service Level,5/1/2015,591,827,0.71
+covance,Covance,Phone Service Level,6/1/2015,910,990,0.92
+covance,Covance,Phone Service Level,7/1/2015,900,997,0.90
+covance,Covance,Phone Service Level,8/1/2015,990,1000,0.99
+covance,Covance,Phone Service Level,9/1/2015,758,831,0.91
+covance,Covance,Phone Service Level,10/1/2015,638,677,0.94
+covance,Covance,Phone Service Level,11/1/2015,711,774,0.92
+covance,Covance,Phone Service Level,12/1/2015,342,947,0.36
+covance,Covance,Phone Service Level,1/1/2016,133,359,0.37
+covance,Covance,Phone Service Level,2/1/2016,483,978,0.49
+covance,Covance,Phone Service Level,3/1/2016,175,402,0.44
+covance,Covance,Phone Service Level,4/1/2016,802,963,0.83
+covance,Covance,Phone Service Level,5/1/2016,532,614,0.87
+covance,Covance,Phone Service Level,6/1/2016,85,120,0.71
+covance,Covance,Phone Service Level,7/1/2016,798,912,0.88
+covance,Covance,Phone Service Level,8/1/2016,408,988,0.41
+covance,Covance,Web Service Level,1/1/2015,787,931,0.85
+covance,Covance,Web Service Level,2/1/2015,866,968,0.89
+covance,Covance,Web Service Level,3/1/2015,163,350,0.47
+covance,Covance,Web Service Level,4/1/2015,782,889,0.88
+covance,Covance,Web Service Level,5/1/2015,173,207,0.84
+covance,Covance,Web Service Level,6/1/2015,711,747,0.95
+covance,Covance,Web Service Level,7/1/2015,944,963,0.98
+covance,Covance,Web Service Level,8/1/2015,957,988,0.97
+covance,Covance,Web Service Level,9/1/2015,127,538,0.24
+covance,Covance,Web Service Level,10/1/2015,551,615,0.90
+covance,Covance,Web Service Level,11/1/2015,506,635,0.80
+covance,Covance,Web Service Level,12/1/2015,701,711,0.99
+covance,Covance,Web Service Level,1/1/2016,660,802,0.82
+covance,Covance,Web Service Level,2/1/2016,902,975,0.93
+covance,Covance,Web Service Level,3/1/2016,809,927,0.87
+covance,Covance,Web Service Level,4/1/2016,456,944,0.48
+covance,Covance,Web Service Level,5/1/2016,398,843,0.47
+covance,Covance,Web Service Level,6/1/2016,797,978,0.81
+covance,Covance,Web Service Level,7/1/2016,629,656,0.96
+covance,Covance,Web Service Level,8/1/2016,719,978,0.74
+embraer,Embraer,Abandon Rate,1/1/2015,844,949,0.89
+embraer,Embraer,Abandon Rate,2/1/2015,993,994,1.00
+embraer,Embraer,Abandon Rate,3/1/2015,268,892,0.30
+embraer,Embraer,Abandon Rate,4/1/2015,448,658,0.68
+embraer,Embraer,Abandon Rate,5/1/2015,585,954,0.61
+embraer,Embraer,Abandon Rate,6/1/2015,387,747,0.52
+embraer,Embraer,Abandon Rate,7/1/2015,985,990,0.99
+embraer,Embraer,Abandon Rate,8/1/2015,872,940,0.93
+embraer,Embraer,Abandon Rate,9/1/2015,91,302,0.30
+embraer,Embraer,Abandon Rate,10/1/2015,179,255,0.70
+embraer,Embraer,Abandon Rate,11/1/2015,602,728,0.83
+embraer,Embraer,Abandon Rate,12/1/2015,96,443,0.22
+embraer,Embraer,Abandon Rate,1/1/2016,963,987,0.98
+embraer,Embraer,Abandon Rate,2/1/2016,293,604,0.49
+embraer,Embraer,Abandon Rate,3/1/2016,365,789,0.46
+embraer,Embraer,Abandon Rate,4/1/2016,274,903,0.30
+embraer,Embraer,Abandon Rate,5/1/2016,681,683,1.00
+embraer,Embraer,Abandon Rate,6/1/2016,57,285,0.20
+embraer,Embraer,Abandon Rate,7/1/2016,361,364,0.99
+embraer,Embraer,Abandon Rate,8/1/2016,825,868,0.95
+embraer,Embraer,Average Handle Time,1/1/2015,969,987,978.00
+embraer,Embraer,Average Handle Time,2/1/2015,208,928,568.00
+embraer,Embraer,Average Handle Time,3/1/2015,323,398,360.50
+embraer,Embraer,Average Handle Time,4/1/2015,10,210,110.00
+embraer,Embraer,Average Handle Time,5/1/2015,106,743,424.50
+embraer,Embraer,Average Handle Time,6/1/2015,959,976,967.50
+embraer,Embraer,Average Handle Time,7/1/2015,689,893,791.00
+embraer,Embraer,Average Handle Time,8/1/2015,153,740,446.50
+embraer,Embraer,Average Handle Time,9/1/2015,912,935,923.50
+embraer,Embraer,Average Handle Time,10/1/2015,804,970,887.00
+embraer,Embraer,Average Handle Time,11/1/2015,571,750,660.50
+embraer,Embraer,Average Handle Time,12/1/2015,595,907,751.00
+embraer,Embraer,Average Handle Time,1/1/2016,320,356,338.00
+embraer,Embraer,Average Handle Time,2/1/2016,493,884,688.50
+embraer,Embraer,Average Handle Time,3/1/2016,967,992,979.50
+embraer,Embraer,Average Handle Time,4/1/2016,674,871,772.50
+embraer,Embraer,Average Handle Time,5/1/2016,241,487,364.00
+embraer,Embraer,Average Handle Time,6/1/2016,464,937,700.50
+embraer,Embraer,Average Handle Time,7/1/2016,393,717,555.00
+embraer,Embraer,Average Handle Time,8/1/2016,921,930,925.50
+embraer,Embraer,Average Hold Time,1/1/2015,479,537,508.00
+embraer,Embraer,Average Hold Time,2/1/2015,350,858,604.00
+embraer,Embraer,Average Hold Time,3/1/2015,92,970,531.00
+embraer,Embraer,Average Hold Time,4/1/2015,324,371,347.50
+embraer,Embraer,Average Hold Time,5/1/2015,607,628,617.50
+embraer,Embraer,Average Hold Time,6/1/2015,638,925,781.50
+embraer,Embraer,Average Hold Time,7/1/2015,167,446,306.50
+embraer,Embraer,Average Hold Time,8/1/2015,155,767,461.00
+embraer,Embraer,Average Hold Time,9/1/2015,553,863,708.00
+embraer,Embraer,Average Hold Time,10/1/2015,900,980,940.00
+embraer,Embraer,Average Hold Time,11/1/2015,136,596,366.00
+embraer,Embraer,Average Hold Time,12/1/2015,355,621,488.00
+embraer,Embraer,Average Hold Time,1/1/2016,998,999,998.50
+embraer,Embraer,Average Hold Time,2/1/2016,428,731,579.50
+embraer,Embraer,Average Hold Time,3/1/2016,559,978,768.50
+embraer,Embraer,Average Hold Time,4/1/2016,22,571,296.50
+embraer,Embraer,Average Hold Time,5/1/2016,785,971,878.00
+embraer,Embraer,Average Hold Time,6/1/2016,518,788,653.00
+embraer,Embraer,Average Hold Time,7/1/2016,841,925,883.00
+embraer,Embraer,Average Hold Time,8/1/2016,342,457,399.50
+embraer,Embraer,Average Speed to Answer,1/1/2015,81,377,229.00
+embraer,Embraer,Average Speed to Answer,2/1/2015,795,803,799.00
+embraer,Embraer,Average Speed to Answer,3/1/2015,760,802,781.00
+embraer,Embraer,Average Speed to Answer,4/1/2015,438,579,508.50
+embraer,Embraer,Average Speed to Answer,5/1/2015,322,818,570.00
+embraer,Embraer,Average Speed to Answer,6/1/2015,864,920,892.00
+embraer,Embraer,Average Speed to Answer,7/1/2015,295,631,463.00
+embraer,Embraer,Average Speed to Answer,8/1/2015,186,585,385.50
+embraer,Embraer,Average Speed to Answer,9/1/2015,46,509,277.50
+embraer,Embraer,Average Speed to Answer,10/1/2015,402,954,678.00
+embraer,Embraer,Average Speed to Answer,11/1/2015,959,993,976.00
+embraer,Embraer,Average Speed to Answer,12/1/2015,94,922,508.00
+embraer,Embraer,Average Speed to Answer,1/1/2016,48,372,210.00
+embraer,Embraer,Average Speed to Answer,2/1/2016,218,690,454.00
+embraer,Embraer,Average Speed to Answer,3/1/2016,665,708,686.50
+embraer,Embraer,Average Speed to Answer,4/1/2016,874,995,934.50
+embraer,Embraer,Average Speed to Answer,5/1/2016,42,102,72.00
+embraer,Embraer,Average Speed to Answer,6/1/2016,964,987,975.50
+embraer,Embraer,Average Speed to Answer,7/1/2016,271,278,274.50
+embraer,Embraer,Average Speed to Answer,8/1/2016,656,975,815.50
+embraer,Embraer,Average Talk Time,1/1/2015,531,615,573.00
+embraer,Embraer,Average Talk Time,2/1/2015,577,801,689.00
+embraer,Embraer,Average Talk Time,3/1/2015,870,1000,935.00
+embraer,Embraer,Average Talk Time,4/1/2015,819,871,845.00
+embraer,Embraer,Average Talk Time,5/1/2015,755,944,849.50
+embraer,Embraer,Average Talk Time,6/1/2015,852,884,868.00
+embraer,Embraer,Average Talk Time,7/1/2015,853,899,876.00
+embraer,Embraer,Average Talk Time,8/1/2015,520,922,721.00
+embraer,Embraer,Average Talk Time,9/1/2015,2,401,201.50
+embraer,Embraer,Average Talk Time,10/1/2015,614,988,801.00
+embraer,Embraer,Average Talk Time,11/1/2015,217,529,373.00
+embraer,Embraer,Average Talk Time,12/1/2015,677,814,745.50
+embraer,Embraer,Average Talk Time,1/1/2016,776,984,880.00
+embraer,Embraer,Average Talk Time,2/1/2016,802,867,834.50
+embraer,Embraer,Average Talk Time,3/1/2016,86,785,435.50
+embraer,Embraer,Average Talk Time,4/1/2016,866,933,899.50
+embraer,Embraer,Average Talk Time,5/1/2016,275,694,484.50
+embraer,Embraer,Average Talk Time,6/1/2016,267,780,523.50
+embraer,Embraer,Average Talk Time,7/1/2016,567,838,702.50
+embraer,Embraer,Average Talk Time,8/1/2016,737,783,760.00
+embraer,Embraer,Average Wrap Time,1/1/2015,419,684,551.50
+embraer,Embraer,Average Wrap Time,2/1/2015,984,984,984.00
+embraer,Embraer,Average Wrap Time,3/1/2015,30,728,379.00
+embraer,Embraer,Average Wrap Time,4/1/2015,533,620,576.50
+embraer,Embraer,Average Wrap Time,5/1/2015,679,898,788.50
+embraer,Embraer,Average Wrap Time,6/1/2015,458,902,680.00
+embraer,Embraer,Average Wrap Time,7/1/2015,996,998,997.00
+embraer,Embraer,Average Wrap Time,8/1/2015,876,891,883.50
+embraer,Embraer,Average Wrap Time,9/1/2015,924,956,940.00
+embraer,Embraer,Average Wrap Time,10/1/2015,568,988,778.00
+embraer,Embraer,Average Wrap Time,11/1/2015,651,730,690.50
+embraer,Embraer,Average Wrap Time,12/1/2015,341,559,450.00
+embraer,Embraer,Average Wrap Time,1/1/2016,591,903,747.00
+embraer,Embraer,Average Wrap Time,2/1/2016,430,902,666.00
+embraer,Embraer,Average Wrap Time,3/1/2016,805,875,840.00
+embraer,Embraer,Average Wrap Time,4/1/2016,470,928,699.00
+embraer,Embraer,Average Wrap Time,5/1/2016,465,853,659.00
+embraer,Embraer,Average Wrap Time,6/1/2016,509,985,747.00
+embraer,Embraer,Average Wrap Time,7/1/2016,463,618,540.50
+embraer,Embraer,Average Wrap Time,8/1/2016,922,986,954.00
+embraer,Embraer,Chat Service Level,1/1/2015,745,776,0.96
+embraer,Embraer,Chat Service Level,2/1/2015,619,794,0.78
+embraer,Embraer,Chat Service Level,3/1/2015,310,505,0.61
+embraer,Embraer,Chat Service Level,4/1/2015,583,897,0.65
+embraer,Embraer,Chat Service Level,5/1/2015,912,945,0.97
+embraer,Embraer,Chat Service Level,6/1/2015,656,805,0.81
+embraer,Embraer,Chat Service Level,7/1/2015,408,782,0.52
+embraer,Embraer,Chat Service Level,8/1/2015,118,508,0.23
+embraer,Embraer,Chat Service Level,9/1/2015,791,856,0.92
+embraer,Embraer,Chat Service Level,10/1/2015,352,896,0.39
+embraer,Embraer,Chat Service Level,11/1/2015,251,443,0.57
+embraer,Embraer,Chat Service Level,12/1/2015,943,992,0.95
+embraer,Embraer,Chat Service Level,1/1/2016,630,663,0.95
+embraer,Embraer,Chat Service Level,2/1/2016,305,323,0.94
+embraer,Embraer,Chat Service Level,3/1/2016,628,877,0.72
+embraer,Embraer,Chat Service Level,4/1/2016,999,1000,1.00
+embraer,Embraer,Chat Service Level,5/1/2016,222,610,0.36
+embraer,Embraer,Chat Service Level,6/1/2016,817,848,0.96
+embraer,Embraer,Chat Service Level,7/1/2016,468,504,0.93
+embraer,Embraer,Chat Service Level,8/1/2016,597,623,0.96
+embraer,Embraer,First Call Closure,1/1/2015,709,845,0.84
+embraer,Embraer,First Call Closure,2/1/2015,645,686,0.94
+embraer,Embraer,First Call Closure,3/1/2015,849,880,0.96
+embraer,Embraer,First Call Closure,4/1/2015,781,862,0.91
+embraer,Embraer,First Call Closure,5/1/2015,706,807,0.87
+embraer,Embraer,First Call Closure,6/1/2015,32,260,0.12
+embraer,Embraer,First Call Closure,7/1/2015,265,348,0.76
+embraer,Embraer,First Call Closure,8/1/2015,126,802,0.16
+embraer,Embraer,First Call Closure,9/1/2015,210,431,0.49
+embraer,Embraer,First Call Closure,10/1/2015,694,801,0.87
+embraer,Embraer,First Call Closure,11/1/2015,305,556,0.55
+embraer,Embraer,First Call Closure,12/1/2015,464,671,0.69
+embraer,Embraer,First Call Closure,1/1/2016,146,416,0.35
+embraer,Embraer,First Call Closure,2/1/2016,829,980,0.85
+embraer,Embraer,First Call Closure,3/1/2016,532,882,0.60
+embraer,Embraer,First Call Closure,4/1/2016,211,658,0.32
+embraer,Embraer,First Call Closure,5/1/2016,297,931,0.32
+embraer,Embraer,First Call Closure,6/1/2016,682,713,0.96
+embraer,Embraer,First Call Closure,7/1/2016,65,496,0.13
+embraer,Embraer,First Call Closure,8/1/2016,367,755,0.49
+embraer,Embraer,First Tier Closure,1/1/2015,728,751,0.97
+embraer,Embraer,First Tier Closure,2/1/2015,962,984,0.98
+embraer,Embraer,First Tier Closure,3/1/2015,690,690,1.00
+embraer,Embraer,First Tier Closure,4/1/2015,380,434,0.88
+embraer,Embraer,First Tier Closure,5/1/2015,652,730,0.89
+embraer,Embraer,First Tier Closure,6/1/2015,993,993,1.00
+embraer,Embraer,First Tier Closure,7/1/2015,736,769,0.96
+embraer,Embraer,First Tier Closure,8/1/2015,67,736,0.09
+embraer,Embraer,First Tier Closure,9/1/2015,469,723,0.65
+embraer,Embraer,First Tier Closure,10/1/2015,614,960,0.64
+embraer,Embraer,First Tier Closure,11/1/2015,566,981,0.58
+embraer,Embraer,First Tier Closure,12/1/2015,929,983,0.95
+embraer,Embraer,First Tier Closure,1/1/2016,434,525,0.83
+embraer,Embraer,First Tier Closure,2/1/2016,754,838,0.90
+embraer,Embraer,First Tier Closure,3/1/2016,308,499,0.62
+embraer,Embraer,First Tier Closure,4/1/2016,617,812,0.76
+embraer,Embraer,First Tier Closure,5/1/2016,39,303,0.13
+embraer,Embraer,First Tier Closure,6/1/2016,510,872,0.58
+embraer,Embraer,First Tier Closure,7/1/2016,525,820,0.64
+embraer,Embraer,First Tier Closure,8/1/2016,524,799,0.66
+embraer,Embraer,Inbound Call Volume,1/1/2015,688,988,0.70
+embraer,Embraer,Inbound Call Volume,2/1/2015,50,904,0.06
+embraer,Embraer,Inbound Call Volume,3/1/2015,534,658,0.81
+embraer,Embraer,Inbound Call Volume,4/1/2015,442,595,0.74
+embraer,Embraer,Inbound Call Volume,5/1/2015,220,339,0.65
+embraer,Embraer,Inbound Call Volume,6/1/2015,892,973,0.92
+embraer,Embraer,Inbound Call Volume,7/1/2015,509,983,0.52
+embraer,Embraer,Inbound Call Volume,8/1/2015,31,135,0.23
+embraer,Embraer,Inbound Call Volume,9/1/2015,253,698,0.36
+embraer,Embraer,Inbound Call Volume,10/1/2015,59,171,0.35
+embraer,Embraer,Inbound Call Volume,11/1/2015,502,634,0.79
+embraer,Embraer,Inbound Call Volume,12/1/2015,107,940,0.11
+embraer,Embraer,Inbound Call Volume,1/1/2016,652,734,0.89
+embraer,Embraer,Inbound Call Volume,2/1/2016,62,942,0.07
+embraer,Embraer,Inbound Call Volume,3/1/2016,924,989,0.93
+embraer,Embraer,Inbound Call Volume,4/1/2016,583,867,0.67
+embraer,Embraer,Inbound Call Volume,5/1/2016,264,859,0.31
+embraer,Embraer,Inbound Call Volume,6/1/2016,621,995,0.62
+embraer,Embraer,Inbound Call Volume,7/1/2016,496,617,0.80
+embraer,Embraer,Inbound Call Volume,8/1/2016,559,991,0.56
+embraer,Embraer,Phone Service Level,1/1/2015,251,946,0.27
+embraer,Embraer,Phone Service Level,2/1/2015,231,964,0.24
+embraer,Embraer,Phone Service Level,3/1/2015,649,950,0.68
+embraer,Embraer,Phone Service Level,4/1/2015,843,854,0.99
+embraer,Embraer,Phone Service Level,5/1/2015,513,808,0.63
+embraer,Embraer,Phone Service Level,6/1/2015,976,991,0.98
+embraer,Embraer,Phone Service Level,7/1/2015,597,757,0.79
+embraer,Embraer,Phone Service Level,8/1/2015,751,917,0.82
+embraer,Embraer,Phone Service Level,9/1/2015,852,873,0.98
+embraer,Embraer,Phone Service Level,10/1/2015,341,390,0.87
+embraer,Embraer,Phone Service Level,11/1/2015,265,716,0.37
+embraer,Embraer,Phone Service Level,12/1/2015,297,673,0.44
+embraer,Embraer,Phone Service Level,1/1/2016,806,829,0.97
+embraer,Embraer,Phone Service Level,2/1/2016,166,652,0.25
+embraer,Embraer,Phone Service Level,3/1/2016,177,985,0.18
+embraer,Embraer,Phone Service Level,4/1/2016,838,866,0.97
+embraer,Embraer,Phone Service Level,5/1/2016,496,890,0.56
+embraer,Embraer,Phone Service Level,6/1/2016,107,319,0.34
+embraer,Embraer,Phone Service Level,7/1/2016,560,803,0.70
+embraer,Embraer,Phone Service Level,8/1/2016,567,594,0.95
+embraer,Embraer,Web Service Level,1/1/2015,933,971,0.96
+embraer,Embraer,Web Service Level,2/1/2015,464,933,0.50
+embraer,Embraer,Web Service Level,3/1/2015,862,910,0.95
+embraer,Embraer,Web Service Level,4/1/2015,240,282,0.85
+embraer,Embraer,Web Service Level,5/1/2015,990,1000,0.99
+embraer,Embraer,Web Service Level,6/1/2015,841,934,0.90
+embraer,Embraer,Web Service Level,7/1/2015,319,345,0.92
+embraer,Embraer,Web Service Level,8/1/2015,862,902,0.96
+embraer,Embraer,Web Service Level,9/1/2015,705,887,0.79
+embraer,Embraer,Web Service Level,10/1/2015,6,28,0.21
+embraer,Embraer,Web Service Level,11/1/2015,981,996,0.98
+embraer,Embraer,Web Service Level,12/1/2015,751,781,0.96
+embraer,Embraer,Web Service Level,1/1/2016,596,916,0.65
+embraer,Embraer,Web Service Level,2/1/2016,372,952,0.39
+embraer,Embraer,Web Service Level,3/1/2016,395,425,0.93
+embraer,Embraer,Web Service Level,4/1/2016,351,933,0.38
+embraer,Embraer,Web Service Level,5/1/2016,356,363,0.98
+embraer,Embraer,Web Service Level,6/1/2016,982,991,0.99
+embraer,Embraer,Web Service Level,7/1/2016,741,779,0.95
+embraer,Embraer,Web Service Level,8/1/2016,91,466,0.20
+ferro,Ferro,Abandon Rate,1/1/2015,148,555,0.27
+ferro,Ferro,Abandon Rate,2/1/2015,15,370,0.04
+ferro,Ferro,Abandon Rate,3/1/2015,619,773,0.80
+ferro,Ferro,Abandon Rate,4/1/2015,310,785,0.39
+ferro,Ferro,Abandon Rate,5/1/2015,255,412,0.62
+ferro,Ferro,Abandon Rate,6/1/2015,479,918,0.52
+ferro,Ferro,Abandon Rate,7/1/2015,29,613,0.05
+ferro,Ferro,Abandon Rate,8/1/2015,509,723,0.70
+ferro,Ferro,Abandon Rate,9/1/2015,44,234,0.19
+ferro,Ferro,Abandon Rate,10/1/2015,857,988,0.87
+ferro,Ferro,Abandon Rate,11/1/2015,761,802,0.95
+ferro,Ferro,Abandon Rate,12/1/2015,872,898,0.97
+ferro,Ferro,Abandon Rate,1/1/2016,210,718,0.29
+ferro,Ferro,Abandon Rate,2/1/2016,451,474,0.95
+ferro,Ferro,Abandon Rate,3/1/2016,623,827,0.75
+ferro,Ferro,Abandon Rate,4/1/2016,12,283,0.04
+ferro,Ferro,Abandon Rate,5/1/2016,146,262,0.56
+ferro,Ferro,Abandon Rate,6/1/2016,445,539,0.83
+ferro,Ferro,Abandon Rate,7/1/2016,758,828,0.92
+ferro,Ferro,Abandon Rate,8/1/2016,102,365,0.28
+ferro,Ferro,Average Handle Time,1/1/2015,594,663,628.50
+ferro,Ferro,Average Handle Time,2/1/2015,1,95,48.00
+ferro,Ferro,Average Handle Time,3/1/2015,491,698,594.50
+ferro,Ferro,Average Handle Time,4/1/2015,929,933,931.00
+ferro,Ferro,Average Handle Time,5/1/2015,502,820,661.00
+ferro,Ferro,Average Handle Time,6/1/2015,462,970,716.00
+ferro,Ferro,Average Handle Time,7/1/2015,889,905,897.00
+ferro,Ferro,Average Handle Time,8/1/2015,374,761,567.50
+ferro,Ferro,Average Handle Time,9/1/2015,355,686,520.50
+ferro,Ferro,Average Handle Time,10/1/2015,825,924,874.50
+ferro,Ferro,Average Handle Time,11/1/2015,283,441,362.00
+ferro,Ferro,Average Handle Time,12/1/2015,72,119,95.50
+ferro,Ferro,Average Handle Time,1/1/2016,878,914,896.00
+ferro,Ferro,Average Handle Time,2/1/2016,383,875,629.00
+ferro,Ferro,Average Handle Time,3/1/2016,597,600,598.50
+ferro,Ferro,Average Handle Time,4/1/2016,472,849,660.50
+ferro,Ferro,Average Handle Time,5/1/2016,442,971,706.50
+ferro,Ferro,Average Handle Time,6/1/2016,772,781,776.50
+ferro,Ferro,Average Handle Time,7/1/2016,857,923,890.00
+ferro,Ferro,Average Handle Time,8/1/2016,975,999,987.00
+ferro,Ferro,Average Hold Time,1/1/2015,872,875,873.50
+ferro,Ferro,Average Hold Time,2/1/2015,787,817,802.00
+ferro,Ferro,Average Hold Time,3/1/2015,780,928,854.00
+ferro,Ferro,Average Hold Time,4/1/2015,937,987,962.00
+ferro,Ferro,Average Hold Time,5/1/2015,571,969,770.00
+ferro,Ferro,Average Hold Time,6/1/2015,860,915,887.50
+ferro,Ferro,Average Hold Time,7/1/2015,33,49,41.00
+ferro,Ferro,Average Hold Time,8/1/2015,505,928,716.50
+ferro,Ferro,Average Hold Time,9/1/2015,663,767,715.00
+ferro,Ferro,Average Hold Time,10/1/2015,79,635,357.00
+ferro,Ferro,Average Hold Time,11/1/2015,371,818,594.50
+ferro,Ferro,Average Hold Time,12/1/2015,322,589,455.50
+ferro,Ferro,Average Hold Time,1/1/2016,766,974,870.00
+ferro,Ferro,Average Hold Time,2/1/2016,230,688,459.00
+ferro,Ferro,Average Hold Time,3/1/2016,30,508,269.00
+ferro,Ferro,Average Hold Time,4/1/2016,965,976,970.50
+ferro,Ferro,Average Hold Time,5/1/2016,918,974,946.00
+ferro,Ferro,Average Hold Time,6/1/2016,48,586,317.00
+ferro,Ferro,Average Hold Time,7/1/2016,672,704,688.00
+ferro,Ferro,Average Hold Time,8/1/2016,601,615,608.00
+ferro,Ferro,Average Speed to Answer,1/1/2015,238,443,340.50
+ferro,Ferro,Average Speed to Answer,2/1/2015,228,411,319.50
+ferro,Ferro,Average Speed to Answer,3/1/2015,697,872,784.50
+ferro,Ferro,Average Speed to Answer,4/1/2015,326,803,564.50
+ferro,Ferro,Average Speed to Answer,5/1/2015,760,958,859.00
+ferro,Ferro,Average Speed to Answer,6/1/2015,590,754,672.00
+ferro,Ferro,Average Speed to Answer,7/1/2015,95,419,257.00
+ferro,Ferro,Average Speed to Answer,8/1/2015,980,992,986.00
+ferro,Ferro,Average Speed to Answer,9/1/2015,264,965,614.50
+ferro,Ferro,Average Speed to Answer,10/1/2015,960,987,973.50
+ferro,Ferro,Average Speed to Answer,11/1/2015,350,421,385.50
+ferro,Ferro,Average Speed to Answer,12/1/2015,921,978,949.50
+ferro,Ferro,Average Speed to Answer,1/1/2016,132,326,229.00
+ferro,Ferro,Average Speed to Answer,2/1/2016,63,295,179.00
+ferro,Ferro,Average Speed to Answer,3/1/2016,441,738,589.50
+ferro,Ferro,Average Speed to Answer,4/1/2016,430,602,516.00
+ferro,Ferro,Average Speed to Answer,5/1/2016,958,985,971.50
+ferro,Ferro,Average Speed to Answer,6/1/2016,169,987,578.00
+ferro,Ferro,Average Speed to Answer,7/1/2016,314,492,403.00
+ferro,Ferro,Average Speed to Answer,8/1/2016,513,727,620.00
+ferro,Ferro,Average Talk Time,1/1/2015,989,994,991.50
+ferro,Ferro,Average Talk Time,2/1/2015,806,980,893.00
+ferro,Ferro,Average Talk Time,3/1/2015,252,788,520.00
+ferro,Ferro,Average Talk Time,4/1/2015,373,676,524.50
+ferro,Ferro,Average Talk Time,5/1/2015,396,676,536.00
+ferro,Ferro,Average Talk Time,6/1/2015,222,631,426.50
+ferro,Ferro,Average Talk Time,7/1/2015,827,836,831.50
+ferro,Ferro,Average Talk Time,8/1/2015,946,976,961.00
+ferro,Ferro,Average Talk Time,9/1/2015,900,995,947.50
+ferro,Ferro,Average Talk Time,10/1/2015,175,788,481.50
+ferro,Ferro,Average Talk Time,11/1/2015,2,768,385.00
+ferro,Ferro,Average Talk Time,12/1/2015,909,921,915.00
+ferro,Ferro,Average Talk Time,1/1/2016,817,864,840.50
+ferro,Ferro,Average Talk Time,2/1/2016,792,920,856.00
+ferro,Ferro,Average Talk Time,3/1/2016,224,746,485.00
+ferro,Ferro,Average Talk Time,4/1/2016,625,635,630.00
+ferro,Ferro,Average Talk Time,5/1/2016,690,985,837.50
+ferro,Ferro,Average Talk Time,6/1/2016,370,545,457.50
+ferro,Ferro,Average Talk Time,7/1/2016,265,990,627.50
+ferro,Ferro,Average Talk Time,8/1/2016,525,701,613.00
+ferro,Ferro,Average Wrap Time,1/1/2015,836,864,850.00
+ferro,Ferro,Average Wrap Time,2/1/2015,625,855,740.00
+ferro,Ferro,Average Wrap Time,3/1/2015,398,621,509.50
+ferro,Ferro,Average Wrap Time,4/1/2015,74,415,244.50
+ferro,Ferro,Average Wrap Time,5/1/2015,443,739,591.00
+ferro,Ferro,Average Wrap Time,6/1/2015,919,984,951.50
+ferro,Ferro,Average Wrap Time,7/1/2015,647,949,798.00
+ferro,Ferro,Average Wrap Time,8/1/2015,25,593,309.00
+ferro,Ferro,Average Wrap Time,9/1/2015,974,992,983.00
+ferro,Ferro,Average Wrap Time,10/1/2015,802,849,825.50
+ferro,Ferro,Average Wrap Time,11/1/2015,196,486,341.00
+ferro,Ferro,Average Wrap Time,12/1/2015,205,397,301.00
+ferro,Ferro,Average Wrap Time,1/1/2016,908,974,941.00
+ferro,Ferro,Average Wrap Time,2/1/2016,672,863,767.50
+ferro,Ferro,Average Wrap Time,3/1/2016,120,255,187.50
+ferro,Ferro,Average Wrap Time,4/1/2016,993,996,994.50
+ferro,Ferro,Average Wrap Time,5/1/2016,272,613,442.50
+ferro,Ferro,Average Wrap Time,6/1/2016,100,107,103.50
+ferro,Ferro,Average Wrap Time,7/1/2016,306,995,650.50
+ferro,Ferro,Average Wrap Time,8/1/2016,567,789,678.00
+ferro,Ferro,Chat Service Level,1/1/2015,938,942,1.00
+ferro,Ferro,Chat Service Level,2/1/2015,891,948,0.94
+ferro,Ferro,Chat Service Level,3/1/2015,652,796,0.82
+ferro,Ferro,Chat Service Level,4/1/2015,881,961,0.92
+ferro,Ferro,Chat Service Level,5/1/2015,946,996,0.95
+ferro,Ferro,Chat Service Level,6/1/2015,59,800,0.07
+ferro,Ferro,Chat Service Level,7/1/2015,648,951,0.68
+ferro,Ferro,Chat Service Level,8/1/2015,866,946,0.92
+ferro,Ferro,Chat Service Level,9/1/2015,18,25,0.72
+ferro,Ferro,Chat Service Level,10/1/2015,633,796,0.80
+ferro,Ferro,Chat Service Level,11/1/2015,623,925,0.67
+ferro,Ferro,Chat Service Level,12/1/2015,684,864,0.79
+ferro,Ferro,Chat Service Level,1/1/2016,951,997,0.95
+ferro,Ferro,Chat Service Level,2/1/2016,520,881,0.59
+ferro,Ferro,Chat Service Level,3/1/2016,352,754,0.47
+ferro,Ferro,Chat Service Level,4/1/2016,116,611,0.19
+ferro,Ferro,Chat Service Level,5/1/2016,583,731,0.80
+ferro,Ferro,Chat Service Level,6/1/2016,857,931,0.92
+ferro,Ferro,Chat Service Level,7/1/2016,815,876,0.93
+ferro,Ferro,Chat Service Level,8/1/2016,288,942,0.31
+ferro,Ferro,First Call Closure,1/1/2015,511,771,0.66
+ferro,Ferro,First Call Closure,2/1/2015,64,303,0.21
+ferro,Ferro,First Call Closure,3/1/2015,71,828,0.09
+ferro,Ferro,First Call Closure,4/1/2015,383,795,0.48
+ferro,Ferro,First Call Closure,5/1/2015,409,510,0.80
+ferro,Ferro,First Call Closure,6/1/2015,724,913,0.79
+ferro,Ferro,First Call Closure,7/1/2015,501,727,0.69
+ferro,Ferro,First Call Closure,8/1/2015,962,962,1.00
+ferro,Ferro,First Call Closure,9/1/2015,969,984,0.98
+ferro,Ferro,First Call Closure,10/1/2015,313,821,0.38
+ferro,Ferro,First Call Closure,11/1/2015,319,729,0.44
+ferro,Ferro,First Call Closure,12/1/2015,24,857,0.03
+ferro,Ferro,First Call Closure,1/1/2016,177,346,0.51
+ferro,Ferro,First Call Closure,2/1/2016,37,516,0.07
+ferro,Ferro,First Call Closure,3/1/2016,716,957,0.75
+ferro,Ferro,First Call Closure,4/1/2016,620,759,0.82
+ferro,Ferro,First Call Closure,5/1/2016,980,982,1.00
+ferro,Ferro,First Call Closure,6/1/2016,603,637,0.95
+ferro,Ferro,First Call Closure,7/1/2016,532,566,0.94
+ferro,Ferro,First Call Closure,8/1/2016,487,658,0.74
+ferro,Ferro,First Tier Closure,1/1/2015,155,345,0.45
+ferro,Ferro,First Tier Closure,2/1/2015,289,692,0.42
+ferro,Ferro,First Tier Closure,3/1/2015,255,957,0.27
+ferro,Ferro,First Tier Closure,4/1/2015,119,433,0.27
+ferro,Ferro,First Tier Closure,5/1/2015,739,929,0.80
+ferro,Ferro,First Tier Closure,6/1/2015,459,722,0.64
+ferro,Ferro,First Tier Closure,7/1/2015,301,969,0.31
+ferro,Ferro,First Tier Closure,8/1/2015,233,537,0.43
+ferro,Ferro,First Tier Closure,9/1/2015,289,537,0.54
+ferro,Ferro,First Tier Closure,10/1/2015,665,815,0.82
+ferro,Ferro,First Tier Closure,11/1/2015,364,638,0.57
+ferro,Ferro,First Tier Closure,12/1/2015,520,892,0.58
+ferro,Ferro,First Tier Closure,1/1/2016,202,208,0.97
+ferro,Ferro,First Tier Closure,2/1/2016,459,994,0.46
+ferro,Ferro,First Tier Closure,3/1/2016,588,994,0.59
+ferro,Ferro,First Tier Closure,4/1/2016,71,116,0.61
+ferro,Ferro,First Tier Closure,5/1/2016,133,232,0.57
+ferro,Ferro,First Tier Closure,6/1/2016,705,990,0.71
+ferro,Ferro,First Tier Closure,7/1/2016,493,710,0.69
+ferro,Ferro,First Tier Closure,8/1/2016,439,841,0.52
+ferro,Ferro,Inbound Call Volume,1/1/2015,34,277,0.12
+ferro,Ferro,Inbound Call Volume,2/1/2015,764,805,0.95
+ferro,Ferro,Inbound Call Volume,3/1/2015,856,963,0.89
+ferro,Ferro,Inbound Call Volume,4/1/2015,38,731,0.05
+ferro,Ferro,Inbound Call Volume,5/1/2015,120,959,0.13
+ferro,Ferro,Inbound Call Volume,6/1/2015,947,1000,0.95
+ferro,Ferro,Inbound Call Volume,7/1/2015,227,840,0.27
+ferro,Ferro,Inbound Call Volume,8/1/2015,617,911,0.68
+ferro,Ferro,Inbound Call Volume,9/1/2015,595,666,0.89
+ferro,Ferro,Inbound Call Volume,10/1/2015,978,997,0.98
+ferro,Ferro,Inbound Call Volume,11/1/2015,836,863,0.97
+ferro,Ferro,Inbound Call Volume,12/1/2015,220,506,0.43
+ferro,Ferro,Inbound Call Volume,1/1/2016,824,896,0.92
+ferro,Ferro,Inbound Call Volume,2/1/2016,649,673,0.96
+ferro,Ferro,Inbound Call Volume,3/1/2016,107,638,0.17
+ferro,Ferro,Inbound Call Volume,4/1/2016,191,326,0.59
+ferro,Ferro,Inbound Call Volume,5/1/2016,45,714,0.06
+ferro,Ferro,Inbound Call Volume,6/1/2016,668,791,0.84
+ferro,Ferro,Inbound Call Volume,7/1/2016,366,622,0.59
+ferro,Ferro,Inbound Call Volume,8/1/2016,869,880,0.99
+ferro,Ferro,Phone Service Level,1/1/2015,247,471,0.52
+ferro,Ferro,Phone Service Level,2/1/2015,164,533,0.31
+ferro,Ferro,Phone Service Level,3/1/2015,39,483,0.08
+ferro,Ferro,Phone Service Level,4/1/2015,289,502,0.58
+ferro,Ferro,Phone Service Level,5/1/2015,457,745,0.61
+ferro,Ferro,Phone Service Level,6/1/2015,509,796,0.64
+ferro,Ferro,Phone Service Level,7/1/2015,962,997,0.96
+ferro,Ferro,Phone Service Level,8/1/2015,83,818,0.10
+ferro,Ferro,Phone Service Level,9/1/2015,768,922,0.83
+ferro,Ferro,Phone Service Level,10/1/2015,145,742,0.20
+ferro,Ferro,Phone Service Level,11/1/2015,33,496,0.07
+ferro,Ferro,Phone Service Level,12/1/2015,250,669,0.37
+ferro,Ferro,Phone Service Level,1/1/2016,919,932,0.99
+ferro,Ferro,Phone Service Level,2/1/2016,406,578,0.70
+ferro,Ferro,Phone Service Level,3/1/2016,638,782,0.82
+ferro,Ferro,Phone Service Level,4/1/2016,891,899,0.99
+ferro,Ferro,Phone Service Level,5/1/2016,99,874,0.11
+ferro,Ferro,Phone Service Level,6/1/2016,542,773,0.70
+ferro,Ferro,Phone Service Level,7/1/2016,399,940,0.42
+ferro,Ferro,Phone Service Level,8/1/2016,82,121,0.68
+ferro,Ferro,Web Service Level,1/1/2015,176,659,0.27
+ferro,Ferro,Web Service Level,2/1/2015,219,714,0.31
+ferro,Ferro,Web Service Level,3/1/2015,52,659,0.08
+ferro,Ferro,Web Service Level,4/1/2015,297,486,0.61
+ferro,Ferro,Web Service Level,5/1/2015,429,749,0.57
+ferro,Ferro,Web Service Level,6/1/2015,268,416,0.64
+ferro,Ferro,Web Service Level,7/1/2015,61,803,0.08
+ferro,Ferro,Web Service Level,8/1/2015,6,898,0.01
+ferro,Ferro,Web Service Level,9/1/2015,704,797,0.88
+ferro,Ferro,Web Service Level,10/1/2015,998,1000,1.00
+ferro,Ferro,Web Service Level,11/1/2015,658,917,0.72
+ferro,Ferro,Web Service Level,12/1/2015,424,798,0.53
+ferro,Ferro,Web Service Level,1/1/2016,655,964,0.68
+ferro,Ferro,Web Service Level,2/1/2016,431,724,0.60
+ferro,Ferro,Web Service Level,3/1/2016,350,598,0.59
+ferro,Ferro,Web Service Level,4/1/2016,918,989,0.93
+ferro,Ferro,Web Service Level,5/1/2016,616,646,0.95
+ferro,Ferro,Web Service Level,6/1/2016,961,967,0.99
+ferro,Ferro,Web Service Level,7/1/2016,154,227,0.68
+ferro,Ferro,Web Service Level,8/1/2016,499,845,0.59
+lvamerica,Louis Vuitton North America,Abandon Rate,1/1/2015,403,811,0.50
+lvamerica,Louis Vuitton North America,Abandon Rate,2/1/2015,498,672,0.74
+lvamerica,Louis Vuitton North America,Abandon Rate,3/1/2015,163,272,0.60
+lvamerica,Louis Vuitton North America,Abandon Rate,4/1/2015,795,972,0.82
+lvamerica,Louis Vuitton North America,Abandon Rate,5/1/2015,809,885,0.91
+lvamerica,Louis Vuitton North America,Abandon Rate,6/1/2015,471,668,0.71
+lvamerica,Louis Vuitton North America,Abandon Rate,7/1/2015,807,980,0.82
+lvamerica,Louis Vuitton North America,Abandon Rate,8/1/2015,11,470,0.02
+lvamerica,Louis Vuitton North America,Abandon Rate,9/1/2015,643,773,0.83
+lvamerica,Louis Vuitton North America,Abandon Rate,10/1/2015,214,501,0.43
+lvamerica,Louis Vuitton North America,Abandon Rate,11/1/2015,40,954,0.04
+lvamerica,Louis Vuitton North America,Abandon Rate,12/1/2015,751,775,0.97
+lvamerica,Louis Vuitton North America,Abandon Rate,1/1/2016,220,893,0.25
+lvamerica,Louis Vuitton North America,Abandon Rate,2/1/2016,4,943,0.00
+lvamerica,Louis Vuitton North America,Abandon Rate,3/1/2016,134,301,0.45
+lvamerica,Louis Vuitton North America,Abandon Rate,4/1/2016,818,916,0.89
+lvamerica,Louis Vuitton North America,Abandon Rate,5/1/2016,741,859,0.86
+lvamerica,Louis Vuitton North America,Abandon Rate,6/1/2016,439,565,0.78
+lvamerica,Louis Vuitton North America,Abandon Rate,7/1/2016,938,988,0.95
+lvamerica,Louis Vuitton North America,Abandon Rate,8/1/2016,358,936,0.38
+lvamerica,Louis Vuitton North America,Average Handle Time,1/1/2015,136,299,217.50
+lvamerica,Louis Vuitton North America,Average Handle Time,2/1/2015,52,712,382.00
+lvamerica,Louis Vuitton North America,Average Handle Time,3/1/2015,671,706,688.50
+lvamerica,Louis Vuitton North America,Average Handle Time,4/1/2015,852,863,857.50
+lvamerica,Louis Vuitton North America,Average Handle Time,5/1/2015,265,539,402.00
+lvamerica,Louis Vuitton North America,Average Handle Time,6/1/2015,715,958,836.50
+lvamerica,Louis Vuitton North America,Average Handle Time,7/1/2015,150,742,446.00
+lvamerica,Louis Vuitton North America,Average Handle Time,8/1/2015,122,830,476.00
+lvamerica,Louis Vuitton North America,Average Handle Time,9/1/2015,27,251,139.00
+lvamerica,Louis Vuitton North America,Average Handle Time,10/1/2015,399,847,623.00
+lvamerica,Louis Vuitton North America,Average Handle Time,11/1/2015,998,1000,999.00
+lvamerica,Louis Vuitton North America,Average Handle Time,12/1/2015,861,928,894.50
+lvamerica,Louis Vuitton North America,Average Handle Time,1/1/2016,424,588,506.00
+lvamerica,Louis Vuitton North America,Average Handle Time,2/1/2016,721,986,853.50
+lvamerica,Louis Vuitton North America,Average Handle Time,3/1/2016,132,226,179.00
+lvamerica,Louis Vuitton North America,Average Handle Time,4/1/2016,234,763,498.50
+lvamerica,Louis Vuitton North America,Average Handle Time,5/1/2016,611,747,679.00
+lvamerica,Louis Vuitton North America,Average Handle Time,6/1/2016,627,910,768.50
+lvamerica,Louis Vuitton North America,Average Handle Time,7/1/2016,253,867,560.00
+lvamerica,Louis Vuitton North America,Average Handle Time,8/1/2016,376,497,436.50
+lvamerica,Louis Vuitton North America,Average Hold Time,1/1/2015,323,324,323.50
+lvamerica,Louis Vuitton North America,Average Hold Time,2/1/2015,72,307,189.50
+lvamerica,Louis Vuitton North America,Average Hold Time,3/1/2015,694,939,816.50
+lvamerica,Louis Vuitton North America,Average Hold Time,4/1/2015,383,422,402.50
+lvamerica,Louis Vuitton North America,Average Hold Time,5/1/2015,841,905,873.00
+lvamerica,Louis Vuitton North America,Average Hold Time,6/1/2015,438,457,447.50
+lvamerica,Louis Vuitton North America,Average Hold Time,7/1/2015,395,407,401.00
+lvamerica,Louis Vuitton North America,Average Hold Time,8/1/2015,722,834,778.00
+lvamerica,Louis Vuitton North America,Average Hold Time,9/1/2015,577,998,787.50
+lvamerica,Louis Vuitton North America,Average Hold Time,10/1/2015,875,969,922.00
+lvamerica,Louis Vuitton North America,Average Hold Time,11/1/2015,453,959,706.00
+lvamerica,Louis Vuitton North America,Average Hold Time,12/1/2015,277,676,476.50
+lvamerica,Louis Vuitton North America,Average Hold Time,1/1/2016,111,947,529.00
+lvamerica,Louis Vuitton North America,Average Hold Time,2/1/2016,825,830,827.50
+lvamerica,Louis Vuitton North America,Average Hold Time,3/1/2016,167,484,325.50
+lvamerica,Louis Vuitton North America,Average Hold Time,4/1/2016,443,764,603.50
+lvamerica,Louis Vuitton North America,Average Hold Time,5/1/2016,164,571,367.50
+lvamerica,Louis Vuitton North America,Average Hold Time,6/1/2016,58,436,247.00
+lvamerica,Louis Vuitton North America,Average Hold Time,7/1/2016,499,503,501.00
+lvamerica,Louis Vuitton North America,Average Hold Time,8/1/2016,663,958,810.50
+lvamerica,Louis Vuitton North America,Average Speed to Answer,1/1/2015,789,837,813.00
+lvamerica,Louis Vuitton North America,Average Speed to Answer,2/1/2015,844,903,873.50
+lvamerica,Louis Vuitton North America,Average Speed to Answer,3/1/2015,826,952,889.00
+lvamerica,Louis Vuitton North America,Average Speed to Answer,4/1/2015,731,949,840.00
+lvamerica,Louis Vuitton North America,Average Speed to Answer,5/1/2015,551,790,670.50
+lvamerica,Louis Vuitton North America,Average Speed to Answer,6/1/2015,147,482,314.50
+lvamerica,Louis Vuitton North America,Average Speed to Answer,7/1/2015,444,566,505.00
+lvamerica,Louis Vuitton North America,Average Speed to Answer,8/1/2015,330,559,444.50
+lvamerica,Louis Vuitton North America,Average Speed to Answer,9/1/2015,93,137,115.00
+lvamerica,Louis Vuitton North America,Average Speed to Answer,10/1/2015,857,904,880.50
+lvamerica,Louis Vuitton North America,Average Speed to Answer,11/1/2015,533,789,661.00
+lvamerica,Louis Vuitton North America,Average Speed to Answer,12/1/2015,142,359,250.50
+lvamerica,Louis Vuitton North America,Average Speed to Answer,1/1/2016,29,113,71.00
+lvamerica,Louis Vuitton North America,Average Speed to Answer,2/1/2016,818,928,873.00
+lvamerica,Louis Vuitton North America,Average Speed to Answer,3/1/2016,624,740,682.00
+lvamerica,Louis Vuitton North America,Average Speed to Answer,4/1/2016,290,831,560.50
+lvamerica,Louis Vuitton North America,Average Speed to Answer,5/1/2016,473,790,631.50
+lvamerica,Louis Vuitton North America,Average Speed to Answer,6/1/2016,328,701,514.50
+lvamerica,Louis Vuitton North America,Average Speed to Answer,7/1/2016,86,827,456.50
+lvamerica,Louis Vuitton North America,Average Speed to Answer,8/1/2016,47,119,83.00
+lvamerica,Louis Vuitton North America,Average Talk Time,1/1/2015,528,756,642.00
+lvamerica,Louis Vuitton North America,Average Talk Time,2/1/2015,10,779,394.50
+lvamerica,Louis Vuitton North America,Average Talk Time,3/1/2015,751,948,849.50
+lvamerica,Louis Vuitton North America,Average Talk Time,4/1/2015,639,804,721.50
+lvamerica,Louis Vuitton North America,Average Talk Time,5/1/2015,255,397,326.00
+lvamerica,Louis Vuitton North America,Average Talk Time,6/1/2015,871,968,919.50
+lvamerica,Louis Vuitton North America,Average Talk Time,7/1/2015,210,487,348.50
+lvamerica,Louis Vuitton North America,Average Talk Time,8/1/2015,422,557,489.50
+lvamerica,Louis Vuitton North America,Average Talk Time,9/1/2015,777,954,865.50
+lvamerica,Louis Vuitton North America,Average Talk Time,10/1/2015,70,983,526.50
+lvamerica,Louis Vuitton North America,Average Talk Time,11/1/2015,38,856,447.00
+lvamerica,Louis Vuitton North America,Average Talk Time,12/1/2015,573,718,645.50
+lvamerica,Louis Vuitton North America,Average Talk Time,1/1/2016,719,917,818.00
+lvamerica,Louis Vuitton North America,Average Talk Time,2/1/2016,405,916,660.50
+lvamerica,Louis Vuitton North America,Average Talk Time,3/1/2016,458,546,502.00
+lvamerica,Louis Vuitton North America,Average Talk Time,4/1/2016,827,885,856.00
+lvamerica,Louis Vuitton North America,Average Talk Time,5/1/2016,600,799,699.50
+lvamerica,Louis Vuitton North America,Average Talk Time,6/1/2016,272,782,527.00
+lvamerica,Louis Vuitton North America,Average Talk Time,7/1/2016,720,818,769.00
+lvamerica,Louis Vuitton North America,Average Talk Time,8/1/2016,248,581,414.50
+lvamerica,Louis Vuitton North America,Average Wrap Time,1/1/2015,114,811,462.50
+lvamerica,Louis Vuitton North America,Average Wrap Time,2/1/2015,351,840,595.50
+lvamerica,Louis Vuitton North America,Average Wrap Time,3/1/2015,9,328,168.50
+lvamerica,Louis Vuitton North America,Average Wrap Time,4/1/2015,149,239,194.00
+lvamerica,Louis Vuitton North America,Average Wrap Time,5/1/2015,712,905,808.50
+lvamerica,Louis Vuitton North America,Average Wrap Time,6/1/2015,908,922,915.00
+lvamerica,Louis Vuitton North America,Average Wrap Time,7/1/2015,614,998,806.00
+lvamerica,Louis Vuitton North America,Average Wrap Time,8/1/2015,291,753,522.00
+lvamerica,Louis Vuitton North America,Average Wrap Time,9/1/2015,16,107,61.50
+lvamerica,Louis Vuitton North America,Average Wrap Time,10/1/2015,55,549,302.00
+lvamerica,Louis Vuitton North America,Average Wrap Time,11/1/2015,896,945,920.50
+lvamerica,Louis Vuitton North America,Average Wrap Time,12/1/2015,56,629,342.50
+lvamerica,Louis Vuitton North America,Average Wrap Time,1/1/2016,958,988,973.00
+lvamerica,Louis Vuitton North America,Average Wrap Time,2/1/2016,427,566,496.50
+lvamerica,Louis Vuitton North America,Average Wrap Time,3/1/2016,183,645,414.00
+lvamerica,Louis Vuitton North America,Average Wrap Time,4/1/2016,905,973,939.00
+lvamerica,Louis Vuitton North America,Average Wrap Time,5/1/2016,310,919,614.50
+lvamerica,Louis Vuitton North America,Average Wrap Time,6/1/2016,681,689,685.00
+lvamerica,Louis Vuitton North America,Average Wrap Time,7/1/2016,585,709,647.00
+lvamerica,Louis Vuitton North America,Average Wrap Time,8/1/2016,430,617,523.50
+lvamerica,Louis Vuitton North America,Chat Service Level,1/1/2015,680,992,0.69
+lvamerica,Louis Vuitton North America,Chat Service Level,2/1/2015,99,184,0.54
+lvamerica,Louis Vuitton North America,Chat Service Level,3/1/2015,583,848,0.69
+lvamerica,Louis Vuitton North America,Chat Service Level,4/1/2015,642,661,0.97
+lvamerica,Louis Vuitton North America,Chat Service Level,5/1/2015,383,726,0.53
+lvamerica,Louis Vuitton North America,Chat Service Level,6/1/2015,894,968,0.92
+lvamerica,Louis Vuitton North America,Chat Service Level,7/1/2015,137,660,0.21
+lvamerica,Louis Vuitton North America,Chat Service Level,8/1/2015,808,903,0.89
+lvamerica,Louis Vuitton North America,Chat Service Level,9/1/2015,474,532,0.89
+lvamerica,Louis Vuitton North America,Chat Service Level,10/1/2015,360,849,0.42
+lvamerica,Louis Vuitton North America,Chat Service Level,11/1/2015,270,575,0.47
+lvamerica,Louis Vuitton North America,Chat Service Level,12/1/2015,620,647,0.96
+lvamerica,Louis Vuitton North America,Chat Service Level,1/1/2016,44,302,0.15
+lvamerica,Louis Vuitton North America,Chat Service Level,2/1/2016,23,360,0.06
+lvamerica,Louis Vuitton North America,Chat Service Level,3/1/2016,94,354,0.27
+lvamerica,Louis Vuitton North America,Chat Service Level,4/1/2016,682,694,0.98
+lvamerica,Louis Vuitton North America,Chat Service Level,5/1/2016,681,802,0.85
+lvamerica,Louis Vuitton North America,Chat Service Level,6/1/2016,926,961,0.96
+lvamerica,Louis Vuitton North America,Chat Service Level,7/1/2016,186,675,0.28
+lvamerica,Louis Vuitton North America,Chat Service Level,8/1/2016,719,804,0.89
+lvamerica,Louis Vuitton North America,First Call Closure,1/1/2015,844,919,0.92
+lvamerica,Louis Vuitton North America,First Call Closure,2/1/2015,398,790,0.50
+lvamerica,Louis Vuitton North America,First Call Closure,3/1/2015,397,885,0.45
+lvamerica,Louis Vuitton North America,First Call Closure,4/1/2015,850,944,0.90
+lvamerica,Louis Vuitton North America,First Call Closure,5/1/2015,655,663,0.99
+lvamerica,Louis Vuitton North America,First Call Closure,6/1/2015,477,679,0.70
+lvamerica,Louis Vuitton North America,First Call Closure,7/1/2015,336,770,0.44
+lvamerica,Louis Vuitton North America,First Call Closure,8/1/2015,892,923,0.97
+lvamerica,Louis Vuitton North America,First Call Closure,9/1/2015,672,678,0.99
+lvamerica,Louis Vuitton North America,First Call Closure,10/1/2015,409,885,0.46
+lvamerica,Louis Vuitton North America,First Call Closure,11/1/2015,91,808,0.11
+lvamerica,Louis Vuitton North America,First Call Closure,12/1/2015,380,884,0.43
+lvamerica,Louis Vuitton North America,First Call Closure,1/1/2016,379,588,0.64
+lvamerica,Louis Vuitton North America,First Call Closure,2/1/2016,505,807,0.63
+lvamerica,Louis Vuitton North America,First Call Closure,3/1/2016,999,999,1.00
+lvamerica,Louis Vuitton North America,First Call Closure,4/1/2016,681,910,0.75
+lvamerica,Louis Vuitton North America,First Call Closure,5/1/2016,213,762,0.28
+lvamerica,Louis Vuitton North America,First Call Closure,6/1/2016,457,764,0.60
+lvamerica,Louis Vuitton North America,First Call Closure,7/1/2016,736,994,0.74
+lvamerica,Louis Vuitton North America,First Call Closure,8/1/2016,890,938,0.95
+lvamerica,Louis Vuitton North America,First Tier Closure,1/1/2015,240,731,0.33
+lvamerica,Louis Vuitton North America,First Tier Closure,2/1/2015,415,421,0.99
+lvamerica,Louis Vuitton North America,First Tier Closure,3/1/2015,843,940,0.90
+lvamerica,Louis Vuitton North America,First Tier Closure,4/1/2015,137,805,0.17
+lvamerica,Louis Vuitton North America,First Tier Closure,5/1/2015,924,952,0.97
+lvamerica,Louis Vuitton North America,First Tier Closure,6/1/2015,919,987,0.93
+lvamerica,Louis Vuitton North America,First Tier Closure,7/1/2015,937,953,0.98
+lvamerica,Louis Vuitton North America,First Tier Closure,8/1/2015,360,404,0.89
+lvamerica,Louis Vuitton North America,First Tier Closure,9/1/2015,229,697,0.33
+lvamerica,Louis Vuitton North America,First Tier Closure,10/1/2015,902,980,0.92
+lvamerica,Louis Vuitton North America,First Tier Closure,11/1/2015,213,358,0.60
+lvamerica,Louis Vuitton North America,First Tier Closure,12/1/2015,799,965,0.83
+lvamerica,Louis Vuitton North America,First Tier Closure,1/1/2016,77,285,0.27
+lvamerica,Louis Vuitton North America,First Tier Closure,2/1/2016,869,900,0.97
+lvamerica,Louis Vuitton North America,First Tier Closure,3/1/2016,659,904,0.73
+lvamerica,Louis Vuitton North America,First Tier Closure,4/1/2016,404,729,0.55
+lvamerica,Louis Vuitton North America,First Tier Closure,5/1/2016,164,297,0.55
+lvamerica,Louis Vuitton North America,First Tier Closure,6/1/2016,307,802,0.38
+lvamerica,Louis Vuitton North America,First Tier Closure,7/1/2016,557,996,0.56
+lvamerica,Louis Vuitton North America,First Tier Closure,8/1/2016,419,423,0.99
+lvamerica,Louis Vuitton North America,Inbound Call Volume,1/1/2015,891,968,0.92
+lvamerica,Louis Vuitton North America,Inbound Call Volume,2/1/2015,752,788,0.95
+lvamerica,Louis Vuitton North America,Inbound Call Volume,3/1/2015,502,1000,0.50
+lvamerica,Louis Vuitton North America,Inbound Call Volume,4/1/2015,875,946,0.92
+lvamerica,Louis Vuitton North America,Inbound Call Volume,5/1/2015,85,472,0.18
+lvamerica,Louis Vuitton North America,Inbound Call Volume,6/1/2015,846,857,0.99
+lvamerica,Louis Vuitton North America,Inbound Call Volume,7/1/2015,614,628,0.98
+lvamerica,Louis Vuitton North America,Inbound Call Volume,8/1/2015,920,940,0.98
+lvamerica,Louis Vuitton North America,Inbound Call Volume,9/1/2015,309,418,0.74
+lvamerica,Louis Vuitton North America,Inbound Call Volume,10/1/2015,57,277,0.21
+lvamerica,Louis Vuitton North America,Inbound Call Volume,11/1/2015,513,705,0.73
+lvamerica,Louis Vuitton North America,Inbound Call Volume,12/1/2015,926,987,0.94
+lvamerica,Louis Vuitton North America,Inbound Call Volume,1/1/2016,645,972,0.66
+lvamerica,Louis Vuitton North America,Inbound Call Volume,2/1/2016,9,76,0.12
+lvamerica,Louis Vuitton North America,Inbound Call Volume,3/1/2016,627,693,0.90
+lvamerica,Louis Vuitton North America,Inbound Call Volume,4/1/2016,333,862,0.39
+lvamerica,Louis Vuitton North America,Inbound Call Volume,5/1/2016,12,617,0.02
+lvamerica,Louis Vuitton North America,Inbound Call Volume,6/1/2016,480,683,0.70
+lvamerica,Louis Vuitton North America,Inbound Call Volume,7/1/2016,641,825,0.78
+lvamerica,Louis Vuitton North America,Inbound Call Volume,8/1/2016,960,961,1.00
+lvamerica,Louis Vuitton North America,Phone Service Level,1/1/2015,955,965,0.99
+lvamerica,Louis Vuitton North America,Phone Service Level,2/1/2015,950,956,0.99
+lvamerica,Louis Vuitton North America,Phone Service Level,3/1/2015,190,872,0.22
+lvamerica,Louis Vuitton North America,Phone Service Level,4/1/2015,464,848,0.55
+lvamerica,Louis Vuitton North America,Phone Service Level,5/1/2015,618,641,0.96
+lvamerica,Louis Vuitton North America,Phone Service Level,6/1/2015,824,925,0.89
+lvamerica,Louis Vuitton North America,Phone Service Level,7/1/2015,469,619,0.76
+lvamerica,Louis Vuitton North America,Phone Service Level,8/1/2015,442,853,0.52
+lvamerica,Louis Vuitton North America,Phone Service Level,9/1/2015,350,942,0.37
+lvamerica,Louis Vuitton North America,Phone Service Level,10/1/2015,898,900,1.00
+lvamerica,Louis Vuitton North America,Phone Service Level,11/1/2015,782,865,0.90
+lvamerica,Louis Vuitton North America,Phone Service Level,12/1/2015,9,18,0.50
+lvamerica,Louis Vuitton North America,Phone Service Level,1/1/2016,85,375,0.23
+lvamerica,Louis Vuitton North America,Phone Service Level,2/1/2016,384,818,0.47
+lvamerica,Louis Vuitton North America,Phone Service Level,3/1/2016,298,645,0.46
+lvamerica,Louis Vuitton North America,Phone Service Level,4/1/2016,418,806,0.52
+lvamerica,Louis Vuitton North America,Phone Service Level,5/1/2016,642,833,0.77
+lvamerica,Louis Vuitton North America,Phone Service Level,6/1/2016,871,966,0.90
+lvamerica,Louis Vuitton North America,Phone Service Level,7/1/2016,531,854,0.62
+lvamerica,Louis Vuitton North America,Phone Service Level,8/1/2016,712,931,0.76
+lvamerica,Louis Vuitton North America,Web Service Level,1/1/2015,632,733,0.86
+lvamerica,Louis Vuitton North America,Web Service Level,2/1/2015,366,567,0.65
+lvamerica,Louis Vuitton North America,Web Service Level,3/1/2015,761,927,0.82
+lvamerica,Louis Vuitton North America,Web Service Level,4/1/2015,111,640,0.17
+lvamerica,Louis Vuitton North America,Web Service Level,5/1/2015,288,984,0.29
+lvamerica,Louis Vuitton North America,Web Service Level,6/1/2015,597,959,0.62
+lvamerica,Louis Vuitton North America,Web Service Level,7/1/2015,274,616,0.44
+lvamerica,Louis Vuitton North America,Web Service Level,8/1/2015,564,830,0.68
+lvamerica,Louis Vuitton North America,Web Service Level,9/1/2015,959,960,1.00
+lvamerica,Louis Vuitton North America,Web Service Level,10/1/2015,344,533,0.65
+lvamerica,Louis Vuitton North America,Web Service Level,11/1/2015,923,984,0.94
+lvamerica,Louis Vuitton North America,Web Service Level,12/1/2015,784,836,0.94
+lvamerica,Louis Vuitton North America,Web Service Level,1/1/2016,449,680,0.66
+lvamerica,Louis Vuitton North America,Web Service Level,2/1/2016,357,403,0.89
+lvamerica,Louis Vuitton North America,Web Service Level,3/1/2016,219,721,0.30
+lvamerica,Louis Vuitton North America,Web Service Level,4/1/2016,397,984,0.40
+lvamerica,Louis Vuitton North America,Web Service Level,5/1/2016,694,791,0.88
+lvamerica,Louis Vuitton North America,Web Service Level,6/1/2016,927,959,0.97
+lvamerica,Louis Vuitton North America,Web Service Level,7/1/2016,702,856,0.82
+lvamerica,Louis Vuitton North America,Web Service Level,8/1/2016,918,947,0.97
+mcard,MasterCard,Abandon Rate,1/1/2015,282,420,0.67
+mcard,MasterCard,Abandon Rate,2/1/2015,673,735,0.92
+mcard,MasterCard,Abandon Rate,3/1/2015,590,898,0.66
+mcard,MasterCard,Abandon Rate,4/1/2015,859,911,0.94
+mcard,MasterCard,Abandon Rate,5/1/2015,436,729,0.60
+mcard,MasterCard,Abandon Rate,6/1/2015,49,102,0.48
+mcard,MasterCard,Abandon Rate,7/1/2015,583,747,0.78
+mcard,MasterCard,Abandon Rate,8/1/2015,179,194,0.92
+mcard,MasterCard,Abandon Rate,9/1/2015,317,361,0.88
+mcard,MasterCard,Abandon Rate,10/1/2015,905,968,0.93
+mcard,MasterCard,Abandon Rate,11/1/2015,746,893,0.84
+mcard,MasterCard,Abandon Rate,12/1/2015,611,951,0.64
+mcard,MasterCard,Abandon Rate,1/1/2016,789,970,0.81
+mcard,MasterCard,Abandon Rate,2/1/2016,579,851,0.68
+mcard,MasterCard,Abandon Rate,3/1/2016,158,418,0.38
+mcard,MasterCard,Abandon Rate,4/1/2016,717,866,0.83
+mcard,MasterCard,Abandon Rate,5/1/2016,714,977,0.73
+mcard,MasterCard,Abandon Rate,6/1/2016,682,682,1.00
+mcard,MasterCard,Abandon Rate,7/1/2016,343,653,0.53
+mcard,MasterCard,Abandon Rate,8/1/2016,981,983,1.00
+mcard,MasterCard,Average Handle Time,1/1/2015,95,174,134.50
+mcard,MasterCard,Average Handle Time,2/1/2015,363,633,498.00
+mcard,MasterCard,Average Handle Time,3/1/2015,354,812,583.00
+mcard,MasterCard,Average Handle Time,4/1/2015,423,553,488.00
+mcard,MasterCard,Average Handle Time,5/1/2015,226,877,551.50
+mcard,MasterCard,Average Handle Time,6/1/2015,382,867,624.50
+mcard,MasterCard,Average Handle Time,7/1/2015,116,983,549.50
+mcard,MasterCard,Average Handle Time,8/1/2015,15,188,101.50
+mcard,MasterCard,Average Handle Time,9/1/2015,208,712,460.00
+mcard,MasterCard,Average Handle Time,10/1/2015,594,595,594.50
+mcard,MasterCard,Average Handle Time,11/1/2015,107,607,357.00
+mcard,MasterCard,Average Handle Time,12/1/2015,148,251,199.50
+mcard,MasterCard,Average Handle Time,1/1/2016,896,972,934.00
+mcard,MasterCard,Average Handle Time,2/1/2016,871,974,922.50
+mcard,MasterCard,Average Handle Time,3/1/2016,326,773,549.50
+mcard,MasterCard,Average Handle Time,4/1/2016,837,943,890.00
+mcard,MasterCard,Average Handle Time,5/1/2016,815,930,872.50
+mcard,MasterCard,Average Handle Time,6/1/2016,991,996,993.50
+mcard,MasterCard,Average Handle Time,7/1/2016,986,999,992.50
+mcard,MasterCard,Average Handle Time,8/1/2016,373,485,429.00
+mcard,MasterCard,Average Hold Time,1/1/2015,489,882,685.50
+mcard,MasterCard,Average Hold Time,2/1/2015,509,988,748.50
+mcard,MasterCard,Average Hold Time,3/1/2015,279,919,599.00
+mcard,MasterCard,Average Hold Time,4/1/2015,442,759,600.50
+mcard,MasterCard,Average Hold Time,5/1/2015,855,876,865.50
+mcard,MasterCard,Average Hold Time,6/1/2015,627,995,811.00
+mcard,MasterCard,Average Hold Time,7/1/2015,169,363,266.00
+mcard,MasterCard,Average Hold Time,8/1/2015,155,765,460.00
+mcard,MasterCard,Average Hold Time,9/1/2015,648,722,685.00
+mcard,MasterCard,Average Hold Time,10/1/2015,954,968,961.00
+mcard,MasterCard,Average Hold Time,11/1/2015,591,971,781.00
+mcard,MasterCard,Average Hold Time,12/1/2015,231,795,513.00
+mcard,MasterCard,Average Hold Time,1/1/2016,77,857,467.00
+mcard,MasterCard,Average Hold Time,2/1/2016,370,799,584.50
+mcard,MasterCard,Average Hold Time,3/1/2016,359,708,533.50
+mcard,MasterCard,Average Hold Time,4/1/2016,482,967,724.50
+mcard,MasterCard,Average Hold Time,5/1/2016,864,967,915.50
+mcard,MasterCard,Average Hold Time,6/1/2016,672,983,827.50
+mcard,MasterCard,Average Hold Time,7/1/2016,556,572,564.00
+mcard,MasterCard,Average Hold Time,8/1/2016,781,923,852.00
+mcard,MasterCard,Average Speed to Answer,1/1/2015,144,443,293.50
+mcard,MasterCard,Average Speed to Answer,2/1/2015,229,828,528.50
+mcard,MasterCard,Average Speed to Answer,3/1/2015,543,845,694.00
+mcard,MasterCard,Average Speed to Answer,4/1/2015,807,935,871.00
+mcard,MasterCard,Average Speed to Answer,5/1/2015,176,557,366.50
+mcard,MasterCard,Average Speed to Answer,6/1/2015,914,937,925.50
+mcard,MasterCard,Average Speed to Answer,7/1/2015,629,740,684.50
+mcard,MasterCard,Average Speed to Answer,8/1/2015,295,686,490.50
+mcard,MasterCard,Average Speed to Answer,9/1/2015,800,801,800.50
+mcard,MasterCard,Average Speed to Answer,10/1/2015,249,488,368.50
+mcard,MasterCard,Average Speed to Answer,11/1/2015,868,995,931.50
+mcard,MasterCard,Average Speed to Answer,12/1/2015,154,183,168.50
+mcard,MasterCard,Average Speed to Answer,1/1/2016,362,873,617.50
+mcard,MasterCard,Average Speed to Answer,2/1/2016,772,826,799.00
+mcard,MasterCard,Average Speed to Answer,3/1/2016,739,785,762.00
+mcard,MasterCard,Average Speed to Answer,4/1/2016,9,184,96.50
+mcard,MasterCard,Average Speed to Answer,5/1/2016,161,423,292.00
+mcard,MasterCard,Average Speed to Answer,6/1/2016,651,785,718.00
+mcard,MasterCard,Average Speed to Answer,7/1/2016,228,870,549.00
+mcard,MasterCard,Average Speed to Answer,8/1/2016,53,544,298.50
+mcard,MasterCard,Average Talk Time,1/1/2015,655,658,656.50
+mcard,MasterCard,Average Talk Time,2/1/2015,519,880,699.50
+mcard,MasterCard,Average Talk Time,3/1/2015,467,503,485.00
+mcard,MasterCard,Average Talk Time,4/1/2015,834,996,915.00
+mcard,MasterCard,Average Talk Time,5/1/2015,559,927,743.00
+mcard,MasterCard,Average Talk Time,6/1/2015,571,754,662.50
+mcard,MasterCard,Average Talk Time,7/1/2015,808,990,899.00
+mcard,MasterCard,Average Talk Time,8/1/2015,129,649,389.00
+mcard,MasterCard,Average Talk Time,9/1/2015,565,659,612.00
+mcard,MasterCard,Average Talk Time,10/1/2015,764,790,777.00
+mcard,MasterCard,Average Talk Time,11/1/2015,991,999,995.00
+mcard,MasterCard,Average Talk Time,12/1/2015,385,440,412.50
+mcard,MasterCard,Average Talk Time,1/1/2016,715,936,825.50
+mcard,MasterCard,Average Talk Time,2/1/2016,938,955,946.50
+mcard,MasterCard,Average Talk Time,3/1/2016,929,932,930.50
+mcard,MasterCard,Average Talk Time,4/1/2016,471,912,691.50
+mcard,MasterCard,Average Talk Time,5/1/2016,673,895,784.00
+mcard,MasterCard,Average Talk Time,6/1/2016,611,735,673.00
+mcard,MasterCard,Average Talk Time,7/1/2016,775,984,879.50
+mcard,MasterCard,Average Talk Time,8/1/2016,756,923,839.50
+mcard,MasterCard,Average Wrap Time,1/1/2015,287,310,298.50
+mcard,MasterCard,Average Wrap Time,2/1/2015,480,631,555.50
+mcard,MasterCard,Average Wrap Time,3/1/2015,682,800,741.00
+mcard,MasterCard,Average Wrap Time,4/1/2015,558,779,668.50
+mcard,MasterCard,Average Wrap Time,5/1/2015,355,743,549.00
+mcard,MasterCard,Average Wrap Time,6/1/2015,979,988,983.50
+mcard,MasterCard,Average Wrap Time,7/1/2015,348,954,651.00
+mcard,MasterCard,Average Wrap Time,8/1/2015,966,1000,983.00
+mcard,MasterCard,Average Wrap Time,9/1/2015,147,452,299.50
+mcard,MasterCard,Average Wrap Time,10/1/2015,931,942,936.50
+mcard,MasterCard,Average Wrap Time,11/1/2015,608,890,749.00
+mcard,MasterCard,Average Wrap Time,12/1/2015,711,925,818.00
+mcard,MasterCard,Average Wrap Time,1/1/2016,280,720,500.00
+mcard,MasterCard,Average Wrap Time,2/1/2016,184,670,427.00
+mcard,MasterCard,Average Wrap Time,3/1/2016,452,599,525.50
+mcard,MasterCard,Average Wrap Time,4/1/2016,431,655,543.00
+mcard,MasterCard,Average Wrap Time,5/1/2016,338,912,625.00
+mcard,MasterCard,Average Wrap Time,6/1/2016,387,925,656.00
+mcard,MasterCard,Average Wrap Time,7/1/2016,408,615,511.50
+mcard,MasterCard,Average Wrap Time,8/1/2016,537,660,598.50
+mcard,MasterCard,Chat Service Level,1/1/2015,560,869,0.64
+mcard,MasterCard,Chat Service Level,2/1/2015,790,831,0.95
+mcard,MasterCard,Chat Service Level,3/1/2015,699,869,0.80
+mcard,MasterCard,Chat Service Level,4/1/2015,826,966,0.86
+mcard,MasterCard,Chat Service Level,5/1/2015,638,881,0.72
+mcard,MasterCard,Chat Service Level,6/1/2015,624,901,0.69
+mcard,MasterCard,Chat Service Level,7/1/2015,152,159,0.96
+mcard,MasterCard,Chat Service Level,8/1/2015,210,999,0.21
+mcard,MasterCard,Chat Service Level,9/1/2015,345,876,0.39
+mcard,MasterCard,Chat Service Level,10/1/2015,249,556,0.45
+mcard,MasterCard,Chat Service Level,11/1/2015,894,963,0.93
+mcard,MasterCard,Chat Service Level,12/1/2015,571,803,0.71
+mcard,MasterCard,Chat Service Level,1/1/2016,848,955,0.89
+mcard,MasterCard,Chat Service Level,2/1/2016,758,997,0.76
+mcard,MasterCard,Chat Service Level,3/1/2016,732,987,0.74
+mcard,MasterCard,Chat Service Level,4/1/2016,167,785,0.21
+mcard,MasterCard,Chat Service Level,5/1/2016,896,974,0.92
+mcard,MasterCard,Chat Service Level,6/1/2016,131,368,0.36
+mcard,MasterCard,Chat Service Level,7/1/2016,851,979,0.87
+mcard,MasterCard,Chat Service Level,8/1/2016,215,352,0.61
+mcard,MasterCard,First Call Closure,1/1/2015,689,898,0.77
+mcard,MasterCard,First Call Closure,2/1/2015,712,814,0.87
+mcard,MasterCard,First Call Closure,3/1/2015,62,283,0.22
+mcard,MasterCard,First Call Closure,4/1/2015,397,994,0.40
+mcard,MasterCard,First Call Closure,5/1/2015,891,951,0.94
+mcard,MasterCard,First Call Closure,6/1/2015,845,910,0.93
+mcard,MasterCard,First Call Closure,7/1/2015,803,934,0.86
+mcard,MasterCard,First Call Closure,8/1/2015,738,918,0.80
+mcard,MasterCard,First Call Closure,9/1/2015,452,653,0.69
+mcard,MasterCard,First Call Closure,10/1/2015,975,978,1.00
+mcard,MasterCard,First Call Closure,11/1/2015,994,996,1.00
+mcard,MasterCard,First Call Closure,12/1/2015,876,970,0.90
+mcard,MasterCard,First Call Closure,1/1/2016,789,823,0.96
+mcard,MasterCard,First Call Closure,2/1/2016,622,714,0.87
+mcard,MasterCard,First Call Closure,3/1/2016,235,930,0.25
+mcard,MasterCard,First Call Closure,4/1/2016,961,978,0.98
+mcard,MasterCard,First Call Closure,5/1/2016,328,731,0.45
+mcard,MasterCard,First Call Closure,6/1/2016,852,931,0.92
+mcard,MasterCard,First Call Closure,7/1/2016,31,824,0.04
+mcard,MasterCard,First Call Closure,8/1/2016,478,478,1.00
+mcard,MasterCard,First Tier Closure,1/1/2015,419,699,0.60
+mcard,MasterCard,First Tier Closure,2/1/2015,296,681,0.43
+mcard,MasterCard,First Tier Closure,3/1/2015,479,711,0.67
+mcard,MasterCard,First Tier Closure,4/1/2015,239,973,0.25
+mcard,MasterCard,First Tier Closure,5/1/2015,643,961,0.67
+mcard,MasterCard,First Tier Closure,6/1/2015,166,512,0.32
+mcard,MasterCard,First Tier Closure,7/1/2015,88,762,0.12
+mcard,MasterCard,First Tier Closure,8/1/2015,785,831,0.94
+mcard,MasterCard,First Tier Closure,9/1/2015,351,498,0.70
+mcard,MasterCard,First Tier Closure,10/1/2015,249,530,0.47
+mcard,MasterCard,First Tier Closure,11/1/2015,710,812,0.87
+mcard,MasterCard,First Tier Closure,12/1/2015,915,934,0.98
+mcard,MasterCard,First Tier Closure,1/1/2016,23,362,0.06
+mcard,MasterCard,First Tier Closure,2/1/2016,765,996,0.77
+mcard,MasterCard,First Tier Closure,3/1/2016,110,378,0.29
+mcard,MasterCard,First Tier Closure,4/1/2016,117,337,0.35
+mcard,MasterCard,First Tier Closure,5/1/2016,807,897,0.90
+mcard,MasterCard,First Tier Closure,6/1/2016,357,391,0.91
+mcard,MasterCard,First Tier Closure,7/1/2016,17,152,0.11
+mcard,MasterCard,First Tier Closure,8/1/2016,927,991,0.94
+mcard,MasterCard,Inbound Call Volume,1/1/2015,695,939,0.74
+mcard,MasterCard,Inbound Call Volume,2/1/2015,29,349,0.08
+mcard,MasterCard,Inbound Call Volume,3/1/2015,540,942,0.57
+mcard,MasterCard,Inbound Call Volume,4/1/2015,683,977,0.70
+mcard,MasterCard,Inbound Call Volume,5/1/2015,414,498,0.83
+mcard,MasterCard,Inbound Call Volume,6/1/2015,764,793,0.96
+mcard,MasterCard,Inbound Call Volume,7/1/2015,423,473,0.89
+mcard,MasterCard,Inbound Call Volume,8/1/2015,66,954,0.07
+mcard,MasterCard,Inbound Call Volume,9/1/2015,711,795,0.89
+mcard,MasterCard,Inbound Call Volume,10/1/2015,1,904,0.00
+mcard,MasterCard,Inbound Call Volume,11/1/2015,372,420,0.89
+mcard,MasterCard,Inbound Call Volume,12/1/2015,449,940,0.48
+mcard,MasterCard,Inbound Call Volume,1/1/2016,826,954,0.87
+mcard,MasterCard,Inbound Call Volume,2/1/2016,946,982,0.96
+mcard,MasterCard,Inbound Call Volume,3/1/2016,529,549,0.96
+mcard,MasterCard,Inbound Call Volume,4/1/2016,112,547,0.20
+mcard,MasterCard,Inbound Call Volume,5/1/2016,345,891,0.39
+mcard,MasterCard,Inbound Call Volume,6/1/2016,502,820,0.61
+mcard,MasterCard,Inbound Call Volume,7/1/2016,158,878,0.18
+mcard,MasterCard,Inbound Call Volume,8/1/2016,738,872,0.85
+mcard,MasterCard,Phone Service Level,1/1/2015,620,827,0.75
+mcard,MasterCard,Phone Service Level,2/1/2015,125,657,0.19
+mcard,MasterCard,Phone Service Level,3/1/2015,70,239,0.29
+mcard,MasterCard,Phone Service Level,4/1/2015,134,318,0.42
+mcard,MasterCard,Phone Service Level,5/1/2015,814,895,0.91
+mcard,MasterCard,Phone Service Level,6/1/2015,823,989,0.83
+mcard,MasterCard,Phone Service Level,7/1/2015,772,955,0.81
+mcard,MasterCard,Phone Service Level,8/1/2015,763,982,0.78
+mcard,MasterCard,Phone Service Level,9/1/2015,906,978,0.93
+mcard,MasterCard,Phone Service Level,10/1/2015,315,416,0.76
+mcard,MasterCard,Phone Service Level,11/1/2015,442,687,0.64
+mcard,MasterCard,Phone Service Level,12/1/2015,971,975,1.00
+mcard,MasterCard,Phone Service Level,1/1/2016,285,655,0.44
+mcard,MasterCard,Phone Service Level,2/1/2016,547,992,0.55
+mcard,MasterCard,Phone Service Level,3/1/2016,36,146,0.25
+mcard,MasterCard,Phone Service Level,4/1/2016,397,939,0.42
+mcard,MasterCard,Phone Service Level,5/1/2016,259,386,0.67
+mcard,MasterCard,Phone Service Level,6/1/2016,831,852,0.98
+mcard,MasterCard,Phone Service Level,7/1/2016,633,824,0.77
+mcard,MasterCard,Phone Service Level,8/1/2016,121,258,0.47
+mcard,MasterCard,Web Service Level,1/1/2015,883,973,0.91
+mcard,MasterCard,Web Service Level,2/1/2015,931,972,0.96
+mcard,MasterCard,Web Service Level,3/1/2015,200,326,0.61
+mcard,MasterCard,Web Service Level,4/1/2015,578,640,0.90
+mcard,MasterCard,Web Service Level,5/1/2015,597,859,0.70
+mcard,MasterCard,Web Service Level,6/1/2015,164,223,0.74
+mcard,MasterCard,Web Service Level,7/1/2015,176,899,0.20
+mcard,MasterCard,Web Service Level,8/1/2015,809,818,0.99
+mcard,MasterCard,Web Service Level,9/1/2015,588,723,0.81
+mcard,MasterCard,Web Service Level,10/1/2015,898,940,0.96
+mcard,MasterCard,Web Service Level,11/1/2015,650,708,0.92
+mcard,MasterCard,Web Service Level,12/1/2015,820,975,0.84
+mcard,MasterCard,Web Service Level,1/1/2016,708,863,0.82
+mcard,MasterCard,Web Service Level,2/1/2016,554,999,0.55
+mcard,MasterCard,Web Service Level,3/1/2016,646,843,0.77
+mcard,MasterCard,Web Service Level,4/1/2016,916,970,0.94
+mcard,MasterCard,Web Service Level,5/1/2016,979,998,0.98
+mcard,MasterCard,Web Service Level,6/1/2016,342,705,0.49
+mcard,MasterCard,Web Service Level,7/1/2016,555,562,0.99
+mcard,MasterCard,Web Service Level,8/1/2016,34,177,0.19
+novelis,Novelis,Abandon Rate,1/1/2015,44,153,0.29
+novelis,Novelis,Abandon Rate,2/1/2015,383,477,0.80
+novelis,Novelis,Abandon Rate,3/1/2015,24,519,0.05
+novelis,Novelis,Abandon Rate,4/1/2015,941,1000,0.94
+novelis,Novelis,Abandon Rate,5/1/2015,423,776,0.55
+novelis,Novelis,Abandon Rate,6/1/2015,31,910,0.03
+novelis,Novelis,Abandon Rate,7/1/2015,371,766,0.48
+novelis,Novelis,Abandon Rate,8/1/2015,237,319,0.74
+novelis,Novelis,Abandon Rate,9/1/2015,509,577,0.88
+novelis,Novelis,Abandon Rate,10/1/2015,6,192,0.03
+novelis,Novelis,Abandon Rate,11/1/2015,278,304,0.91
+novelis,Novelis,Abandon Rate,12/1/2015,747,870,0.86
+novelis,Novelis,Abandon Rate,1/1/2016,800,809,0.99
+novelis,Novelis,Abandon Rate,2/1/2016,417,638,0.65
+novelis,Novelis,Abandon Rate,3/1/2016,723,898,0.81
+novelis,Novelis,Abandon Rate,4/1/2016,577,734,0.79
+novelis,Novelis,Abandon Rate,5/1/2016,860,970,0.89
+novelis,Novelis,Abandon Rate,6/1/2016,782,907,0.86
+novelis,Novelis,Abandon Rate,7/1/2016,618,999,0.62
+novelis,Novelis,Abandon Rate,8/1/2016,653,886,0.74
+novelis,Novelis,Average Handle Time,1/1/2015,879,995,937.00
+novelis,Novelis,Average Handle Time,2/1/2015,354,686,520.00
+novelis,Novelis,Average Handle Time,3/1/2015,235,447,341.00
+novelis,Novelis,Average Handle Time,4/1/2015,642,686,664.00
+novelis,Novelis,Average Handle Time,5/1/2015,240,669,454.50
+novelis,Novelis,Average Handle Time,6/1/2015,453,830,641.50
+novelis,Novelis,Average Handle Time,7/1/2015,376,516,446.00
+novelis,Novelis,Average Handle Time,8/1/2015,610,983,796.50
+novelis,Novelis,Average Handle Time,9/1/2015,391,802,596.50
+novelis,Novelis,Average Handle Time,10/1/2015,409,932,670.50
+novelis,Novelis,Average Handle Time,11/1/2015,262,421,341.50
+novelis,Novelis,Average Handle Time,12/1/2015,531,667,599.00
+novelis,Novelis,Average Handle Time,1/1/2016,554,602,578.00
+novelis,Novelis,Average Handle Time,2/1/2016,496,893,694.50
+novelis,Novelis,Average Handle Time,3/1/2016,814,857,835.50
+novelis,Novelis,Average Handle Time,4/1/2016,508,798,653.00
+novelis,Novelis,Average Handle Time,5/1/2016,428,810,619.00
+novelis,Novelis,Average Handle Time,6/1/2016,370,717,543.50
+novelis,Novelis,Average Handle Time,7/1/2016,8,574,291.00
+novelis,Novelis,Average Handle Time,8/1/2016,885,921,903.00
+novelis,Novelis,Average Hold Time,1/1/2015,828,834,831.00
+novelis,Novelis,Average Hold Time,2/1/2015,379,815,597.00
+novelis,Novelis,Average Hold Time,3/1/2015,61,665,363.00
+novelis,Novelis,Average Hold Time,4/1/2015,283,817,550.00
+novelis,Novelis,Average Hold Time,5/1/2015,19,762,390.50
+novelis,Novelis,Average Hold Time,6/1/2015,143,835,489.00
+novelis,Novelis,Average Hold Time,7/1/2015,982,982,982.00
+novelis,Novelis,Average Hold Time,8/1/2015,806,846,826.00
+novelis,Novelis,Average Hold Time,9/1/2015,671,859,765.00
+novelis,Novelis,Average Hold Time,10/1/2015,881,950,915.50
+novelis,Novelis,Average Hold Time,11/1/2015,449,506,477.50
+novelis,Novelis,Average Hold Time,12/1/2015,251,890,570.50
+novelis,Novelis,Average Hold Time,1/1/2016,104,495,299.50
+novelis,Novelis,Average Hold Time,2/1/2016,414,984,699.00
+novelis,Novelis,Average Hold Time,3/1/2016,553,825,689.00
+novelis,Novelis,Average Hold Time,4/1/2016,769,937,853.00
+novelis,Novelis,Average Hold Time,5/1/2016,181,267,224.00
+novelis,Novelis,Average Hold Time,6/1/2016,365,622,493.50
+novelis,Novelis,Average Hold Time,7/1/2016,117,948,532.50
+novelis,Novelis,Average Hold Time,8/1/2016,364,995,679.50
+novelis,Novelis,Average Speed to Answer,1/1/2015,229,950,589.50
+novelis,Novelis,Average Speed to Answer,2/1/2015,944,987,965.50
+novelis,Novelis,Average Speed to Answer,3/1/2015,378,932,655.00
+novelis,Novelis,Average Speed to Answer,4/1/2015,297,494,395.50
+novelis,Novelis,Average Speed to Answer,5/1/2015,366,608,487.00
+novelis,Novelis,Average Speed to Answer,6/1/2015,353,491,422.00
+novelis,Novelis,Average Speed to Answer,7/1/2015,929,984,956.50
+novelis,Novelis,Average Speed to Answer,8/1/2015,267,413,340.00
+novelis,Novelis,Average Speed to Answer,9/1/2015,715,824,769.50
+novelis,Novelis,Average Speed to Answer,10/1/2015,802,865,833.50
+novelis,Novelis,Average Speed to Answer,11/1/2015,263,756,509.50
+novelis,Novelis,Average Speed to Answer,12/1/2015,884,970,927.00
+novelis,Novelis,Average Speed to Answer,1/1/2016,762,913,837.50
+novelis,Novelis,Average Speed to Answer,2/1/2016,744,996,870.00
+novelis,Novelis,Average Speed to Answer,3/1/2016,518,922,720.00
+novelis,Novelis,Average Speed to Answer,4/1/2016,458,964,711.00
+novelis,Novelis,Average Speed to Answer,5/1/2016,424,481,452.50
+novelis,Novelis,Average Speed to Answer,6/1/2016,722,921,821.50
+novelis,Novelis,Average Speed to Answer,7/1/2016,672,901,786.50
+novelis,Novelis,Average Speed to Answer,8/1/2016,813,996,904.50
+novelis,Novelis,Average Talk Time,1/1/2015,660,925,792.50
+novelis,Novelis,Average Talk Time,2/1/2015,6,323,164.50
+novelis,Novelis,Average Talk Time,3/1/2015,770,999,884.50
+novelis,Novelis,Average Talk Time,4/1/2015,724,989,856.50
+novelis,Novelis,Average Talk Time,5/1/2015,226,285,255.50
+novelis,Novelis,Average Talk Time,6/1/2015,509,878,693.50
+novelis,Novelis,Average Talk Time,7/1/2015,314,822,568.00
+novelis,Novelis,Average Talk Time,8/1/2015,780,939,859.50
+novelis,Novelis,Average Talk Time,9/1/2015,447,814,630.50
+novelis,Novelis,Average Talk Time,10/1/2015,359,816,587.50
+novelis,Novelis,Average Talk Time,11/1/2015,804,885,844.50
+novelis,Novelis,Average Talk Time,12/1/2015,934,979,956.50
+novelis,Novelis,Average Talk Time,1/1/2016,318,681,499.50
+novelis,Novelis,Average Talk Time,2/1/2016,690,768,729.00
+novelis,Novelis,Average Talk Time,3/1/2016,402,881,641.50
+novelis,Novelis,Average Talk Time,4/1/2016,441,832,636.50
+novelis,Novelis,Average Talk Time,5/1/2016,397,885,641.00
+novelis,Novelis,Average Talk Time,6/1/2016,73,621,347.00
+novelis,Novelis,Average Talk Time,7/1/2016,218,409,313.50
+novelis,Novelis,Average Talk Time,8/1/2016,955,975,965.00
+novelis,Novelis,Average Wrap Time,1/1/2015,592,654,623.00
+novelis,Novelis,Average Wrap Time,2/1/2015,732,890,811.00
+novelis,Novelis,Average Wrap Time,3/1/2015,853,961,907.00
+novelis,Novelis,Average Wrap Time,4/1/2015,733,936,834.50
+novelis,Novelis,Average Wrap Time,5/1/2015,946,989,967.50
+novelis,Novelis,Average Wrap Time,6/1/2015,948,983,965.50
+novelis,Novelis,Average Wrap Time,7/1/2015,709,963,836.00
+novelis,Novelis,Average Wrap Time,8/1/2015,251,338,294.50
+novelis,Novelis,Average Wrap Time,9/1/2015,123,266,194.50
+novelis,Novelis,Average Wrap Time,10/1/2015,498,581,539.50
+novelis,Novelis,Average Wrap Time,11/1/2015,367,723,545.00
+novelis,Novelis,Average Wrap Time,12/1/2015,286,328,307.00
+novelis,Novelis,Average Wrap Time,1/1/2016,196,468,332.00
+novelis,Novelis,Average Wrap Time,2/1/2016,23,363,193.00
+novelis,Novelis,Average Wrap Time,3/1/2016,461,480,470.50
+novelis,Novelis,Average Wrap Time,4/1/2016,50,810,430.00
+novelis,Novelis,Average Wrap Time,5/1/2016,604,658,631.00
+novelis,Novelis,Average Wrap Time,6/1/2016,126,425,275.50
+novelis,Novelis,Average Wrap Time,7/1/2016,337,859,598.00
+novelis,Novelis,Average Wrap Time,8/1/2016,946,955,950.50
+novelis,Novelis,Chat Service Level,1/1/2015,127,517,0.25
+novelis,Novelis,Chat Service Level,2/1/2015,512,874,0.59
+novelis,Novelis,Chat Service Level,3/1/2015,879,988,0.89
+novelis,Novelis,Chat Service Level,4/1/2015,156,199,0.78
+novelis,Novelis,Chat Service Level,5/1/2015,361,404,0.89
+novelis,Novelis,Chat Service Level,6/1/2015,396,646,0.61
+novelis,Novelis,Chat Service Level,7/1/2015,486,539,0.90
+novelis,Novelis,Chat Service Level,8/1/2015,379,672,0.56
+novelis,Novelis,Chat Service Level,9/1/2015,38,383,0.10
+novelis,Novelis,Chat Service Level,10/1/2015,921,968,0.95
+novelis,Novelis,Chat Service Level,11/1/2015,281,364,0.77
+novelis,Novelis,Chat Service Level,12/1/2015,33,471,0.07
+novelis,Novelis,Chat Service Level,1/1/2016,590,620,0.95
+novelis,Novelis,Chat Service Level,2/1/2016,160,784,0.20
+novelis,Novelis,Chat Service Level,3/1/2016,670,934,0.72
+novelis,Novelis,Chat Service Level,4/1/2016,12,707,0.02
+novelis,Novelis,Chat Service Level,5/1/2016,35,968,0.04
+novelis,Novelis,Chat Service Level,6/1/2016,167,835,0.20
+novelis,Novelis,Chat Service Level,7/1/2016,182,414,0.44
+novelis,Novelis,Chat Service Level,8/1/2016,714,852,0.84
+novelis,Novelis,First Call Closure,1/1/2015,461,965,0.48
+novelis,Novelis,First Call Closure,2/1/2015,183,807,0.23
+novelis,Novelis,First Call Closure,3/1/2015,197,932,0.21
+novelis,Novelis,First Call Closure,4/1/2015,41,985,0.04
+novelis,Novelis,First Call Closure,5/1/2015,941,997,0.94
+novelis,Novelis,First Call Closure,6/1/2015,731,773,0.95
+novelis,Novelis,First Call Closure,7/1/2015,721,806,0.89
+novelis,Novelis,First Call Closure,8/1/2015,242,633,0.38
+novelis,Novelis,First Call Closure,9/1/2015,394,798,0.49
+novelis,Novelis,First Call Closure,10/1/2015,13,194,0.07
+novelis,Novelis,First Call Closure,11/1/2015,878,882,1.00
+novelis,Novelis,First Call Closure,12/1/2015,662,849,0.78
+novelis,Novelis,First Call Closure,1/1/2016,619,957,0.65
+novelis,Novelis,First Call Closure,2/1/2016,746,980,0.76
+novelis,Novelis,First Call Closure,3/1/2016,703,740,0.95
+novelis,Novelis,First Call Closure,4/1/2016,726,989,0.73
+novelis,Novelis,First Call Closure,5/1/2016,260,302,0.86
+novelis,Novelis,First Call Closure,6/1/2016,620,718,0.86
+novelis,Novelis,First Call Closure,7/1/2016,632,798,0.79
+novelis,Novelis,First Call Closure,8/1/2016,757,960,0.79
+novelis,Novelis,First Tier Closure,1/1/2015,780,950,0.82
+novelis,Novelis,First Tier Closure,2/1/2015,949,990,0.96
+novelis,Novelis,First Tier Closure,3/1/2015,663,856,0.77
+novelis,Novelis,First Tier Closure,4/1/2015,252,877,0.29
+novelis,Novelis,First Tier Closure,5/1/2015,542,715,0.76
+novelis,Novelis,First Tier Closure,6/1/2015,531,862,0.62
+novelis,Novelis,First Tier Closure,7/1/2015,943,996,0.95
+novelis,Novelis,First Tier Closure,8/1/2015,465,646,0.72
+novelis,Novelis,First Tier Closure,9/1/2015,547,661,0.83
+novelis,Novelis,First Tier Closure,10/1/2015,331,464,0.71
+novelis,Novelis,First Tier Closure,11/1/2015,192,406,0.47
+novelis,Novelis,First Tier Closure,12/1/2015,453,851,0.53
+novelis,Novelis,First Tier Closure,1/1/2016,678,838,0.81
+novelis,Novelis,First Tier Closure,2/1/2016,585,835,0.70
+novelis,Novelis,First Tier Closure,3/1/2016,954,958,1.00
+novelis,Novelis,First Tier Closure,4/1/2016,217,460,0.47
+novelis,Novelis,First Tier Closure,5/1/2016,677,827,0.82
+novelis,Novelis,First Tier Closure,6/1/2016,740,803,0.92
+novelis,Novelis,First Tier Closure,7/1/2016,759,965,0.79
+novelis,Novelis,First Tier Closure,8/1/2016,44,972,0.05
+novelis,Novelis,Inbound Call Volume,1/1/2015,274,801,0.34
+novelis,Novelis,Inbound Call Volume,2/1/2015,899,992,0.91
+novelis,Novelis,Inbound Call Volume,3/1/2015,530,858,0.62
+novelis,Novelis,Inbound Call Volume,4/1/2015,598,671,0.89
+novelis,Novelis,Inbound Call Volume,5/1/2015,46,560,0.08
+novelis,Novelis,Inbound Call Volume,6/1/2015,263,386,0.68
+novelis,Novelis,Inbound Call Volume,7/1/2015,785,863,0.91
+novelis,Novelis,Inbound Call Volume,8/1/2015,301,489,0.62
+novelis,Novelis,Inbound Call Volume,9/1/2015,194,622,0.31
+novelis,Novelis,Inbound Call Volume,10/1/2015,824,878,0.94
+novelis,Novelis,Inbound Call Volume,11/1/2015,357,736,0.49
+novelis,Novelis,Inbound Call Volume,12/1/2015,679,916,0.74
+novelis,Novelis,Inbound Call Volume,1/1/2016,336,705,0.48
+novelis,Novelis,Inbound Call Volume,2/1/2016,256,276,0.93
+novelis,Novelis,Inbound Call Volume,3/1/2016,314,424,0.74
+novelis,Novelis,Inbound Call Volume,4/1/2016,329,663,0.50
+novelis,Novelis,Inbound Call Volume,5/1/2016,329,907,0.36
+novelis,Novelis,Inbound Call Volume,6/1/2016,845,983,0.86
+novelis,Novelis,Inbound Call Volume,7/1/2016,974,984,0.99
+novelis,Novelis,Inbound Call Volume,8/1/2016,992,994,1.00
+novelis,Novelis,Phone Service Level,1/1/2015,535,854,0.63
+novelis,Novelis,Phone Service Level,2/1/2015,304,426,0.71
+novelis,Novelis,Phone Service Level,3/1/2015,477,782,0.61
+novelis,Novelis,Phone Service Level,4/1/2015,744,967,0.77
+novelis,Novelis,Phone Service Level,5/1/2015,936,987,0.95
+novelis,Novelis,Phone Service Level,6/1/2015,526,599,0.88
+novelis,Novelis,Phone Service Level,7/1/2015,885,940,0.94
+novelis,Novelis,Phone Service Level,8/1/2015,701,724,0.97
+novelis,Novelis,Phone Service Level,9/1/2015,656,785,0.84
+novelis,Novelis,Phone Service Level,10/1/2015,307,642,0.48
+novelis,Novelis,Phone Service Level,11/1/2015,487,625,0.78
+novelis,Novelis,Phone Service Level,12/1/2015,767,991,0.77
+novelis,Novelis,Phone Service Level,1/1/2016,725,939,0.77
+novelis,Novelis,Phone Service Level,2/1/2016,574,786,0.73
+novelis,Novelis,Phone Service Level,3/1/2016,133,907,0.15
+novelis,Novelis,Phone Service Level,4/1/2016,820,903,0.91
+novelis,Novelis,Phone Service Level,5/1/2016,150,832,0.18
+novelis,Novelis,Phone Service Level,6/1/2016,713,746,0.96
+novelis,Novelis,Phone Service Level,7/1/2016,80,454,0.18
+novelis,Novelis,Phone Service Level,8/1/2016,370,558,0.66
+novelis,Novelis,Web Service Level,1/1/2015,523,870,0.60
+novelis,Novelis,Web Service Level,2/1/2015,894,962,0.93
+novelis,Novelis,Web Service Level,3/1/2015,237,989,0.24
+novelis,Novelis,Web Service Level,4/1/2015,868,923,0.94
+novelis,Novelis,Web Service Level,5/1/2015,627,831,0.75
+novelis,Novelis,Web Service Level,6/1/2015,923,981,0.94
+novelis,Novelis,Web Service Level,7/1/2015,673,814,0.83
+novelis,Novelis,Web Service Level,8/1/2015,974,998,0.98
+novelis,Novelis,Web Service Level,9/1/2015,346,602,0.57
+novelis,Novelis,Web Service Level,10/1/2015,97,486,0.20
+novelis,Novelis,Web Service Level,11/1/2015,501,889,0.56
+novelis,Novelis,Web Service Level,12/1/2015,163,515,0.32
+novelis,Novelis,Web Service Level,1/1/2016,498,563,0.88
+novelis,Novelis,Web Service Level,2/1/2016,920,974,0.94
+novelis,Novelis,Web Service Level,3/1/2016,376,747,0.50
+novelis,Novelis,Web Service Level,4/1/2016,710,716,0.99
+novelis,Novelis,Web Service Level,5/1/2016,815,998,0.82
+novelis,Novelis,Web Service Level,6/1/2016,477,582,0.82
+novelis,Novelis,Web Service Level,7/1/2016,245,675,0.36
+novelis,Novelis,Web Service Level,8/1/2016,818,949,0.86
+routeone,Route One,Abandon Rate,1/1/2015,333,798,0.42
+routeone,Route One,Abandon Rate,2/1/2015,222,561,0.40
+routeone,Route One,Abandon Rate,3/1/2015,695,992,0.70
+routeone,Route One,Abandon Rate,4/1/2015,796,935,0.85
+routeone,Route One,Abandon Rate,5/1/2015,568,807,0.70
+routeone,Route One,Abandon Rate,6/1/2015,590,801,0.74
+routeone,Route One,Abandon Rate,7/1/2015,529,935,0.57
+routeone,Route One,Abandon Rate,8/1/2015,615,869,0.71
+routeone,Route One,Abandon Rate,9/1/2015,266,768,0.35
+routeone,Route One,Abandon Rate,10/1/2015,735,847,0.87
+routeone,Route One,Abandon Rate,11/1/2015,501,507,0.99
+routeone,Route One,Abandon Rate,12/1/2015,373,560,0.67
+routeone,Route One,Abandon Rate,1/1/2016,625,726,0.86
+routeone,Route One,Abandon Rate,2/1/2016,364,716,0.51
+routeone,Route One,Abandon Rate,3/1/2016,509,636,0.80
+routeone,Route One,Abandon Rate,4/1/2016,727,773,0.94
+routeone,Route One,Abandon Rate,5/1/2016,420,802,0.52
+routeone,Route One,Abandon Rate,6/1/2016,795,976,0.81
+routeone,Route One,Abandon Rate,7/1/2016,988,999,0.99
+routeone,Route One,Abandon Rate,8/1/2016,679,729,0.93
+routeone,Route One,Average Handle Time,1/1/2015,571,707,639.00
+routeone,Route One,Average Handle Time,2/1/2015,660,953,806.50
+routeone,Route One,Average Handle Time,3/1/2015,57,711,384.00
+routeone,Route One,Average Handle Time,4/1/2015,998,1000,999.00
+routeone,Route One,Average Handle Time,5/1/2015,415,886,650.50
+routeone,Route One,Average Handle Time,6/1/2015,835,841,838.00
+routeone,Route One,Average Handle Time,7/1/2015,66,970,518.00
+routeone,Route One,Average Handle Time,8/1/2015,587,675,631.00
+routeone,Route One,Average Handle Time,9/1/2015,916,937,926.50
+routeone,Route One,Average Handle Time,10/1/2015,255,519,387.00
+routeone,Route One,Average Handle Time,11/1/2015,937,986,961.50
+routeone,Route One,Average Handle Time,12/1/2015,849,984,916.50
+routeone,Route One,Average Handle Time,1/1/2016,196,787,491.50
+routeone,Route One,Average Handle Time,2/1/2016,56,345,200.50
+routeone,Route One,Average Handle Time,3/1/2016,154,662,408.00
+routeone,Route One,Average Handle Time,4/1/2016,390,727,558.50
+routeone,Route One,Average Handle Time,5/1/2016,629,710,669.50
+routeone,Route One,Average Handle Time,6/1/2016,13,672,342.50
+routeone,Route One,Average Handle Time,7/1/2016,373,890,631.50
+routeone,Route One,Average Handle Time,8/1/2016,496,897,696.50
+routeone,Route One,Average Hold Time,1/1/2015,784,944,864.00
+routeone,Route One,Average Hold Time,2/1/2015,369,581,475.00
+routeone,Route One,Average Hold Time,3/1/2015,814,921,867.50
+routeone,Route One,Average Hold Time,4/1/2015,674,833,753.50
+routeone,Route One,Average Hold Time,5/1/2015,106,470,288.00
+routeone,Route One,Average Hold Time,6/1/2015,422,801,611.50
+routeone,Route One,Average Hold Time,7/1/2015,801,804,802.50
+routeone,Route One,Average Hold Time,8/1/2015,95,516,305.50
+routeone,Route One,Average Hold Time,9/1/2015,501,844,672.50
+routeone,Route One,Average Hold Time,10/1/2015,756,935,845.50
+routeone,Route One,Average Hold Time,11/1/2015,722,992,857.00
+routeone,Route One,Average Hold Time,12/1/2015,699,805,752.00
+routeone,Route One,Average Hold Time,1/1/2016,223,367,295.00
+routeone,Route One,Average Hold Time,2/1/2016,253,428,340.50
+routeone,Route One,Average Hold Time,3/1/2016,513,907,710.00
+routeone,Route One,Average Hold Time,4/1/2016,686,892,789.00
+routeone,Route One,Average Hold Time,5/1/2016,306,878,592.00
+routeone,Route One,Average Hold Time,6/1/2016,157,719,438.00
+routeone,Route One,Average Hold Time,7/1/2016,297,366,331.50
+routeone,Route One,Average Hold Time,8/1/2016,258,757,507.50
+routeone,Route One,Average Speed to Answer,1/1/2015,749,985,867.00
+routeone,Route One,Average Speed to Answer,2/1/2015,413,890,651.50
+routeone,Route One,Average Speed to Answer,3/1/2015,670,891,780.50
+routeone,Route One,Average Speed to Answer,4/1/2015,228,709,468.50
+routeone,Route One,Average Speed to Answer,5/1/2015,623,845,734.00
+routeone,Route One,Average Speed to Answer,6/1/2015,214,716,465.00
+routeone,Route One,Average Speed to Answer,7/1/2015,736,991,863.50
+routeone,Route One,Average Speed to Answer,8/1/2015,694,864,779.00
+routeone,Route One,Average Speed to Answer,9/1/2015,755,972,863.50
+routeone,Route One,Average Speed to Answer,10/1/2015,777,956,866.50
+routeone,Route One,Average Speed to Answer,11/1/2015,437,650,543.50
+routeone,Route One,Average Speed to Answer,12/1/2015,766,911,838.50
+routeone,Route One,Average Speed to Answer,1/1/2016,750,1000,875.00
+routeone,Route One,Average Speed to Answer,2/1/2016,898,997,947.50
+routeone,Route One,Average Speed to Answer,3/1/2016,627,854,740.50
+routeone,Route One,Average Speed to Answer,4/1/2016,374,463,418.50
+routeone,Route One,Average Speed to Answer,5/1/2016,21,927,474.00
+routeone,Route One,Average Speed to Answer,6/1/2016,145,979,562.00
+routeone,Route One,Average Speed to Answer,7/1/2016,328,854,591.00
+routeone,Route One,Average Speed to Answer,8/1/2016,689,884,786.50
+routeone,Route One,Average Talk Time,1/1/2015,651,693,672.00
+routeone,Route One,Average Talk Time,2/1/2015,698,707,702.50
+routeone,Route One,Average Talk Time,3/1/2015,576,911,743.50
+routeone,Route One,Average Talk Time,4/1/2015,691,793,742.00
+routeone,Route One,Average Talk Time,5/1/2015,285,873,579.00
+routeone,Route One,Average Talk Time,6/1/2015,984,993,988.50
+routeone,Route One,Average Talk Time,7/1/2015,436,498,467.00
+routeone,Route One,Average Talk Time,8/1/2015,846,884,865.00
+routeone,Route One,Average Talk Time,9/1/2015,513,993,753.00
+routeone,Route One,Average Talk Time,10/1/2015,819,979,899.00
+routeone,Route One,Average Talk Time,11/1/2015,839,921,880.00
+routeone,Route One,Average Talk Time,12/1/2015,672,895,783.50
+routeone,Route One,Average Talk Time,1/1/2016,223,965,594.00
+routeone,Route One,Average Talk Time,2/1/2016,199,730,464.50
+routeone,Route One,Average Talk Time,3/1/2016,825,841,833.00
+routeone,Route One,Average Talk Time,4/1/2016,840,951,895.50
+routeone,Route One,Average Talk Time,5/1/2016,634,854,744.00
+routeone,Route One,Average Talk Time,6/1/2016,410,849,629.50
+routeone,Route One,Average Talk Time,7/1/2016,264,822,543.00
+routeone,Route One,Average Talk Time,8/1/2016,564,614,589.00
+routeone,Route One,Average Wrap Time,1/1/2015,501,541,521.00
+routeone,Route One,Average Wrap Time,2/1/2015,176,891,533.50
+routeone,Route One,Average Wrap Time,3/1/2015,213,320,266.50
+routeone,Route One,Average Wrap Time,4/1/2015,250,883,566.50
+routeone,Route One,Average Wrap Time,5/1/2015,567,976,771.50
+routeone,Route One,Average Wrap Time,6/1/2015,725,864,794.50
+routeone,Route One,Average Wrap Time,7/1/2015,649,966,807.50
+routeone,Route One,Average Wrap Time,8/1/2015,194,916,555.00
+routeone,Route One,Average Wrap Time,9/1/2015,902,931,916.50
+routeone,Route One,Average Wrap Time,10/1/2015,653,955,804.00
+routeone,Route One,Average Wrap Time,11/1/2015,57,385,221.00
+routeone,Route One,Average Wrap Time,12/1/2015,534,638,586.00
+routeone,Route One,Average Wrap Time,1/1/2016,501,603,552.00
+routeone,Route One,Average Wrap Time,2/1/2016,707,974,840.50
+routeone,Route One,Average Wrap Time,3/1/2016,653,866,759.50
+routeone,Route One,Average Wrap Time,4/1/2016,990,997,993.50
+routeone,Route One,Average Wrap Time,5/1/2016,845,948,896.50
+routeone,Route One,Average Wrap Time,6/1/2016,162,414,288.00
+routeone,Route One,Average Wrap Time,7/1/2016,202,737,469.50
+routeone,Route One,Average Wrap Time,8/1/2016,607,829,718.00
+routeone,Route One,Chat Service Level,1/1/2015,74,171,0.43
+routeone,Route One,Chat Service Level,2/1/2015,423,656,0.64
+routeone,Route One,Chat Service Level,3/1/2015,354,562,0.63
+routeone,Route One,Chat Service Level,4/1/2015,997,997,1.00
+routeone,Route One,Chat Service Level,5/1/2015,80,588,0.14
+routeone,Route One,Chat Service Level,6/1/2015,246,705,0.35
+routeone,Route One,Chat Service Level,7/1/2015,875,915,0.96
+routeone,Route One,Chat Service Level,8/1/2015,721,981,0.74
+routeone,Route One,Chat Service Level,9/1/2015,530,688,0.77
+routeone,Route One,Chat Service Level,10/1/2015,152,267,0.57
+routeone,Route One,Chat Service Level,11/1/2015,866,904,0.96
+routeone,Route One,Chat Service Level,12/1/2015,993,996,1.00
+routeone,Route One,Chat Service Level,1/1/2016,275,384,0.72
+routeone,Route One,Chat Service Level,2/1/2016,581,890,0.65
+routeone,Route One,Chat Service Level,3/1/2016,125,264,0.47
+routeone,Route One,Chat Service Level,4/1/2016,22,828,0.03
+routeone,Route One,Chat Service Level,5/1/2016,498,565,0.88
+routeone,Route One,Chat Service Level,6/1/2016,989,989,1.00
+routeone,Route One,Chat Service Level,7/1/2016,402,658,0.61
+routeone,Route One,Chat Service Level,8/1/2016,839,913,0.92
+routeone,Route One,First Call Closure,1/1/2015,818,970,0.84
+routeone,Route One,First Call Closure,2/1/2015,45,791,0.06
+routeone,Route One,First Call Closure,3/1/2015,755,780,0.97
+routeone,Route One,First Call Closure,4/1/2015,986,990,1.00
+routeone,Route One,First Call Closure,5/1/2015,165,546,0.30
+routeone,Route One,First Call Closure,6/1/2015,289,882,0.33
+routeone,Route One,First Call Closure,7/1/2015,697,953,0.73
+routeone,Route One,First Call Closure,8/1/2015,838,892,0.94
+routeone,Route One,First Call Closure,9/1/2015,794,803,0.99
+routeone,Route One,First Call Closure,10/1/2015,756,947,0.80
+routeone,Route One,First Call Closure,11/1/2015,844,857,0.98
+routeone,Route One,First Call Closure,12/1/2015,114,380,0.30
+routeone,Route One,First Call Closure,1/1/2016,416,419,0.99
+routeone,Route One,First Call Closure,2/1/2016,568,680,0.84
+routeone,Route One,First Call Closure,3/1/2016,287,590,0.49
+routeone,Route One,First Call Closure,4/1/2016,114,730,0.16
+routeone,Route One,First Call Closure,5/1/2016,871,998,0.87
+routeone,Route One,First Call Closure,6/1/2016,435,586,0.74
+routeone,Route One,First Call Closure,7/1/2016,393,590,0.67
+routeone,Route One,First Call Closure,8/1/2016,534,941,0.57
+routeone,Route One,First Tier Closure,1/1/2015,207,811,0.26
+routeone,Route One,First Tier Closure,2/1/2015,439,472,0.93
+routeone,Route One,First Tier Closure,3/1/2015,305,546,0.56
+routeone,Route One,First Tier Closure,4/1/2015,999,1000,1.00
+routeone,Route One,First Tier Closure,5/1/2015,149,263,0.57
+routeone,Route One,First Tier Closure,6/1/2015,949,985,0.96
+routeone,Route One,First Tier Closure,7/1/2015,769,802,0.96
+routeone,Route One,First Tier Closure,8/1/2015,507,797,0.64
+routeone,Route One,First Tier Closure,9/1/2015,926,958,0.97
+routeone,Route One,First Tier Closure,10/1/2015,90,819,0.11
+routeone,Route One,First Tier Closure,11/1/2015,904,908,1.00
+routeone,Route One,First Tier Closure,12/1/2015,907,961,0.94
+routeone,Route One,First Tier Closure,1/1/2016,939,945,0.99
+routeone,Route One,First Tier Closure,2/1/2016,885,886,1.00
+routeone,Route One,First Tier Closure,3/1/2016,23,770,0.03
+routeone,Route One,First Tier Closure,4/1/2016,539,597,0.90
+routeone,Route One,First Tier Closure,5/1/2016,8,86,0.09
+routeone,Route One,First Tier Closure,6/1/2016,792,920,0.86
+routeone,Route One,First Tier Closure,7/1/2016,68,98,0.69
+routeone,Route One,First Tier Closure,8/1/2016,724,916,0.79
+routeone,Route One,Inbound Call Volume,1/1/2015,207,393,0.53
+routeone,Route One,Inbound Call Volume,2/1/2015,953,956,1.00
+routeone,Route One,Inbound Call Volume,3/1/2015,784,812,0.97
+routeone,Route One,Inbound Call Volume,4/1/2015,541,790,0.68
+routeone,Route One,Inbound Call Volume,5/1/2015,834,983,0.85
+routeone,Route One,Inbound Call Volume,6/1/2015,783,891,0.88
+routeone,Route One,Inbound Call Volume,7/1/2015,139,951,0.15
+routeone,Route One,Inbound Call Volume,8/1/2015,873,977,0.89
+routeone,Route One,Inbound Call Volume,9/1/2015,259,779,0.33
+routeone,Route One,Inbound Call Volume,10/1/2015,979,1000,0.98
+routeone,Route One,Inbound Call Volume,11/1/2015,962,969,0.99
+routeone,Route One,Inbound Call Volume,12/1/2015,572,967,0.59
+routeone,Route One,Inbound Call Volume,1/1/2016,968,969,1.00
+routeone,Route One,Inbound Call Volume,2/1/2016,616,782,0.79
+routeone,Route One,Inbound Call Volume,3/1/2016,757,945,0.80
+routeone,Route One,Inbound Call Volume,4/1/2016,466,843,0.55
+routeone,Route One,Inbound Call Volume,5/1/2016,985,989,1.00
+routeone,Route One,Inbound Call Volume,6/1/2016,347,758,0.46
+routeone,Route One,Inbound Call Volume,7/1/2016,227,550,0.41
+routeone,Route One,Inbound Call Volume,8/1/2016,176,406,0.43
+routeone,Route One,Phone Service Level,1/1/2015,375,685,0.55
+routeone,Route One,Phone Service Level,2/1/2015,711,985,0.72
+routeone,Route One,Phone Service Level,3/1/2015,497,755,0.66
+routeone,Route One,Phone Service Level,4/1/2015,369,592,0.62
+routeone,Route One,Phone Service Level,5/1/2015,734,835,0.88
+routeone,Route One,Phone Service Level,6/1/2015,942,978,0.96
+routeone,Route One,Phone Service Level,7/1/2015,825,976,0.85
+routeone,Route One,Phone Service Level,8/1/2015,794,997,0.80
+routeone,Route One,Phone Service Level,9/1/2015,637,745,0.86
+routeone,Route One,Phone Service Level,10/1/2015,508,783,0.65
+routeone,Route One,Phone Service Level,11/1/2015,973,987,0.99
+routeone,Route One,Phone Service Level,12/1/2015,615,626,0.98
+routeone,Route One,Phone Service Level,1/1/2016,729,950,0.77
+routeone,Route One,Phone Service Level,2/1/2016,969,969,1.00
+routeone,Route One,Phone Service Level,3/1/2016,307,520,0.59
+routeone,Route One,Phone Service Level,4/1/2016,931,989,0.94
+routeone,Route One,Phone Service Level,5/1/2016,681,930,0.73
+routeone,Route One,Phone Service Level,6/1/2016,367,480,0.76
+routeone,Route One,Phone Service Level,7/1/2016,581,820,0.71
+routeone,Route One,Phone Service Level,8/1/2016,447,711,0.63
+routeone,Route One,Web Service Level,1/1/2015,648,807,0.80
+routeone,Route One,Web Service Level,2/1/2015,5,28,0.18
+routeone,Route One,Web Service Level,3/1/2015,59,377,0.16
+routeone,Route One,Web Service Level,4/1/2015,875,886,0.99
+routeone,Route One,Web Service Level,5/1/2015,756,986,0.77
+routeone,Route One,Web Service Level,6/1/2015,856,959,0.89
+routeone,Route One,Web Service Level,7/1/2015,535,605,0.88
+routeone,Route One,Web Service Level,8/1/2015,545,600,0.91
+routeone,Route One,Web Service Level,9/1/2015,915,988,0.93
+routeone,Route One,Web Service Level,10/1/2015,514,960,0.54
+routeone,Route One,Web Service Level,11/1/2015,842,890,0.95
+routeone,Route One,Web Service Level,12/1/2015,997,1000,1.00
+routeone,Route One,Web Service Level,1/1/2016,38,441,0.09
+routeone,Route One,Web Service Level,2/1/2016,399,594,0.67
+routeone,Route One,Web Service Level,3/1/2016,58,833,0.07
+routeone,Route One,Web Service Level,4/1/2016,530,865,0.61
+routeone,Route One,Web Service Level,5/1/2016,42,740,0.06
+routeone,Route One,Web Service Level,6/1/2016,457,639,0.72
+routeone,Route One,Web Service Level,7/1/2016,815,856,0.95
+routeone,Route One,Web Service Level,8/1/2016,828,918,0.90
+swagelok,Swagelok,Abandon Rate,1/1/2015,404,739,0.55
+swagelok,Swagelok,Abandon Rate,2/1/2015,551,883,0.62
+swagelok,Swagelok,Abandon Rate,3/1/2015,192,719,0.27
+swagelok,Swagelok,Abandon Rate,4/1/2015,238,679,0.35
+swagelok,Swagelok,Abandon Rate,5/1/2015,977,990,0.99
+swagelok,Swagelok,Abandon Rate,6/1/2015,248,522,0.48
+swagelok,Swagelok,Abandon Rate,7/1/2015,197,997,0.20
+swagelok,Swagelok,Abandon Rate,8/1/2015,863,968,0.89
+swagelok,Swagelok,Abandon Rate,9/1/2015,743,949,0.78
+swagelok,Swagelok,Abandon Rate,10/1/2015,289,878,0.33
+swagelok,Swagelok,Abandon Rate,11/1/2015,658,995,0.66
+swagelok,Swagelok,Abandon Rate,12/1/2015,11,946,0.01
+swagelok,Swagelok,Abandon Rate,1/1/2016,855,926,0.92
+swagelok,Swagelok,Abandon Rate,2/1/2016,507,879,0.58
+swagelok,Swagelok,Abandon Rate,3/1/2016,386,768,0.50
+swagelok,Swagelok,Abandon Rate,4/1/2016,585,836,0.70
+swagelok,Swagelok,Abandon Rate,5/1/2016,476,967,0.49
+swagelok,Swagelok,Abandon Rate,6/1/2016,464,906,0.51
+swagelok,Swagelok,Abandon Rate,7/1/2016,539,772,0.70
+swagelok,Swagelok,Abandon Rate,8/1/2016,211,513,0.41
+swagelok,Swagelok,Average Handle Time,1/1/2015,189,291,240.00
+swagelok,Swagelok,Average Handle Time,2/1/2015,837,876,856.50
+swagelok,Swagelok,Average Handle Time,3/1/2015,713,887,800.00
+swagelok,Swagelok,Average Handle Time,4/1/2015,288,691,489.50
+swagelok,Swagelok,Average Handle Time,5/1/2015,338,668,503.00
+swagelok,Swagelok,Average Handle Time,6/1/2015,500,951,725.50
+swagelok,Swagelok,Average Handle Time,7/1/2015,369,580,474.50
+swagelok,Swagelok,Average Handle Time,8/1/2015,911,994,952.50
+swagelok,Swagelok,Average Handle Time,9/1/2015,443,569,506.00
+swagelok,Swagelok,Average Handle Time,10/1/2015,302,598,450.00
+swagelok,Swagelok,Average Handle Time,11/1/2015,6,962,484.00
+swagelok,Swagelok,Average Handle Time,12/1/2015,770,983,876.50
+swagelok,Swagelok,Average Handle Time,1/1/2016,53,63,58.00
+swagelok,Swagelok,Average Handle Time,2/1/2016,900,974,937.00
+swagelok,Swagelok,Average Handle Time,3/1/2016,511,984,747.50
+swagelok,Swagelok,Average Handle Time,4/1/2016,762,974,868.00
+swagelok,Swagelok,Average Handle Time,5/1/2016,890,894,892.00
+swagelok,Swagelok,Average Handle Time,6/1/2016,607,949,778.00
+swagelok,Swagelok,Average Handle Time,7/1/2016,207,230,218.50
+swagelok,Swagelok,Average Handle Time,8/1/2016,372,951,661.50
+swagelok,Swagelok,Average Hold Time,1/1/2015,387,847,617.00
+swagelok,Swagelok,Average Hold Time,2/1/2015,53,598,325.50
+swagelok,Swagelok,Average Hold Time,3/1/2015,212,349,280.50
+swagelok,Swagelok,Average Hold Time,4/1/2015,95,752,423.50
+swagelok,Swagelok,Average Hold Time,5/1/2015,357,549,453.00
+swagelok,Swagelok,Average Hold Time,6/1/2015,395,984,689.50
+swagelok,Swagelok,Average Hold Time,7/1/2015,237,424,330.50
+swagelok,Swagelok,Average Hold Time,8/1/2015,328,625,476.50
+swagelok,Swagelok,Average Hold Time,9/1/2015,138,896,517.00
+swagelok,Swagelok,Average Hold Time,10/1/2015,914,941,927.50
+swagelok,Swagelok,Average Hold Time,11/1/2015,757,985,871.00
+swagelok,Swagelok,Average Hold Time,12/1/2015,75,120,97.50
+swagelok,Swagelok,Average Hold Time,1/1/2016,449,554,501.50
+swagelok,Swagelok,Average Hold Time,2/1/2016,73,474,273.50
+swagelok,Swagelok,Average Hold Time,3/1/2016,442,528,485.00
+swagelok,Swagelok,Average Hold Time,4/1/2016,761,974,867.50
+swagelok,Swagelok,Average Hold Time,5/1/2016,25,46,35.50
+swagelok,Swagelok,Average Hold Time,6/1/2016,354,502,428.00
+swagelok,Swagelok,Average Hold Time,7/1/2016,927,943,935.00
+swagelok,Swagelok,Average Hold Time,8/1/2016,508,757,632.50
+swagelok,Swagelok,Average Speed to Answer,1/1/2015,998,999,998.50
+swagelok,Swagelok,Average Speed to Answer,2/1/2015,848,897,872.50
+swagelok,Swagelok,Average Speed to Answer,3/1/2015,935,986,960.50
+swagelok,Swagelok,Average Speed to Answer,4/1/2015,54,478,266.00
+swagelok,Swagelok,Average Speed to Answer,5/1/2015,476,892,684.00
+swagelok,Swagelok,Average Speed to Answer,6/1/2015,94,552,323.00
+swagelok,Swagelok,Average Speed to Answer,7/1/2015,108,622,365.00
+swagelok,Swagelok,Average Speed to Answer,8/1/2015,299,755,527.00
+swagelok,Swagelok,Average Speed to Answer,9/1/2015,511,795,653.00
+swagelok,Swagelok,Average Speed to Answer,10/1/2015,610,824,717.00
+swagelok,Swagelok,Average Speed to Answer,11/1/2015,841,896,868.50
+swagelok,Swagelok,Average Speed to Answer,12/1/2015,405,795,600.00
+swagelok,Swagelok,Average Speed to Answer,1/1/2016,104,984,544.00
+swagelok,Swagelok,Average Speed to Answer,2/1/2016,454,731,592.50
+swagelok,Swagelok,Average Speed to Answer,3/1/2016,744,933,838.50
+swagelok,Swagelok,Average Speed to Answer,4/1/2016,135,980,557.50
+swagelok,Swagelok,Average Speed to Answer,5/1/2016,106,630,368.00
+swagelok,Swagelok,Average Speed to Answer,6/1/2016,815,856,835.50
+swagelok,Swagelok,Average Speed to Answer,7/1/2016,102,275,188.50
+swagelok,Swagelok,Average Speed to Answer,8/1/2016,477,673,575.00
+swagelok,Swagelok,Average Talk Time,1/1/2015,900,987,943.50
+swagelok,Swagelok,Average Talk Time,2/1/2015,875,952,913.50
+swagelok,Swagelok,Average Talk Time,3/1/2015,956,984,970.00
+swagelok,Swagelok,Average Talk Time,4/1/2015,806,809,807.50
+swagelok,Swagelok,Average Talk Time,5/1/2015,875,917,896.00
+swagelok,Swagelok,Average Talk Time,6/1/2015,16,215,115.50
+swagelok,Swagelok,Average Talk Time,7/1/2015,157,740,448.50
+swagelok,Swagelok,Average Talk Time,8/1/2015,757,800,778.50
+swagelok,Swagelok,Average Talk Time,9/1/2015,666,726,696.00
+swagelok,Swagelok,Average Talk Time,10/1/2015,516,939,727.50
+swagelok,Swagelok,Average Talk Time,11/1/2015,889,969,929.00
+swagelok,Swagelok,Average Talk Time,12/1/2015,329,614,471.50
+swagelok,Swagelok,Average Talk Time,1/1/2016,894,916,905.00
+swagelok,Swagelok,Average Talk Time,2/1/2016,348,411,379.50
+swagelok,Swagelok,Average Talk Time,3/1/2016,446,806,626.00
+swagelok,Swagelok,Average Talk Time,4/1/2016,188,806,497.00
+swagelok,Swagelok,Average Talk Time,5/1/2016,229,613,421.00
+swagelok,Swagelok,Average Talk Time,6/1/2016,36,850,443.00
+swagelok,Swagelok,Average Talk Time,7/1/2016,946,950,948.00
+swagelok,Swagelok,Average Talk Time,8/1/2016,609,694,651.50
+swagelok,Swagelok,Average Wrap Time,1/1/2015,60,430,245.00
+swagelok,Swagelok,Average Wrap Time,2/1/2015,763,860,811.50
+swagelok,Swagelok,Average Wrap Time,3/1/2015,589,951,770.00
+swagelok,Swagelok,Average Wrap Time,4/1/2015,6,918,462.00
+swagelok,Swagelok,Average Wrap Time,5/1/2015,446,675,560.50
+swagelok,Swagelok,Average Wrap Time,6/1/2015,394,695,544.50
+swagelok,Swagelok,Average Wrap Time,7/1/2015,196,728,462.00
+swagelok,Swagelok,Average Wrap Time,8/1/2015,821,835,828.00
+swagelok,Swagelok,Average Wrap Time,9/1/2015,270,868,569.00
+swagelok,Swagelok,Average Wrap Time,10/1/2015,618,808,713.00
+swagelok,Swagelok,Average Wrap Time,11/1/2015,651,782,716.50
+swagelok,Swagelok,Average Wrap Time,12/1/2015,462,781,621.50
+swagelok,Swagelok,Average Wrap Time,1/1/2016,924,947,935.50
+swagelok,Swagelok,Average Wrap Time,2/1/2016,139,606,372.50
+swagelok,Swagelok,Average Wrap Time,3/1/2016,372,453,412.50
+swagelok,Swagelok,Average Wrap Time,4/1/2016,391,845,618.00
+swagelok,Swagelok,Average Wrap Time,5/1/2016,896,902,899.00
+swagelok,Swagelok,Average Wrap Time,6/1/2016,629,778,703.50
+swagelok,Swagelok,Average Wrap Time,7/1/2016,534,992,763.00
+swagelok,Swagelok,Average Wrap Time,8/1/2016,316,484,400.00
+swagelok,Swagelok,Chat Service Level,1/1/2015,517,845,0.61
+swagelok,Swagelok,Chat Service Level,2/1/2015,897,967,0.93
+swagelok,Swagelok,Chat Service Level,3/1/2015,107,337,0.32
+swagelok,Swagelok,Chat Service Level,4/1/2015,427,648,0.66
+swagelok,Swagelok,Chat Service Level,5/1/2015,637,794,0.80
+swagelok,Swagelok,Chat Service Level,6/1/2015,245,898,0.27
+swagelok,Swagelok,Chat Service Level,7/1/2015,426,645,0.66
+swagelok,Swagelok,Chat Service Level,8/1/2015,2,724,0.00
+swagelok,Swagelok,Chat Service Level,9/1/2015,429,998,0.43
+swagelok,Swagelok,Chat Service Level,10/1/2015,172,857,0.20
+swagelok,Swagelok,Chat Service Level,11/1/2015,946,969,0.98
+swagelok,Swagelok,Chat Service Level,12/1/2015,988,993,1.00
+swagelok,Swagelok,Chat Service Level,1/1/2016,830,845,0.98
+swagelok,Swagelok,Chat Service Level,2/1/2016,7,802,0.01
+swagelok,Swagelok,Chat Service Level,3/1/2016,430,608,0.71
+swagelok,Swagelok,Chat Service Level,4/1/2016,778,812,0.96
+swagelok,Swagelok,Chat Service Level,5/1/2016,440,812,0.54
+swagelok,Swagelok,Chat Service Level,6/1/2016,521,582,0.90
+swagelok,Swagelok,Chat Service Level,7/1/2016,679,941,0.72
+swagelok,Swagelok,Chat Service Level,8/1/2016,703,793,0.89
+swagelok,Swagelok,First Call Closure,1/1/2015,921,970,0.95
+swagelok,Swagelok,First Call Closure,2/1/2015,966,979,0.99
+swagelok,Swagelok,First Call Closure,3/1/2015,954,998,0.96
+swagelok,Swagelok,First Call Closure,4/1/2015,337,419,0.80
+swagelok,Swagelok,First Call Closure,5/1/2015,62,791,0.08
+swagelok,Swagelok,First Call Closure,6/1/2015,943,996,0.95
+swagelok,Swagelok,First Call Closure,7/1/2015,498,648,0.77
+swagelok,Swagelok,First Call Closure,8/1/2015,420,567,0.74
+swagelok,Swagelok,First Call Closure,9/1/2015,761,835,0.91
+swagelok,Swagelok,First Call Closure,10/1/2015,140,220,0.64
+swagelok,Swagelok,First Call Closure,11/1/2015,256,842,0.30
+swagelok,Swagelok,First Call Closure,12/1/2015,198,305,0.65
+swagelok,Swagelok,First Call Closure,1/1/2016,442,805,0.55
+swagelok,Swagelok,First Call Closure,2/1/2016,259,909,0.28
+swagelok,Swagelok,First Call Closure,3/1/2016,586,788,0.74
+swagelok,Swagelok,First Call Closure,4/1/2016,266,892,0.30
+swagelok,Swagelok,First Call Closure,5/1/2016,408,793,0.51
+swagelok,Swagelok,First Call Closure,6/1/2016,635,647,0.98
+swagelok,Swagelok,First Call Closure,7/1/2016,172,458,0.38
+swagelok,Swagelok,First Call Closure,8/1/2016,582,950,0.61
+swagelok,Swagelok,First Tier Closure,1/1/2015,378,560,0.68
+swagelok,Swagelok,First Tier Closure,2/1/2015,675,835,0.81
+swagelok,Swagelok,First Tier Closure,3/1/2015,242,326,0.74
+swagelok,Swagelok,First Tier Closure,4/1/2015,802,915,0.88
+swagelok,Swagelok,First Tier Closure,5/1/2015,464,741,0.63
+swagelok,Swagelok,First Tier Closure,6/1/2015,867,932,0.93
+swagelok,Swagelok,First Tier Closure,7/1/2015,345,449,0.77
+swagelok,Swagelok,First Tier Closure,8/1/2015,876,956,0.92
+swagelok,Swagelok,First Tier Closure,9/1/2015,380,962,0.40
+swagelok,Swagelok,First Tier Closure,10/1/2015,824,830,0.99
+swagelok,Swagelok,First Tier Closure,11/1/2015,906,986,0.92
+swagelok,Swagelok,First Tier Closure,12/1/2015,525,903,0.58
+swagelok,Swagelok,First Tier Closure,1/1/2016,401,879,0.46
+swagelok,Swagelok,First Tier Closure,2/1/2016,790,950,0.83
+swagelok,Swagelok,First Tier Closure,3/1/2016,46,688,0.07
+swagelok,Swagelok,First Tier Closure,4/1/2016,594,644,0.92
+swagelok,Swagelok,First Tier Closure,5/1/2016,604,622,0.97
+swagelok,Swagelok,First Tier Closure,6/1/2016,217,512,0.42
+swagelok,Swagelok,First Tier Closure,7/1/2016,578,827,0.70
+swagelok,Swagelok,First Tier Closure,8/1/2016,745,992,0.75
+swagelok,Swagelok,Inbound Call Volume,1/1/2015,150,752,0.20
+swagelok,Swagelok,Inbound Call Volume,2/1/2015,665,895,0.74
+swagelok,Swagelok,Inbound Call Volume,3/1/2015,673,770,0.87
+swagelok,Swagelok,Inbound Call Volume,4/1/2015,43,175,0.25
+swagelok,Swagelok,Inbound Call Volume,5/1/2015,108,335,0.32
+swagelok,Swagelok,Inbound Call Volume,6/1/2015,29,361,0.08
+swagelok,Swagelok,Inbound Call Volume,7/1/2015,291,589,0.49
+swagelok,Swagelok,Inbound Call Volume,8/1/2015,803,858,0.94
+swagelok,Swagelok,Inbound Call Volume,9/1/2015,576,623,0.92
+swagelok,Swagelok,Inbound Call Volume,10/1/2015,733,942,0.78
+swagelok,Swagelok,Inbound Call Volume,11/1/2015,80,981,0.08
+swagelok,Swagelok,Inbound Call Volume,12/1/2015,90,643,0.14
+swagelok,Swagelok,Inbound Call Volume,1/1/2016,63,349,0.18
+swagelok,Swagelok,Inbound Call Volume,2/1/2016,890,905,0.98
+swagelok,Swagelok,Inbound Call Volume,3/1/2016,676,883,0.77
+swagelok,Swagelok,Inbound Call Volume,4/1/2016,278,301,0.92
+swagelok,Swagelok,Inbound Call Volume,5/1/2016,697,934,0.75
+swagelok,Swagelok,Inbound Call Volume,6/1/2016,256,651,0.39
+swagelok,Swagelok,Inbound Call Volume,7/1/2016,188,660,0.28
+swagelok,Swagelok,Inbound Call Volume,8/1/2016,756,964,0.78
+swagelok,Swagelok,Phone Service Level,1/1/2015,415,978,0.42
+swagelok,Swagelok,Phone Service Level,2/1/2015,216,725,0.30
+swagelok,Swagelok,Phone Service Level,3/1/2015,188,588,0.32
+swagelok,Swagelok,Phone Service Level,4/1/2015,226,346,0.65
+swagelok,Swagelok,Phone Service Level,5/1/2015,757,833,0.91
+swagelok,Swagelok,Phone Service Level,6/1/2015,727,757,0.96
+swagelok,Swagelok,Phone Service Level,7/1/2015,230,535,0.43
+swagelok,Swagelok,Phone Service Level,8/1/2015,191,479,0.40
+swagelok,Swagelok,Phone Service Level,9/1/2015,279,885,0.32
+swagelok,Swagelok,Phone Service Level,10/1/2015,774,885,0.87
+swagelok,Swagelok,Phone Service Level,11/1/2015,959,991,0.97
+swagelok,Swagelok,Phone Service Level,12/1/2015,842,997,0.84
+swagelok,Swagelok,Phone Service Level,1/1/2016,861,975,0.88
+swagelok,Swagelok,Phone Service Level,2/1/2016,912,956,0.95
+swagelok,Swagelok,Phone Service Level,3/1/2016,928,955,0.97
+swagelok,Swagelok,Phone Service Level,4/1/2016,324,406,0.80
+swagelok,Swagelok,Phone Service Level,5/1/2016,966,976,0.99
+swagelok,Swagelok,Phone Service Level,6/1/2016,343,765,0.45
+swagelok,Swagelok,Phone Service Level,7/1/2016,354,539,0.66
+swagelok,Swagelok,Phone Service Level,8/1/2016,311,961,0.32
+swagelok,Swagelok,Web Service Level,1/1/2015,885,894,0.99
+swagelok,Swagelok,Web Service Level,2/1/2015,554,928,0.60
+swagelok,Swagelok,Web Service Level,3/1/2015,437,773,0.57
+swagelok,Swagelok,Web Service Level,4/1/2015,972,987,0.98
+swagelok,Swagelok,Web Service Level,5/1/2015,578,879,0.66
+swagelok,Swagelok,Web Service Level,6/1/2015,617,966,0.64
+swagelok,Swagelok,Web Service Level,7/1/2015,570,572,1.00
+swagelok,Swagelok,Web Service Level,8/1/2015,784,874,0.90
+swagelok,Swagelok,Web Service Level,9/1/2015,870,981,0.89
+swagelok,Swagelok,Web Service Level,10/1/2015,174,559,0.31
+swagelok,Swagelok,Web Service Level,11/1/2015,858,970,0.88
+swagelok,Swagelok,Web Service Level,12/1/2015,676,991,0.68
+swagelok,Swagelok,Web Service Level,1/1/2016,294,526,0.56
+swagelok,Swagelok,Web Service Level,2/1/2016,787,808,0.97
+swagelok,Swagelok,Web Service Level,3/1/2016,339,527,0.64
+swagelok,Swagelok,Web Service Level,4/1/2016,437,645,0.68
+swagelok,Swagelok,Web Service Level,5/1/2016,174,504,0.35
+swagelok,Swagelok,Web Service Level,6/1/2016,774,783,0.99
+swagelok,Swagelok,Web Service Level,7/1/2016,751,889,0.84
+swagelok,Swagelok,Web Service Level,8/1/2016,17,786,0.02
+tsi,Town Sports International,Abandon Rate,1/1/2015,823,867,0.95
+tsi,Town Sports International,Abandon Rate,2/1/2015,882,896,0.98
+tsi,Town Sports International,Abandon Rate,3/1/2015,745,838,0.89
+tsi,Town Sports International,Abandon Rate,4/1/2015,483,573,0.84
+tsi,Town Sports International,Abandon Rate,5/1/2015,813,947,0.86
+tsi,Town Sports International,Abandon Rate,6/1/2015,25,119,0.21
+tsi,Town Sports International,Abandon Rate,7/1/2015,458,615,0.74
+tsi,Town Sports International,Abandon Rate,8/1/2015,997,998,1.00
+tsi,Town Sports International,Abandon Rate,9/1/2015,861,972,0.89
+tsi,Town Sports International,Abandon Rate,10/1/2015,119,875,0.14
+tsi,Town Sports International,Abandon Rate,11/1/2015,905,939,0.96
+tsi,Town Sports International,Abandon Rate,12/1/2015,569,600,0.95
+tsi,Town Sports International,Abandon Rate,1/1/2016,222,555,0.40
+tsi,Town Sports International,Abandon Rate,2/1/2016,195,395,0.49
+tsi,Town Sports International,Abandon Rate,3/1/2016,106,887,0.12
+tsi,Town Sports International,Abandon Rate,4/1/2016,858,866,0.99
+tsi,Town Sports International,Abandon Rate,5/1/2016,404,514,0.79
+tsi,Town Sports International,Abandon Rate,6/1/2016,47,950,0.05
+tsi,Town Sports International,Abandon Rate,7/1/2016,511,677,0.75
+tsi,Town Sports International,Abandon Rate,8/1/2016,447,876,0.51
+tsi,Town Sports International,Average Handle Time,1/1/2015,552,794,673.00
+tsi,Town Sports International,Average Handle Time,2/1/2015,117,662,389.50
+tsi,Town Sports International,Average Handle Time,3/1/2015,516,856,686.00
+tsi,Town Sports International,Average Handle Time,4/1/2015,186,252,219.00
+tsi,Town Sports International,Average Handle Time,5/1/2015,816,971,893.50
+tsi,Town Sports International,Average Handle Time,6/1/2015,422,961,691.50
+tsi,Town Sports International,Average Handle Time,7/1/2015,128,960,544.00
+tsi,Town Sports International,Average Handle Time,8/1/2015,220,649,434.50
+tsi,Town Sports International,Average Handle Time,9/1/2015,719,917,818.00
+tsi,Town Sports International,Average Handle Time,10/1/2015,795,916,855.50
+tsi,Town Sports International,Average Handle Time,11/1/2015,382,590,486.00
+tsi,Town Sports International,Average Handle Time,12/1/2015,901,936,918.50
+tsi,Town Sports International,Average Handle Time,1/1/2016,154,798,476.00
+tsi,Town Sports International,Average Handle Time,2/1/2016,612,999,805.50
+tsi,Town Sports International,Average Handle Time,3/1/2016,100,658,379.00
+tsi,Town Sports International,Average Handle Time,4/1/2016,92,333,212.50
+tsi,Town Sports International,Average Handle Time,5/1/2016,590,966,778.00
+tsi,Town Sports International,Average Handle Time,6/1/2016,644,858,751.00
+tsi,Town Sports International,Average Handle Time,7/1/2016,746,762,754.00
+tsi,Town Sports International,Average Handle Time,8/1/2016,187,980,583.50
+tsi,Town Sports International,Average Hold Time,1/1/2015,753,943,848.00
+tsi,Town Sports International,Average Hold Time,2/1/2015,649,876,762.50
+tsi,Town Sports International,Average Hold Time,3/1/2015,960,960,960.00
+tsi,Town Sports International,Average Hold Time,4/1/2015,741,745,743.00
+tsi,Town Sports International,Average Hold Time,5/1/2015,177,947,562.00
+tsi,Town Sports International,Average Hold Time,6/1/2015,821,840,830.50
+tsi,Town Sports International,Average Hold Time,7/1/2015,33,931,482.00
+tsi,Town Sports International,Average Hold Time,8/1/2015,714,843,778.50
+tsi,Town Sports International,Average Hold Time,9/1/2015,889,934,911.50
+tsi,Town Sports International,Average Hold Time,10/1/2015,195,961,578.00
+tsi,Town Sports International,Average Hold Time,11/1/2015,761,974,867.50
+tsi,Town Sports International,Average Hold Time,12/1/2015,890,920,905.00
+tsi,Town Sports International,Average Hold Time,1/1/2016,3,478,240.50
+tsi,Town Sports International,Average Hold Time,2/1/2016,537,733,635.00
+tsi,Town Sports International,Average Hold Time,3/1/2016,949,991,970.00
+tsi,Town Sports International,Average Hold Time,4/1/2016,945,952,948.50
+tsi,Town Sports International,Average Hold Time,5/1/2016,165,181,173.00
+tsi,Town Sports International,Average Hold Time,6/1/2016,636,730,683.00
+tsi,Town Sports International,Average Hold Time,7/1/2016,770,866,818.00
+tsi,Town Sports International,Average Hold Time,8/1/2016,510,994,752.00
+tsi,Town Sports International,Average Speed to Answer,1/1/2015,403,556,479.50
+tsi,Town Sports International,Average Speed to Answer,2/1/2015,77,593,335.00
+tsi,Town Sports International,Average Speed to Answer,3/1/2015,125,240,182.50
+tsi,Town Sports International,Average Speed to Answer,4/1/2015,847,858,852.50
+tsi,Town Sports International,Average Speed to Answer,5/1/2015,122,929,525.50
+tsi,Town Sports International,Average Speed to Answer,6/1/2015,523,987,755.00
+tsi,Town Sports International,Average Speed to Answer,7/1/2015,361,712,536.50
+tsi,Town Sports International,Average Speed to Answer,8/1/2015,18,569,293.50
+tsi,Town Sports International,Average Speed to Answer,9/1/2015,803,962,882.50
+tsi,Town Sports International,Average Speed to Answer,10/1/2015,383,983,683.00
+tsi,Town Sports International,Average Speed to Answer,11/1/2015,355,835,595.00
+tsi,Town Sports International,Average Speed to Answer,12/1/2015,843,886,864.50
+tsi,Town Sports International,Average Speed to Answer,1/1/2016,770,962,866.00
+tsi,Town Sports International,Average Speed to Answer,2/1/2016,898,972,935.00
+tsi,Town Sports International,Average Speed to Answer,3/1/2016,886,907,896.50
+tsi,Town Sports International,Average Speed to Answer,4/1/2016,187,893,540.00
+tsi,Town Sports International,Average Speed to Answer,5/1/2016,892,912,902.00
+tsi,Town Sports International,Average Speed to Answer,6/1/2016,264,667,465.50
+tsi,Town Sports International,Average Speed to Answer,7/1/2016,832,997,914.50
+tsi,Town Sports International,Average Speed to Answer,8/1/2016,259,852,555.50
+tsi,Town Sports International,Average Talk Time,1/1/2015,476,676,576.00
+tsi,Town Sports International,Average Talk Time,2/1/2015,367,932,649.50
+tsi,Town Sports International,Average Talk Time,3/1/2015,270,411,340.50
+tsi,Town Sports International,Average Talk Time,4/1/2015,971,975,973.00
+tsi,Town Sports International,Average Talk Time,5/1/2015,288,650,469.00
+tsi,Town Sports International,Average Talk Time,6/1/2015,637,960,798.50
+tsi,Town Sports International,Average Talk Time,7/1/2015,470,613,541.50
+tsi,Town Sports International,Average Talk Time,8/1/2015,547,601,574.00
+tsi,Town Sports International,Average Talk Time,9/1/2015,378,660,519.00
+tsi,Town Sports International,Average Talk Time,10/1/2015,922,943,932.50
+tsi,Town Sports International,Average Talk Time,11/1/2015,687,982,834.50
+tsi,Town Sports International,Average Talk Time,12/1/2015,3,925,464.00
+tsi,Town Sports International,Average Talk Time,1/1/2016,727,876,801.50
+tsi,Town Sports International,Average Talk Time,2/1/2016,673,831,752.00
+tsi,Town Sports International,Average Talk Time,3/1/2016,971,974,972.50
+tsi,Town Sports International,Average Talk Time,4/1/2016,982,996,989.00
+tsi,Town Sports International,Average Talk Time,5/1/2016,804,828,816.00
+tsi,Town Sports International,Average Talk Time,6/1/2016,181,338,259.50
+tsi,Town Sports International,Average Talk Time,7/1/2016,927,999,963.00
+tsi,Town Sports International,Average Talk Time,8/1/2016,915,968,941.50
+tsi,Town Sports International,Average Wrap Time,1/1/2015,741,855,798.00
+tsi,Town Sports International,Average Wrap Time,2/1/2015,641,830,735.50
+tsi,Town Sports International,Average Wrap Time,3/1/2015,957,972,964.50
+tsi,Town Sports International,Average Wrap Time,4/1/2015,269,976,622.50
+tsi,Town Sports International,Average Wrap Time,5/1/2015,526,676,601.00
+tsi,Town Sports International,Average Wrap Time,6/1/2015,80,945,512.50
+tsi,Town Sports International,Average Wrap Time,7/1/2015,32,525,278.50
+tsi,Town Sports International,Average Wrap Time,8/1/2015,624,986,805.00
+tsi,Town Sports International,Average Wrap Time,9/1/2015,842,875,858.50
+tsi,Town Sports International,Average Wrap Time,10/1/2015,478,838,658.00
+tsi,Town Sports International,Average Wrap Time,11/1/2015,30,836,433.00
+tsi,Town Sports International,Average Wrap Time,12/1/2015,395,627,511.00
+tsi,Town Sports International,Average Wrap Time,1/1/2016,14,814,414.00
+tsi,Town Sports International,Average Wrap Time,2/1/2016,165,697,431.00
+tsi,Town Sports International,Average Wrap Time,3/1/2016,367,800,583.50
+tsi,Town Sports International,Average Wrap Time,4/1/2016,976,978,977.00
+tsi,Town Sports International,Average Wrap Time,5/1/2016,61,579,320.00
+tsi,Town Sports International,Average Wrap Time,6/1/2016,154,418,286.00
+tsi,Town Sports International,Average Wrap Time,7/1/2016,58,325,191.50
+tsi,Town Sports International,Average Wrap Time,8/1/2016,302,863,582.50
+tsi,Town Sports International,Chat Service Level,1/1/2015,497,882,0.56
+tsi,Town Sports International,Chat Service Level,2/1/2015,937,954,0.98
+tsi,Town Sports International,Chat Service Level,3/1/2015,25,826,0.03
+tsi,Town Sports International,Chat Service Level,4/1/2015,788,788,1.00
+tsi,Town Sports International,Chat Service Level,5/1/2015,619,774,0.80
+tsi,Town Sports International,Chat Service Level,6/1/2015,804,999,0.80
+tsi,Town Sports International,Chat Service Level,7/1/2015,914,978,0.93
+tsi,Town Sports International,Chat Service Level,8/1/2015,769,819,0.94
+tsi,Town Sports International,Chat Service Level,9/1/2015,67,474,0.14
+tsi,Town Sports International,Chat Service Level,10/1/2015,578,788,0.73
+tsi,Town Sports International,Chat Service Level,11/1/2015,716,746,0.96
+tsi,Town Sports International,Chat Service Level,12/1/2015,4,229,0.02
+tsi,Town Sports International,Chat Service Level,1/1/2016,618,969,0.64
+tsi,Town Sports International,Chat Service Level,2/1/2016,736,757,0.97
+tsi,Town Sports International,Chat Service Level,3/1/2016,222,891,0.25
+tsi,Town Sports International,Chat Service Level,4/1/2016,917,993,0.92
+tsi,Town Sports International,Chat Service Level,5/1/2016,630,657,0.96
+tsi,Town Sports International,Chat Service Level,6/1/2016,167,829,0.20
+tsi,Town Sports International,Chat Service Level,7/1/2016,361,585,0.62
+tsi,Town Sports International,Chat Service Level,8/1/2016,68,899,0.08
+tsi,Town Sports International,First Call Closure,1/1/2015,684,924,0.74
+tsi,Town Sports International,First Call Closure,2/1/2015,396,672,0.59
+tsi,Town Sports International,First Call Closure,3/1/2015,468,783,0.60
+tsi,Town Sports International,First Call Closure,4/1/2015,472,998,0.47
+tsi,Town Sports International,First Call Closure,5/1/2015,798,861,0.93
+tsi,Town Sports International,First Call Closure,6/1/2015,2,193,0.01
+tsi,Town Sports International,First Call Closure,7/1/2015,694,781,0.89
+tsi,Town Sports International,First Call Closure,8/1/2015,142,474,0.30
+tsi,Town Sports International,First Call Closure,9/1/2015,180,332,0.54
+tsi,Town Sports International,First Call Closure,10/1/2015,319,942,0.34
+tsi,Town Sports International,First Call Closure,11/1/2015,909,972,0.94
+tsi,Town Sports International,First Call Closure,12/1/2015,583,615,0.95
+tsi,Town Sports International,First Call Closure,1/1/2016,716,796,0.90
+tsi,Town Sports International,First Call Closure,2/1/2016,819,874,0.94
+tsi,Town Sports International,First Call Closure,3/1/2016,206,356,0.58
+tsi,Town Sports International,First Call Closure,4/1/2016,509,684,0.74
+tsi,Town Sports International,First Call Closure,5/1/2016,72,794,0.09
+tsi,Town Sports International,First Call Closure,6/1/2016,378,436,0.87
+tsi,Town Sports International,First Call Closure,7/1/2016,598,953,0.63
+tsi,Town Sports International,First Call Closure,8/1/2016,261,465,0.56
+tsi,Town Sports International,First Tier Closure,1/1/2015,974,991,0.98
+tsi,Town Sports International,First Tier Closure,2/1/2015,212,543,0.39
+tsi,Town Sports International,First Tier Closure,3/1/2015,42,254,0.17
+tsi,Town Sports International,First Tier Closure,4/1/2015,858,921,0.93
+tsi,Town Sports International,First Tier Closure,5/1/2015,40,760,0.05
+tsi,Town Sports International,First Tier Closure,6/1/2015,228,830,0.27
+tsi,Town Sports International,First Tier Closure,7/1/2015,526,908,0.58
+tsi,Town Sports International,First Tier Closure,8/1/2015,796,906,0.88
+tsi,Town Sports International,First Tier Closure,9/1/2015,816,879,0.93
+tsi,Town Sports International,First Tier Closure,10/1/2015,48,87,0.55
+tsi,Town Sports International,First Tier Closure,11/1/2015,66,205,0.32
+tsi,Town Sports International,First Tier Closure,12/1/2015,35,204,0.17
+tsi,Town Sports International,First Tier Closure,1/1/2016,164,478,0.34
+tsi,Town Sports International,First Tier Closure,2/1/2016,125,696,0.18
+tsi,Town Sports International,First Tier Closure,3/1/2016,993,994,1.00
+tsi,Town Sports International,First Tier Closure,4/1/2016,719,911,0.79
+tsi,Town Sports International,First Tier Closure,5/1/2016,858,997,0.86
+tsi,Town Sports International,First Tier Closure,6/1/2016,955,967,0.99
+tsi,Town Sports International,First Tier Closure,7/1/2016,176,277,0.64
+tsi,Town Sports International,First Tier Closure,8/1/2016,246,341,0.72
+tsi,Town Sports International,Inbound Call Volume,1/1/2015,164,264,0.62
+tsi,Town Sports International,Inbound Call Volume,2/1/2015,850,924,0.92
+tsi,Town Sports International,Inbound Call Volume,3/1/2015,130,914,0.14
+tsi,Town Sports International,Inbound Call Volume,4/1/2015,656,921,0.71
+tsi,Town Sports International,Inbound Call Volume,5/1/2015,139,714,0.19
+tsi,Town Sports International,Inbound Call Volume,6/1/2015,263,914,0.29
+tsi,Town Sports International,Inbound Call Volume,7/1/2015,749,809,0.93
+tsi,Town Sports International,Inbound Call Volume,8/1/2015,529,602,0.88
+tsi,Town Sports International,Inbound Call Volume,9/1/2015,196,882,0.22
+tsi,Town Sports International,Inbound Call Volume,10/1/2015,992,998,0.99
+tsi,Town Sports International,Inbound Call Volume,11/1/2015,115,548,0.21
+tsi,Town Sports International,Inbound Call Volume,12/1/2015,831,935,0.89
+tsi,Town Sports International,Inbound Call Volume,1/1/2016,812,878,0.92
+tsi,Town Sports International,Inbound Call Volume,2/1/2016,65,308,0.21
+tsi,Town Sports International,Inbound Call Volume,3/1/2016,737,784,0.94
+tsi,Town Sports International,Inbound Call Volume,4/1/2016,776,835,0.93
+tsi,Town Sports International,Inbound Call Volume,5/1/2016,430,464,0.93
+tsi,Town Sports International,Inbound Call Volume,6/1/2016,459,580,0.79
+tsi,Town Sports International,Inbound Call Volume,7/1/2016,454,947,0.48
+tsi,Town Sports International,Inbound Call Volume,8/1/2016,20,71,0.28
+tsi,Town Sports International,Phone Service Level,1/1/2015,714,971,0.74
+tsi,Town Sports International,Phone Service Level,2/1/2015,36,580,0.06
+tsi,Town Sports International,Phone Service Level,3/1/2015,854,991,0.86
+tsi,Town Sports International,Phone Service Level,4/1/2015,401,698,0.57
+tsi,Town Sports International,Phone Service Level,5/1/2015,374,398,0.94
+tsi,Town Sports International,Phone Service Level,6/1/2015,216,690,0.31
+tsi,Town Sports International,Phone Service Level,7/1/2015,966,980,0.99
+tsi,Town Sports International,Phone Service Level,8/1/2015,582,710,0.82
+tsi,Town Sports International,Phone Service Level,9/1/2015,85,835,0.10
+tsi,Town Sports International,Phone Service Level,10/1/2015,969,970,1.00
+tsi,Town Sports International,Phone Service Level,11/1/2015,438,658,0.67
+tsi,Town Sports International,Phone Service Level,12/1/2015,830,897,0.93
+tsi,Town Sports International,Phone Service Level,1/1/2016,863,911,0.95
+tsi,Town Sports International,Phone Service Level,2/1/2016,415,497,0.84
+tsi,Town Sports International,Phone Service Level,3/1/2016,81,395,0.21
+tsi,Town Sports International,Phone Service Level,4/1/2016,986,1000,0.99
+tsi,Town Sports International,Phone Service Level,5/1/2016,736,790,0.93
+tsi,Town Sports International,Phone Service Level,6/1/2016,607,859,0.71
+tsi,Town Sports International,Phone Service Level,7/1/2016,510,735,0.69
+tsi,Town Sports International,Phone Service Level,8/1/2016,297,371,0.80
+tsi,Town Sports International,Web Service Level,1/1/2015,72,793,0.09
+tsi,Town Sports International,Web Service Level,2/1/2015,354,361,0.98
+tsi,Town Sports International,Web Service Level,3/1/2015,147,778,0.19
+tsi,Town Sports International,Web Service Level,4/1/2015,650,801,0.81
+tsi,Town Sports International,Web Service Level,5/1/2015,167,220,0.76
+tsi,Town Sports International,Web Service Level,6/1/2015,661,870,0.76
+tsi,Town Sports International,Web Service Level,7/1/2015,267,450,0.59
+tsi,Town Sports International,Web Service Level,8/1/2015,190,458,0.41
+tsi,Town Sports International,Web Service Level,9/1/2015,529,923,0.57
+tsi,Town Sports International,Web Service Level,10/1/2015,743,925,0.80
+tsi,Town Sports International,Web Service Level,11/1/2015,281,644,0.44
+tsi,Town Sports International,Web Service Level,12/1/2015,422,485,0.87
+tsi,Town Sports International,Web Service Level,1/1/2016,354,528,0.67
+tsi,Town Sports International,Web Service Level,2/1/2016,869,933,0.93
+tsi,Town Sports International,Web Service Level,3/1/2016,731,783,0.93
+tsi,Town Sports International,Web Service Level,4/1/2016,774,918,0.84
+tsi,Town Sports International,Web Service Level,5/1/2016,978,985,0.99
+tsi,Town Sports International,Web Service Level,6/1/2016,959,978,0.98
+tsi,Town Sports International,Web Service Level,7/1/2016,733,819,0.90
+tsi,Town Sports International,Web Service Level,8/1/2016,395,888,0.44
+visteon,Visteon,Abandon Rate,1/1/2015,343,697,0.49
+visteon,Visteon,Abandon Rate,2/1/2015,589,857,0.69
+visteon,Visteon,Abandon Rate,3/1/2015,6,229,0.03
+visteon,Visteon,Abandon Rate,4/1/2015,374,434,0.86
+visteon,Visteon,Abandon Rate,5/1/2015,254,885,0.29
+visteon,Visteon,Abandon Rate,6/1/2015,493,952,0.52
+visteon,Visteon,Abandon Rate,7/1/2015,314,732,0.43
+visteon,Visteon,Abandon Rate,8/1/2015,26,875,0.03
+visteon,Visteon,Abandon Rate,9/1/2015,98,239,0.41
+visteon,Visteon,Abandon Rate,10/1/2015,391,549,0.71
+visteon,Visteon,Abandon Rate,11/1/2015,808,852,0.95
+visteon,Visteon,Abandon Rate,12/1/2015,150,658,0.23
+visteon,Visteon,Abandon Rate,1/1/2016,919,946,0.97
+visteon,Visteon,Abandon Rate,2/1/2016,370,523,0.71
+visteon,Visteon,Abandon Rate,3/1/2016,396,746,0.53
+visteon,Visteon,Abandon Rate,4/1/2016,682,736,0.93
+visteon,Visteon,Abandon Rate,5/1/2016,549,839,0.65
+visteon,Visteon,Abandon Rate,6/1/2016,197,989,0.20
+visteon,Visteon,Abandon Rate,7/1/2016,594,617,0.96
+visteon,Visteon,Abandon Rate,8/1/2016,417,757,0.55
+visteon,Visteon,Average Handle Time,1/1/2015,365,518,441.50
+visteon,Visteon,Average Handle Time,2/1/2015,983,998,990.50
+visteon,Visteon,Average Handle Time,3/1/2015,857,870,863.50
+visteon,Visteon,Average Handle Time,4/1/2015,52,494,273.00
+visteon,Visteon,Average Handle Time,5/1/2015,996,999,997.50
+visteon,Visteon,Average Handle Time,6/1/2015,511,554,532.50
+visteon,Visteon,Average Handle Time,7/1/2015,118,800,459.00
+visteon,Visteon,Average Handle Time,8/1/2015,632,807,719.50
+visteon,Visteon,Average Handle Time,9/1/2015,422,540,481.00
+visteon,Visteon,Average Handle Time,10/1/2015,975,998,986.50
+visteon,Visteon,Average Handle Time,11/1/2015,788,955,871.50
+visteon,Visteon,Average Handle Time,12/1/2015,514,817,665.50
+visteon,Visteon,Average Handle Time,1/1/2016,898,967,932.50
+visteon,Visteon,Average Handle Time,2/1/2016,411,717,564.00
+visteon,Visteon,Average Handle Time,3/1/2016,563,984,773.50
+visteon,Visteon,Average Handle Time,4/1/2016,167,669,418.00
+visteon,Visteon,Average Handle Time,5/1/2016,409,616,512.50
+visteon,Visteon,Average Handle Time,6/1/2016,947,997,972.00
+visteon,Visteon,Average Handle Time,7/1/2016,426,927,676.50
+visteon,Visteon,Average Handle Time,8/1/2016,877,975,926.00
+visteon,Visteon,Average Hold Time,1/1/2015,550,816,683.00
+visteon,Visteon,Average Hold Time,2/1/2015,461,797,629.00
+visteon,Visteon,Average Hold Time,3/1/2015,450,536,493.00
+visteon,Visteon,Average Hold Time,4/1/2015,659,807,733.00
+visteon,Visteon,Average Hold Time,5/1/2015,786,971,878.50
+visteon,Visteon,Average Hold Time,6/1/2015,385,701,543.00
+visteon,Visteon,Average Hold Time,7/1/2015,589,612,600.50
+visteon,Visteon,Average Hold Time,8/1/2015,560,730,645.00
+visteon,Visteon,Average Hold Time,9/1/2015,617,843,730.00
+visteon,Visteon,Average Hold Time,10/1/2015,359,444,401.50
+visteon,Visteon,Average Hold Time,11/1/2015,880,892,886.00
+visteon,Visteon,Average Hold Time,12/1/2015,218,777,497.50
+visteon,Visteon,Average Hold Time,1/1/2016,287,820,553.50
+visteon,Visteon,Average Hold Time,2/1/2016,722,987,854.50
+visteon,Visteon,Average Hold Time,3/1/2016,609,620,614.50
+visteon,Visteon,Average Hold Time,4/1/2016,215,901,558.00
+visteon,Visteon,Average Hold Time,5/1/2016,464,612,538.00
+visteon,Visteon,Average Hold Time,6/1/2016,197,864,530.50
+visteon,Visteon,Average Hold Time,7/1/2016,443,675,559.00
+visteon,Visteon,Average Hold Time,8/1/2016,716,945,830.50
+visteon,Visteon,Average Speed to Answer,1/1/2015,7,942,474.50
+visteon,Visteon,Average Speed to Answer,2/1/2015,356,480,418.00
+visteon,Visteon,Average Speed to Answer,3/1/2015,922,937,929.50
+visteon,Visteon,Average Speed to Answer,4/1/2015,381,661,521.00
+visteon,Visteon,Average Speed to Answer,5/1/2015,334,354,344.00
+visteon,Visteon,Average Speed to Answer,6/1/2015,181,835,508.00
+visteon,Visteon,Average Speed to Answer,7/1/2015,868,944,906.00
+visteon,Visteon,Average Speed to Answer,8/1/2015,3,46,24.50
+visteon,Visteon,Average Speed to Answer,9/1/2015,443,778,610.50
+visteon,Visteon,Average Speed to Answer,10/1/2015,91,731,411.00
+visteon,Visteon,Average Speed to Answer,11/1/2015,553,595,574.00
+visteon,Visteon,Average Speed to Answer,12/1/2015,232,720,476.00
+visteon,Visteon,Average Speed to Answer,1/1/2016,139,243,191.00
+visteon,Visteon,Average Speed to Answer,2/1/2016,613,913,763.00
+visteon,Visteon,Average Speed to Answer,3/1/2016,17,329,173.00
+visteon,Visteon,Average Speed to Answer,4/1/2016,284,903,593.50
+visteon,Visteon,Average Speed to Answer,5/1/2016,33,450,241.50
+visteon,Visteon,Average Speed to Answer,6/1/2016,105,485,295.00
+visteon,Visteon,Average Speed to Answer,7/1/2016,497,854,675.50
+visteon,Visteon,Average Speed to Answer,8/1/2016,639,979,809.00
+visteon,Visteon,Average Talk Time,1/1/2015,684,957,820.50
+visteon,Visteon,Average Talk Time,2/1/2015,658,869,763.50
+visteon,Visteon,Average Talk Time,3/1/2015,45,640,342.50
+visteon,Visteon,Average Talk Time,4/1/2015,654,829,741.50
+visteon,Visteon,Average Talk Time,5/1/2015,767,825,796.00
+visteon,Visteon,Average Talk Time,6/1/2015,959,997,978.00
+visteon,Visteon,Average Talk Time,7/1/2015,80,562,321.00
+visteon,Visteon,Average Talk Time,8/1/2015,122,871,496.50
+visteon,Visteon,Average Talk Time,9/1/2015,28,167,97.50
+visteon,Visteon,Average Talk Time,10/1/2015,675,722,698.50
+visteon,Visteon,Average Talk Time,11/1/2015,956,958,957.00
+visteon,Visteon,Average Talk Time,12/1/2015,570,882,726.00
+visteon,Visteon,Average Talk Time,1/1/2016,225,272,248.50
+visteon,Visteon,Average Talk Time,2/1/2016,945,986,965.50
+visteon,Visteon,Average Talk Time,3/1/2016,65,552,308.50
+visteon,Visteon,Average Talk Time,4/1/2016,150,217,183.50
+visteon,Visteon,Average Talk Time,5/1/2016,151,691,421.00
+visteon,Visteon,Average Talk Time,6/1/2016,349,435,392.00
+visteon,Visteon,Average Talk Time,7/1/2016,716,973,844.50
+visteon,Visteon,Average Talk Time,8/1/2016,89,265,177.00
+visteon,Visteon,Average Wrap Time,1/1/2015,944,982,963.00
+visteon,Visteon,Average Wrap Time,2/1/2015,114,842,478.00
+visteon,Visteon,Average Wrap Time,3/1/2015,388,682,535.00
+visteon,Visteon,Average Wrap Time,4/1/2015,185,583,384.00
+visteon,Visteon,Average Wrap Time,5/1/2015,459,832,645.50
+visteon,Visteon,Average Wrap Time,6/1/2015,108,735,421.50
+visteon,Visteon,Average Wrap Time,7/1/2015,83,701,392.00
+visteon,Visteon,Average Wrap Time,8/1/2015,258,809,533.50
+visteon,Visteon,Average Wrap Time,9/1/2015,99,950,524.50
+visteon,Visteon,Average Wrap Time,10/1/2015,612,681,646.50
+visteon,Visteon,Average Wrap Time,11/1/2015,22,409,215.50
+visteon,Visteon,Average Wrap Time,12/1/2015,366,695,530.50
+visteon,Visteon,Average Wrap Time,1/1/2016,258,839,548.50
+visteon,Visteon,Average Wrap Time,2/1/2016,752,933,842.50
+visteon,Visteon,Average Wrap Time,3/1/2016,607,840,723.50
+visteon,Visteon,Average Wrap Time,4/1/2016,710,766,738.00
+visteon,Visteon,Average Wrap Time,5/1/2016,681,696,688.50
+visteon,Visteon,Average Wrap Time,6/1/2016,64,804,434.00
+visteon,Visteon,Average Wrap Time,7/1/2016,418,966,692.00
+visteon,Visteon,Average Wrap Time,8/1/2016,19,801,410.00
+visteon,Visteon,Chat Service Level,1/1/2015,746,774,0.96
+visteon,Visteon,Chat Service Level,2/1/2015,889,920,0.97
+visteon,Visteon,Chat Service Level,3/1/2015,67,115,0.58
+visteon,Visteon,Chat Service Level,4/1/2015,713,823,0.87
+visteon,Visteon,Chat Service Level,5/1/2015,734,985,0.75
+visteon,Visteon,Chat Service Level,6/1/2015,868,935,0.93
+visteon,Visteon,Chat Service Level,7/1/2015,7,768,0.01
+visteon,Visteon,Chat Service Level,8/1/2015,316,405,0.78
+visteon,Visteon,Chat Service Level,9/1/2015,194,616,0.31
+visteon,Visteon,Chat Service Level,10/1/2015,938,961,0.98
+visteon,Visteon,Chat Service Level,11/1/2015,642,879,0.73
+visteon,Visteon,Chat Service Level,12/1/2015,439,692,0.63
+visteon,Visteon,Chat Service Level,1/1/2016,240,323,0.74
+visteon,Visteon,Chat Service Level,2/1/2016,564,872,0.65
+visteon,Visteon,Chat Service Level,3/1/2016,245,965,0.25
+visteon,Visteon,Chat Service Level,4/1/2016,905,914,0.99
+visteon,Visteon,Chat Service Level,5/1/2016,74,938,0.08
+visteon,Visteon,Chat Service Level,6/1/2016,953,961,0.99
+visteon,Visteon,Chat Service Level,7/1/2016,523,876,0.60
+visteon,Visteon,Chat Service Level,8/1/2016,747,949,0.79
+visteon,Visteon,First Call Closure,1/1/2015,975,988,0.99
+visteon,Visteon,First Call Closure,2/1/2015,347,948,0.37
+visteon,Visteon,First Call Closure,3/1/2015,220,854,0.26
+visteon,Visteon,First Call Closure,4/1/2015,993,996,1.00
+visteon,Visteon,First Call Closure,5/1/2015,563,990,0.57
+visteon,Visteon,First Call Closure,6/1/2015,710,880,0.81
+visteon,Visteon,First Call Closure,7/1/2015,533,692,0.77
+visteon,Visteon,First Call Closure,8/1/2015,448,978,0.46
+visteon,Visteon,First Call Closure,9/1/2015,343,378,0.91
+visteon,Visteon,First Call Closure,10/1/2015,462,591,0.78
+visteon,Visteon,First Call Closure,11/1/2015,208,501,0.42
+visteon,Visteon,First Call Closure,12/1/2015,541,899,0.60
+visteon,Visteon,First Call Closure,1/1/2016,170,525,0.32
+visteon,Visteon,First Call Closure,2/1/2016,900,920,0.98
+visteon,Visteon,First Call Closure,3/1/2016,200,969,0.21
+visteon,Visteon,First Call Closure,4/1/2016,637,792,0.80
+visteon,Visteon,First Call Closure,5/1/2016,664,786,0.84
+visteon,Visteon,First Call Closure,6/1/2016,945,978,0.97
+visteon,Visteon,First Call Closure,7/1/2016,304,595,0.51
+visteon,Visteon,First Call Closure,8/1/2016,424,628,0.68
+visteon,Visteon,First Tier Closure,1/1/2015,392,610,0.64
+visteon,Visteon,First Tier Closure,2/1/2015,98,806,0.12
+visteon,Visteon,First Tier Closure,3/1/2015,746,995,0.75
+visteon,Visteon,First Tier Closure,4/1/2015,220,357,0.62
+visteon,Visteon,First Tier Closure,5/1/2015,467,637,0.73
+visteon,Visteon,First Tier Closure,6/1/2015,239,716,0.33
+visteon,Visteon,First Tier Closure,7/1/2015,643,862,0.75
+visteon,Visteon,First Tier Closure,8/1/2015,848,863,0.98
+visteon,Visteon,First Tier Closure,9/1/2015,558,933,0.60
+visteon,Visteon,First Tier Closure,10/1/2015,256,391,0.65
+visteon,Visteon,First Tier Closure,11/1/2015,549,951,0.58
+visteon,Visteon,First Tier Closure,12/1/2015,283,408,0.69
+visteon,Visteon,First Tier Closure,1/1/2016,409,725,0.56
+visteon,Visteon,First Tier Closure,2/1/2016,491,882,0.56
+visteon,Visteon,First Tier Closure,3/1/2016,30,917,0.03
+visteon,Visteon,First Tier Closure,4/1/2016,857,866,0.99
+visteon,Visteon,First Tier Closure,5/1/2016,446,517,0.86
+visteon,Visteon,First Tier Closure,6/1/2016,619,977,0.63
+visteon,Visteon,First Tier Closure,7/1/2016,828,851,0.97
+visteon,Visteon,First Tier Closure,8/1/2016,726,868,0.84
+visteon,Visteon,Inbound Call Volume,1/1/2015,503,612,0.82
+visteon,Visteon,Inbound Call Volume,2/1/2015,978,990,0.99
+visteon,Visteon,Inbound Call Volume,3/1/2015,588,757,0.78
+visteon,Visteon,Inbound Call Volume,4/1/2015,129,582,0.22
+visteon,Visteon,Inbound Call Volume,5/1/2015,597,875,0.68
+visteon,Visteon,Inbound Call Volume,6/1/2015,704,829,0.85
+visteon,Visteon,Inbound Call Volume,7/1/2015,85,651,0.13
+visteon,Visteon,Inbound Call Volume,8/1/2015,744,988,0.75
+visteon,Visteon,Inbound Call Volume,9/1/2015,411,575,0.71
+visteon,Visteon,Inbound Call Volume,10/1/2015,994,998,1.00
+visteon,Visteon,Inbound Call Volume,11/1/2015,452,907,0.50
+visteon,Visteon,Inbound Call Volume,12/1/2015,636,823,0.77
+visteon,Visteon,Inbound Call Volume,1/1/2016,545,878,0.62
+visteon,Visteon,Inbound Call Volume,2/1/2016,399,782,0.51
+visteon,Visteon,Inbound Call Volume,3/1/2016,646,816,0.79
+visteon,Visteon,Inbound Call Volume,4/1/2016,102,959,0.11
+visteon,Visteon,Inbound Call Volume,5/1/2016,377,581,0.65
+visteon,Visteon,Inbound Call Volume,6/1/2016,965,988,0.98
+visteon,Visteon,Inbound Call Volume,7/1/2016,746,758,0.98
+visteon,Visteon,Inbound Call Volume,8/1/2016,847,887,0.95
+visteon,Visteon,Phone Service Level,1/1/2015,978,999,0.98
+visteon,Visteon,Phone Service Level,2/1/2015,756,781,0.97
+visteon,Visteon,Phone Service Level,3/1/2015,119,720,0.17
+visteon,Visteon,Phone Service Level,4/1/2015,109,937,0.12
+visteon,Visteon,Phone Service Level,5/1/2015,965,989,0.98
+visteon,Visteon,Phone Service Level,6/1/2015,370,414,0.89
+visteon,Visteon,Phone Service Level,7/1/2015,134,726,0.18
+visteon,Visteon,Phone Service Level,8/1/2015,450,492,0.91
+visteon,Visteon,Phone Service Level,9/1/2015,241,818,0.29
+visteon,Visteon,Phone Service Level,10/1/2015,671,934,0.72
+visteon,Visteon,Phone Service Level,11/1/2015,942,955,0.99
+visteon,Visteon,Phone Service Level,12/1/2015,514,866,0.59
+visteon,Visteon,Phone Service Level,1/1/2016,82,486,0.17
+visteon,Visteon,Phone Service Level,2/1/2016,173,229,0.76
+visteon,Visteon,Phone Service Level,3/1/2016,102,355,0.29
+visteon,Visteon,Phone Service Level,4/1/2016,855,973,0.88
+visteon,Visteon,Phone Service Level,5/1/2016,109,450,0.24
+visteon,Visteon,Phone Service Level,6/1/2016,985,991,0.99
+visteon,Visteon,Phone Service Level,7/1/2016,442,829,0.53
+visteon,Visteon,Phone Service Level,8/1/2016,536,821,0.65
+visteon,Visteon,Web Service Level,1/1/2015,568,603,0.94
+visteon,Visteon,Web Service Level,2/1/2015,528,972,0.54
+visteon,Visteon,Web Service Level,3/1/2015,763,895,0.85
+visteon,Visteon,Web Service Level,4/1/2015,780,915,0.85
+visteon,Visteon,Web Service Level,5/1/2015,507,658,0.77
+visteon,Visteon,Web Service Level,6/1/2015,896,936,0.96
+visteon,Visteon,Web Service Level,7/1/2015,558,714,0.78
+visteon,Visteon,Web Service Level,8/1/2015,855,893,0.96
+visteon,Visteon,Web Service Level,9/1/2015,406,825,0.49
+visteon,Visteon,Web Service Level,10/1/2015,962,989,0.97
+visteon,Visteon,Web Service Level,11/1/2015,997,999,1.00
+visteon,Visteon,Web Service Level,12/1/2015,608,609,1.00
+visteon,Visteon,Web Service Level,1/1/2016,363,860,0.42
+visteon,Visteon,Web Service Level,2/1/2016,118,296,0.40
+visteon,Visteon,Web Service Level,3/1/2016,251,743,0.34
+visteon,Visteon,Web Service Level,4/1/2016,819,860,0.95
+visteon,Visteon,Web Service Level,5/1/2016,347,938,0.37
+visteon,Visteon,Web Service Level,6/1/2016,463,997,0.46
+visteon,Visteon,Web Service Level,7/1/2016,690,884,0.78
+visteon,Visteon,Web Service Level,8/1/2016,685,934,0.73

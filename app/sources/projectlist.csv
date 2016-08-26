@@ -1,9 +1,14 @@
 projText,projNumber,projComment,projIcon,projID
-Client 719,574,dsfgsrg,fa-automobile,client1
-Client 342,610,afgaer,fa-binoculars,client2
-Client 864,264,tg4,fa-bed,client3
-Client 674,914,twed,fa-coffee,client4
-Client 587,829,w,fa-gamepad,client5
-Client 845,382,34y,fa-key,client6
-Client 935,279,r,fa-ship,client7
-Client 634,230,th,fa-rocket,client8
+Acosta_ServiceDesk,907, ...,fa-automobile,acosta
+Amcor,310, ...,fa-binoculars,amcor
+Career Education Corporation,824, ...,fa-bed,cec
+Covance,832, ...,fa-coffee,covance
+Embraer,798, ...,fa-gamepad,embraer
+Ferro,334, ...,fa-key,ferro
+Louis Vuitton North America,463, ...,fa-ship,lvamerica
+MasterCard,457, ...,fa-rocket,mcard
+Novelis,159, ...,fa-fire-extinguisher,novelis
+Route One,471, ...,fa-fighter-jet,routeone
+Swagelok,196, ...,fa-shopping-bag,swagelok
+Town Sports International,736, ...,fa-magnet,tsi
+Visteon,835, ...,fa-heartbeat,visteon

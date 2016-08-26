@@ -22,7 +22,7 @@
 		<!-- endbuild -->
 
 	</head>
-	<body ng-style="::{background: getColor('default-primary-100-0.8')}">
+	<body>
 		<!--[if lte IE 8]>
 			<p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
 		<![endif]-->
@@ -82,11 +82,19 @@
 		<script src="bower_components/highcharts/modules/exporting.js"></script>
 		<script src="bower_components/angular-material/angular-material.js"></script>
 		<script src="bower_components/angular-http-auth/src/http-auth-interceptor.js"></script>
+		<script src="bower_components/angular-uuid4/angular-uuid4.js"></script>
+		<script src="bower_components/moment/moment.js"></script>
+		<script src="bower_components/pluralize/pluralize.js"></script>
+		<script src="bower_components/validate/validate.js"></script>
+		<script src="bower_components/parse/parse.min.js"></script>
+		<script src="bower_components/angular-jsonapi/dist/angular-jsonapi.js"></script>
 		<!-- endbower -->
 		<!-- endbuild -->
 
 				<!-- build:js({.tmp,app}) scripts/scripts.js -->
+				
 				<script src="scripts/app.js"></script>
+				<script src="resources/jobs.factory.js"></script>
 				<script src="scripts/services/authservice.js"></script>
 				<script src="scripts/services/datasources.js"></script>
 				<script src="scripts/directives/mudboxes.js"></script>
@@ -96,7 +104,7 @@
 				<script src="scripts/controllers/global.js"></script>
 				<script src="scripts/controllers/entry.js"></script>
 				<script src="scripts/controllers/login.js"></script>
-				
+				<script src="scripts/app.run.js"></script>
 
 				<!-- endbuild -->
 

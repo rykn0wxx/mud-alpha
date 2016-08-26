@@ -41,6 +41,15 @@ body {
 	top: 0;
 	left: 0;
 	height: 100%;
+	background: @body-bg;
+	color: @text-color;
+	background: linear-gradient(270deg, #eaf2f8, #d5f5e3, #fadbd8);
+	background-size: 150% 150%;
+
+	-webkit-animation: bg-moving 30s ease infinite;
+	-moz-animation: bg-moving 30s ease infinite;
+	-o-animation: bg-moving 30s ease infinite;
+	animation: bg-moving 30s ease infinite;
 }
 
 .container {

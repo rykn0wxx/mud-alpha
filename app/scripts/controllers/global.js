@@ -22,5 +22,5 @@ function ($scope, $mdColors, $rootScope, $location, $w) {
 		$scope.currentNavItem = $location.path().substr(1);
 	});
 	
-	console.log($mdColors);
+	
 }]);

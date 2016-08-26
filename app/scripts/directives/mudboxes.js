@@ -17,7 +17,6 @@ angular.module('mudAlphaApp')
 		return function postLink(scope, element, attr, ctrl) {
 			$mdUtil.initOptionalProperties(scope, attr);
 			$mdTheming(element);
-			
 		};
 	}
 
