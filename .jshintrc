@@ -13,6 +13,7 @@
   "globals": {
     "angular": false,
 		"$": true,
-		"window": true
+		"window": true,
+		"_": true
   }
 }

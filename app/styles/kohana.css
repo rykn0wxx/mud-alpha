@@ -179,6 +179,14 @@ td,
 th {
   padding: 0;
 }
+@font-face {
+  font-family: 'Roboto Light';
+  src: url('fonts/roboto-300.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Roboto';
+  src: url('fonts/roboto-400.woff2') format('woff2');
+}
 /*********************************************
  * Hacked: Mixins
  *********************************************/
@@ -2010,6 +2018,14 @@ body {
 .wrapper:after {
   clear: both;
 }
+.wrapper:before,
+.wrapper:after {
+  content: " ";
+  display: table;
+}
+.wrapper:after {
+  clear: both;
+}
 .fa {
   transform: translate(0, 0);
 }
@@ -2055,6 +2071,39 @@ body {
 }
 md-tooltip .md-content {
   background: rgba(0, 0, 0, 0.8);
+}
+._md-nav-bar-list {
+  transition: all 0.5s ease-in-out;
+}
+/* Page Header */
+.page-header {
+  margin: 20px 0;
+  font-size: 22px;
+  font-weight: 700;
+  transition: all 0.5s ease-in-out;
+}
+.page-header > small {
+  color: #666;
+  display: block;
+  margin-top: 5px;
+}
+.page-header h1,
+.page-header h2,
+.page-header h3,
+.page-header h4 {
+  margin: 0;
+  padding: 10px 15px 0 15px;
+}
+.page-header:hover {
+  box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.2);
+}
+.ma {
+  display: inline-block;
+  font: normal normal normal 14px FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 /*********************************************
  * Hacked: Header
@@ -2361,4 +2410,105 @@ md-card .md-card-image-xx {
 }
 md-card .btn-card {
   position: absolute;
+}
+/*********************************************
+ * Custom: Mud-Boxes
+ *********************************************/
+mud-boxes {
+  padding: 0;
+  display: block;
+  vertical-align: middle;
+  cursor: pointer;
+  min-width: 300px;
+}
+mud-boxes:before,
+mud-boxes:after {
+  content: " ";
+  display: table;
+}
+mud-boxes:after {
+  clear: both;
+}
+mud-boxes:before,
+mud-boxes:after {
+  content: " ";
+  display: table;
+}
+mud-boxes:after {
+  clear: both;
+}
+mud-boxes .info-box {
+  display: block;
+  min-height: 90px;
+  background: #fff;
+  width: 100%;
+  transition: all 0.5s ease-in-out;
+  box-shadow: 0 1px 6px 0 rgba(0, 0, 0, 0.12), 0 1px 6px 0 rgba(0, 0, 0, 0.12);
+  border-radius: 2px;
+  margin-bottom: 15px;
+}
+mud-boxes .info-box small {
+  font-size: 14px;
+}
+mud-boxes .info-box .progress {
+  background: rgba(0, 0, 0, 0.2);
+  margin: 5px -10px 5px -10px;
+  height: 2px;
+}
+mud-boxes .info-box .progress,
+mud-boxes .info-box .progress .progress-bar {
+  border-radius: 0;
+}
+mud-boxes .info-box .progress .progress-bar {
+  background: #fff;
+}
+mud-boxes .info-box:hover {
+  box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  color: red;
+}
+mud-boxes .info-box-icon {
+  border-top-left-radius: 2px;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 2px;
+  display: block;
+  float: left;
+  height: 90px;
+  width: 90px;
+  text-align: center;
+  font-size: 45px;
+  line-height: 90px;
+  background: rgba(0, 0, 0, 0.2);
+}
+mud-boxes .info-box-icon > img {
+  max-width: 100%;
+}
+mud-boxes .info-box-content {
+  padding: 5px 10px;
+  margin-left: 90px;
+}
+mud-boxes .info-box-number {
+  display: block;
+  font-weight: bold;
+  font-size: 18px;
+}
+mud-boxes .progress-description,
+mud-boxes .info-box-text {
+  display: block;
+  font-size: 14px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+mud-boxes .info-box-text {
+  text-transform: uppercase;
+}
+mud-boxes .info-box-text:hover {
+  text-decoration: none;
+}
+mud-boxes .info-box-more {
+  display: block;
+}
+mud-boxes .progress-description {
+  margin: 0;
 }
