@@ -4,22 +4,16 @@
 	</div>
 </div>
 
-<div layout="row" layout-wrap layout-margin layout-align="center center" class="rows">
+<div layout="row"  layout-wrap layout-margin layout-align="center center" class="rows">
 	
-	<mud-boxes mud-color="default-accent-900-0.8"
-		data-mud-theme = "md-primary"
-		data-mud-icon = "fa-bookmark-o"
-		data-mud-text = "Project 1"
-		data-mud-number = "123"
-		data-mud-comment = "Lorem Ipsum" >
-	</mud-boxes>
-
-	<mud-boxes mud-color="default-primary-800-0.8"
-		data-mud-theme = "md-primary"
-		data-mud-icon = "fa-bookmark-o"
-		data-mud-text = "Project 1"
-		data-mud-number = "123"
-		data-mud-comment = "Lorem Ipsum" >
+	<mud-boxes mud-color="{{proj.projColor}}"
+		data-mud-icon = "{{proj.projIcon}}"
+		data-mud-text = "{{proj.projText}}"
+		data-mud-number = "{{proj.projNumber}}"
+		data-mud-comment = "{{proj.projComment}}"
+		data-mud-progress = "{{proj.randoming}}"
+		data-mud-link = "{{proj.projID}}"
+		ng-repeat="proj in about.data">
 	</mud-boxes>
 
 </div>

@@ -180,15 +180,38 @@ th {
   padding: 0;
 }
 @font-face {
-  font-family: 'Roboto Light';
-  src: url('fonts/roboto-300.woff2') format('woff2');
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lato Regular'), local('Lato-Regular'), url('../fonts/lato-400.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
 }
 @font-face {
-  font-family: 'Roboto';
-  src: url('fonts/roboto-400.woff2') format('woff2');
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Lato Bold'), local('Lato-Bold'), url('../fonts/lato-700.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Lato Italic'), local('Lato-Italic'), url('../fonts/lato-400-i.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Lato Bold Italic'), local('Lato-BoldItalic'), url('../fonts/lato-700-i.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
 }
 /*********************************************
  * Hacked: Mixins
+ *********************************************/
+/*********************************************
+ * Hacked: Gradient
  *********************************************/
 /*********************************************
  * Hacked: Material Colors
@@ -1955,10 +1978,34 @@ input[type="button"].btn-block {
 /*********************************************
  * Hacked: Animations
  *********************************************/
+@keyframes remove {
+  from {
+    opacity: 1;
+    transform: scale(1);
+  }
+  20% {
+    opacity: 0.5;
+  }
+  to {
+    opacity: 0;
+    transform: scale(0.5);
+    display: none;
+  }
+}
+@keyframes blackblur {
+  from {
+    text-shadow: 0 0 72px rgba(0, 0, 0, 0.8);
+    color: rgba(0, 0, 0, 0.01);
+  }
+  to {
+    text-shadow: 0;
+  }
+}
 @keyframes activate {
   from {
     opacity: 0;
     transform: scale(0.1);
+    display: none;
   }
   50% {
     opacity: 0.5;
@@ -1966,6 +2013,7 @@ input[type="button"].btn-block {
   to {
     opacity: 1;
     transform: scale(1);
+    display: block !important;
   }
 }
 .fadeIn {
@@ -1995,18 +2043,34 @@ html {
   font-size: 10px;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
+html,
 body {
-  background: #bbdefb;
-  margin: 0;
-  padding: 0;
-  display: block;
-  border: 0px solid rgba(0, 0, 0, 0);
+  background: rgba(0, 0, 0, 0);
+  min-height: 100%;
+}
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+html {
+  position: static;
+  min-height: 100%;
+}
+body {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
 }
 .container {
   padding: 0;
 }
 .wrapper {
-  max-height: 100%;
+  min-height: 100%;
   position: relative;
   overflow: hidden;
 }
@@ -2025,6 +2089,68 @@ body {
 }
 .wrapper:after {
   clear: both;
+}
+.logging .wrapper,
+.logging .content-wrapper,
+.logging .content {
+  height: 100%;
+}
+.content-wrapper {
+  margin-top: 50px;
+  min-height: 100%;
+  z-index: 800;
+}
+.landing-head {
+  position: fixed;
+  top: 0;
+  height: 400px;
+  padding-top: 50px;
+}
+.landing-head > md-content {
+  position: fixed;
+  top: 0;
+  background: #263238;
+}
+.landing-head img {
+  border: 0px solid rgba(0, 0, 0, 0);
+  height: 400px;
+  width: 100%;
+}
+.header-nav {
+  background-attachment: scroll;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 50px;
+  z-index: 150;
+  margin-bottom: -50px;
+}
+.content {
+  min-height: 250px;
+  padding: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+input[type=text],
+textarea {
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -ms-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  outline: none;
+  padding: 3px 0px 3px 3px;
+  margin: 5px 1px 3px 0px;
+  border: 1px solid #DDDDDD;
+}
+input[type=text]:focus,
+textarea:focus {
+  box-shadow: 0 0 5px #51cbee;
+  padding: 3px 0px 3px 3px;
+  margin: 5px 1px 3px 0px;
+  border: 1px solid #51cbee;
 }
 .fa {
   transform: translate(0, 0);
@@ -2097,14 +2223,9 @@ md-tooltip .md-content {
 .page-header:hover {
   box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.2);
 }
-.ma {
-  display: inline-block;
-  font: normal normal normal 14px FontAwesome;
-  font-size: inherit;
-  text-rendering: auto;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+/*********************************************
+ * Hacked: Login page styles
+ *********************************************/
 /*********************************************
  * Hacked: Header
  *********************************************/
@@ -2139,6 +2260,16 @@ md-tooltip .md-content {
 /*********************************************
  * Hacked: Navbar
  *********************************************/
+/*
+.header-nav {
+  height: 50px;
+  z-index: 150;
+	position: fixed;
+  top: 0;
+	left: 0;
+	right: 0;
+}
+*/
 md-content.md-padding {
   padding: 5px 8px;
 }
@@ -2155,6 +2286,9 @@ md-nav-bar .md-button._md-nav-button.md-active {
 md-nav-bar .md-nav-item:hover .md-button {
   -webkit-box-shadow: 0 0 14px 0 rgba(0, 0, 0, 0.38);
   box-shadow: 0 0 14px 0 rgba(0, 0, 0, 0.38);
+}
+.md-content-shadow {
+  box-shadow: 0 0 1px 0 rgba(0, 0, 0, 0.7), 0 0 2px 2px rgba(0, 0, 0, 0.4), 0 0 2px 4px rgba(0, 0, 0, 0.3);
 }
 /*********************************************
  * Hacked: Button
@@ -2437,6 +2571,10 @@ mud-boxes:after {
 mud-boxes:after {
   clear: both;
 }
+mud-boxes:hover {
+  text-decoration: none !important;
+  outline: 0;
+}
 mud-boxes .info-box {
   display: block;
   min-height: 90px;
@@ -2461,10 +2599,11 @@ mud-boxes .info-box .progress .progress-bar {
 }
 mud-boxes .info-box .progress .progress-bar {
   background: #fff;
+  height: 2px;
 }
 mud-boxes .info-box:hover {
   box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  color: red;
+  text-decoration: none !important;
 }
 mud-boxes .info-box-icon {
   border-top-left-radius: 2px;
@@ -2510,5 +2649,132 @@ mud-boxes .info-box-more {
   display: block;
 }
 mud-boxes .progress-description {
+  margin: 0;
+}
+/*********************************************
+ * Custom: Style for Smoke master
+ *********************************************/
+.blur-img {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  background-color: #666;
+}
+.blur-img::before {
+  display: block;
+  min-width: 100%;
+  height: 100%;
+  background-image: url('../images/125H.jpg');
+  background-size: 100% 100%;
+  content: ' ';
+  -webkit-filter: blur(2px) grayscale(0.5);
+  -moz-filter: blur(2px) grayscale(0.5);
+  -ms-filter: blur(2px) grayscale(0.5);
+  -o-filter: blur(2px) grayscale(0.5);
+  filter: blur(2px) grayscale(0.5);
+}
+.avgrund-cover {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  visibility: hidden;
+  opacity: 0;
+  background: rgba(0, 0, 0, 0.5), rgba(227, 242, 253, 0.5);
+}
+.avgrund-contents {
+  position: absolute;
+  min-height: 100%;
+  min-width: 100%;
+  margin: 0;
+}
+.avgrund-contents:after {
+  clear: both;
+}
+.avgrund-popup {
+  position: relative;
+  width: 340px;
+  height: 130px;
+  left: 0;
+  top: -80%;
+  visibility: hidden;
+  opacity: 0;
+  z-index: 2;
+  padding: 20px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.18), 0 8px 16px rgba(0, 0, 0, 0.36), 0px 0px 20px rgba(0, 0, 0, 0.6);
+  border-radius: 3px;
+  -webkit-transform: scale(0.8);
+  -moz-transform: scale(0.8);
+  -ms-transform: scale(0.8);
+  -o-transform: scale(0.8);
+  transform: scale(0.8);
+}
+.avgrund-active {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+.avgrund-active h2 {
+  font-size: 30px;
+  line-height: 30px;
+  font-weight: 700;
+}
+.avgrund-active .avgrund-cover {
+  visibility: visible;
+  opacity: 1;
+}
+.avgrund-active .avgrund-contents {
+  position: relative;
+  max-width: 400px;
+  height: 100%;
+  margin: auto;
+  -webkit-filter: blur(2px) grayscale(0.5);
+  -moz-filter: blur(2px) grayscale(0.5);
+  -ms-filter: blur(2px) grayscale(0.5);
+  -o-filter: blur(2px) grayscale(0.5);
+  filter: blur(2px) grayscale(0.5);
+}
+.avgrund-active .avgrund-popup {
+  min-width: 440px;
+  height: auto;
+  visibility: visible;
+  opacity: 1;
+  margin-right: auto;
+  margin-left: auto;
+  background-image: -moz-linear-gradient(90deg, rgba(200, 200, 200, 0.5), rgba(100, 100, 100, 0.5), rgba(200, 200, 200, 0.6));
+  background-image: -webkit-linear-gradient(90deg, rgba(200, 200, 200, 0.5), rgba(100, 100, 100, 0.5), rgba(200, 200, 200, 0.6));
+  background-image: linear-gradient(0deg, rgba(200, 200, 200, 0.5), rgba(100, 100, 100, 0.5), rgba(200, 200, 200, 0.6));
+  -webkit-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  -o-transform: scale(1.1);
+  transform: scale(1.1);
+}
+.avgrund-active .avgrund-contents,
+.avgrund-active .avgrund-popup,
+.avgrund-active .avgrund-cover {
+  -webkit-transform-origin: 50% 50%;
+  -moz-transform-origin: 50% 50%;
+  -ms-transform-origin: 50% 50%;
+  -o-transform-origin: 50% 50%;
+  transform-origin: 50% 50%;
+  -webkit-transition: 0.3s all cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  -moz-transition: 0.3s all cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  -ms-transition: 0.3s all cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  -o-transition: 0.3s all cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  transition: 0.3s all cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+.zzz .blackblur {
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+  -webkit-animation: blackblur 3s 0.1s  2 alternate;
+  animation: blackblur 3s 0.1s  2 alternate;
+}
+/*********************************************
+ * Custom: Misc clasess
+ *********************************************/
+.no-mar {
   margin: 0;
 }

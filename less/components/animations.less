@@ -13,21 +13,45 @@
 	}
 }
 
+@keyframes remove {
+from {
+	opacity: 1;
+	transform:scale(1);
+}
+	20% {
+		opacity: 0.5;
+	}
+to {
+    opacity: 0;
+		transform:scale(0.5);
+    display: none;
+}}
+
+@keyframes blackblur {
+  from { 
+		text-shadow: 0 0 72px rgba(0,0,0,0.8); 
+		color: rgba(0,0,0,0.01); 
+	}
+  to { 
+		text-shadow: 0; 
+	}
+}
+
+
 @keyframes activate {
-  from {
+from {
     opacity: 0;
 		transform:scale(.1);
-  }
-	
+		display: none;
+}
 	50% {
 		opacity: 0.5;
 	}
-
-  to {
+to {
     opacity: 1;
-		transform:scale(1);
-  }
-}
+    transform:scale(1);
+    display: block !important;
+}}
 
 .fadeIn {
   animation-name: fadeIn;

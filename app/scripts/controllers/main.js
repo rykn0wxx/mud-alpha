@@ -8,7 +8,7 @@
  * Controller of the mudAlphaApp
  */
 angular.module('mudAlphaApp')
-.controller('MainCtrl', [function () {
+.controller('MainCtrl', ['AuthService', function (AuthService) {
 	this.awesomeThings = [
 		'HTML5 Boilerplate',
 		'AngularJS',

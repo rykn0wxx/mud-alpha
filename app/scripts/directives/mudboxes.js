@@ -9,7 +9,7 @@
 
 
 angular.module('mudAlphaApp')
-.directive('mudBoxes', ['$mdTheming', '$mdUtil', function($mdTheming, $mdUtil) {
+.directive('mudBoxes', ['$mdTheming', '$mdUtil', '$mdColors', function($mdTheming, $mdUtil, $mdColors) {
 	
 	function mudBoxesCompile(elem, attr) {
 		attr.usrTempl = null; 
@@ -17,6 +17,7 @@ angular.module('mudAlphaApp')
 		return function postLink(scope, element, attr, ctrl) {
 			$mdUtil.initOptionalProperties(scope, attr);
 			$mdTheming(element);
+			
 		};
 	}
 
@@ -28,7 +29,9 @@ angular.module('mudAlphaApp')
 			mudIcon: '@',
 			mudText: '@',
 			mudNumber: '@',
-			mudComment: '@'
+			mudComment: '@',
+			mudProgress: '@',
+			mudLink: '@'
 		},
 		restrict: 'E',
 		compile: mudBoxesCompile,
@@ -40,5 +43,8 @@ angular.module('mudAlphaApp')
 	var me = this;
 	me.$s = $s;
 	$s.mudMdColor = '';
+	me.formatMdColor = function() {
+		$s.mudMdColor = '::{backgroundColor: "' + $s.mudColor + '"}';
+	};
 
 }]);

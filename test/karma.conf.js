@@ -41,6 +41,7 @@ module.exports = function(config) {
       'bower_components/highcharts/modules/data.js',
       'bower_components/highcharts/modules/exporting.js',
       'bower_components/angular-material/angular-material.js',
+      'bower_components/angular-http-auth/src/http-auth-interceptor.js',
       'bower_components/angular-mocks/angular-mocks.js',
       // endbower
       'app/scripts/**/*.js',

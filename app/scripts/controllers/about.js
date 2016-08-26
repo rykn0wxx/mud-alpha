@@ -8,10 +8,12 @@
  * Controller of the mudAlphaApp
  */
 angular.module('mudAlphaApp')
-.controller('AboutCtrl', [function () {
-	this.awesomeThings = [
-		'HTML5 Boilerplate',
-		'AngularJS',
-		'Karma'
-	];
+.controller('AboutCtrl', ['$scope', 'Datangular', 'lodash', function ($scope, Datangular, _) {
+	var me = this;
+	me.$s = $scope;
+	 
+	Datangular.getProjectList().then(function(data) {
+		me.data = data;
+	});
+	
 }]);

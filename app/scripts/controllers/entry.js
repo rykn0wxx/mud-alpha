@@ -8,7 +8,12 @@
  * Controller of the mudAlphaApp
  */
 angular.module('mudAlphaApp')
-.controller('EntryCtrl', [function () {
+.controller('EntryCtrl', ['$scope', '$routeParams', function ($scope, $routeParams) {
+	var me = this;
+	me.$s = $scope;
+	
+	me.projid = $routeParams.id;
+	
 	this.awesomeThings = [
 		'HTML5 Boilerplate',
 		'AngularJS',

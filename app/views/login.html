@@ -1,0 +1,43 @@
+<div class="rows avgrund-active">
+	<article class="avgrund-contents">
+	  <div class="blur-img"></div>
+	</article>
+	<div class="avgrund-cover"></div>
+	<aside class="avgrund-popup">
+		<h3 class="smoke-master">CSM BPI and Reporting</h3>
+		<form name="myForm">
+		<div  layout="column">
+			<md-card>
+				<md-card-title>
+					<md-card-title-text>
+						<span class="md-subhead">Account Type</span>
+					</md-card-title-text>
+				</md-card-title>
+				<md-card-content>
+					<div layout="row" layout-align="center" flex>
+						<md-input-container flex="50">
+							<label>Enter your name</label>
+							<input name="name" ng-model="login.name" required />
+						</md-input-container>
+						
+						<md-input-container flex="50">
+							<label>Select one..</label>
+							<md-select name="usertype" ng-model="login.usertype" required>
+								<md-option><em>None</em></md-option>
+								<md-option ng-repeat="usropt in login.useroptions" ng-value="usropt.usr">
+									{{usropt.usr}}
+								</md-option>
+							</md-select> 
+						</md-input-container>
+					</div>
+					<div layout="row" layout-align="end" flex>
+						<md-progress-circular  ng-if="login.dataLoading" class="md-accent md-hue-1" ></md-progress-circular>
+						<md-button ng-disabled="myForm.$invalid || login.dataLoading" ng-click="login.logme()" class="md-primary md-raised md-hue-2">Save</md-button>
+					</div>
+				</md-card-content>
+			</md-card>
+		</div>
+		</form>
+		
+	</aside>
+</div>
